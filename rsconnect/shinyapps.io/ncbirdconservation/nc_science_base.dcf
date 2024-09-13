@@ -1,0 +1,12 @@
+name: nc_science_base
+title: nc_science_base
+username: ncbirdconservation
+account: ncbirdconservation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12703954
+bundleId: 9097677
+url: https://ncbirdconservation.shinyapps.io/nc_science_base/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
