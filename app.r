@@ -108,6 +108,14 @@ ui <- dashboardPage(
         box(
           width = NULL,
           solidHeader = TRUE,
+          title = "Related Items",
+          htmlOutput(
+            "entityRelatedItems"
+          )
+        ),
+        box(
+          width = NULL,
+          solidHeader = TRUE,
           title = "Tags",
           htmlOutput(
             "entityTags"
@@ -124,6 +132,9 @@ ui <- dashboardPage(
 ## Begin server code
 
 server <- function(input, output, session) {
+ 
+  ##########################################################################
+  # WATCH FOR URL PARAMETER CHANGES
   ## GET SERVER URL PARAMETERS (if they exist)
 
   observe({
@@ -142,8 +153,13 @@ server <- function(input, output, session) {
 
   rv_tag <- reactiveValues(id = NULL)
 
+ 
+  ##########################################################################
+  # OUTPUT SEARCH RESULTS
   searchResults <- reactive(
     {
+      # clear out previous search
+      # output$searchResults <- renderUI({})
       # when search changes, get hits.
       if (nchar(input$searchText) > 0){
 
@@ -176,8 +192,6 @@ server <- function(input, output, session) {
     }
   )
 
- 
-  # OUTPUT SEARCH RESULTS
   output$searchResults <- renderUI({
     req(searchResults())
     
@@ -187,7 +201,8 @@ server <- function(input, output, session) {
       lapply(1:length(searchResults()), function(i) {
             div(class="foundItem",
             a(
-              href = paste0("/?id=",ids[i]),
+              # href = paste0("/?id=",ids[i]), # testing
+              href = paste0("/nc_science_base/?id=",ids[i]), # production
               paste(titles[i])
               ))
           })
@@ -196,11 +211,12 @@ server <- function(input, output, session) {
     }
   })
 
+  ##########################################################################
   # whenever entity changes, populate fields
   observeEvent(
     rv_entity$id,
     {
-      if (!is.null(rv_entity$id)){
+      if (!is.null(rv_entity$id)) {
         
         filter <- sprintf(
             '{"id" : "%s"}',
@@ -215,31 +231,56 @@ server <- function(input, output, session) {
               '"files" : 1,',
               '"purpose" : 1,',
               '"citation" : 1,',
-              '"link.url" : 1,',
               '"tags" : 1,',
+              '"relatedItems" : 1,',
               '"spatial" : 1',
             '}'
             )
           )
         
+        # parse out tags
         tags <- as.data.frame(r$tags)
-        names <- tags$name
+        tnames <- tags$name
         output$entityTags <- renderUI({
-          lapply ( 1 : length(names), function(i){
-            print(names[i])
+          lapply ( 1 : length(tnames), function(i){
+            print(tnames[i])
             HTML(
               paste0(
                 '<a href="',
-                '/?tag=', 
-                names[i],
+                '/nc_science_base/?tag=', # PRODUCTION
+                # '/?tag=', # TESTING
+                tnames[i],
                 '"">',
-                names[i],
+                tnames[i],
                 '</a>, '
                 )
               )
           } )
           
         })
+        
+        # parse out related items
+        ri <- as.data.frame(r$relatedItems)
+        rinames <- ri$name
+        riids <- ri$id
+        print(ri$name)
+        output$entityRelatedItems <- renderUI({
+          lapply ( 1 : length(rinames), function(i){
+            # print(names[i])
+            span(
+                a(
+                  href = paste0(
+                    '/nc_science_base/?tag=', # PRODUCTION 
+                    # '/?id=', # TESTING 
+                    riids[i]
+                  ),
+                  rinames[i]
+                )
+                )
+          } )
+          
+        })
+
         # tags <- unnest(r$tags, cols = c("type", "scheme","name"))
         # print(typeof(tags))
         # print(tags)
