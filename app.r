@@ -21,6 +21,8 @@ if(!require(shinydashboard)) install.packages(
   "shinydashboard", repos = "http://cran.us.r-project.org")
 if(!require(tidyverse)) install.packages(
   "tidyverse", repos = "http://cran.us.r-project.org")
+if(!require(dplyr)) install.packages(
+  "dplyr", repos = "http://cran.us.r-project.org")
   if(!require(mongolite)) install.packages(
   "mongolite", repos = "http://cran.us.r-project.org")
 if(!require(htmltools)) install.packages(
@@ -129,12 +131,16 @@ server <- function(input, output, session) {
 
   if (!is.null(query[['id']])) {
     rv_entity$id <- query['id']
+  } else if (!is.null(query[['tag']])) {
+    rv_tag$id <- query['tag']
   }
 
   shiny::updateQueryString("", mode = "replace")
 })
 
-  rv_entity <- reactiveValues(id = NULL, content = NULL)
+  rv_entity <- reactiveValues(id = NULL)
+
+  rv_tag <- reactiveValues(id = NULL)
 
   searchResults <- reactive(
     {
@@ -170,6 +176,7 @@ server <- function(input, output, session) {
     }
   )
 
+ 
   # OUTPUT SEARCH RESULTS
   output$searchResults <- renderUI({
     req(searchResults())
@@ -209,28 +216,50 @@ server <- function(input, output, session) {
               '"purpose" : 1,',
               '"citation" : 1,',
               '"link.url" : 1,',
+              '"tags" : 1,',
               '"spatial" : 1',
             '}'
             )
           )
         
+        tags <- as.data.frame(r$tags)
+        names <- tags$name
+        output$entityTags <- renderUI({
+          lapply ( 1 : length(names), function(i){
+            print(names[i])
+            HTML(
+              paste0(
+                '<a href="',
+                '/?tag=', 
+                names[i],
+                '"">',
+                names[i],
+                '</a>, '
+                )
+              )
+          } )
+          
+        })
+        # tags <- unnest(r$tags, cols = c("type", "scheme","name"))
+        # print(typeof(tags))
+        # print(tags)
         # rec <- jsonlite::read_json(r)
         # print(rec)
 
 
         output$entityTitle <- renderUI(HTML(r$title))
         output$entitySummary <- renderUI(HTML(r$summary))
-        # output$downloadFile <- renderInfoBox({
-        #   infoBox(
-        #     "Download",
-        #     "",
-        #     icon = icon("download"),
-        #     color = "green"
-        #     )
-        # })
+        output$downloadFile <- renderInfoBox({
+          infoBox(
+            "Download",
+            "file",
+            icon = icon("download"),
+            color = "green",
+            fill = TRUE
+            )
+        })
         output$entityPurpose <- renderUI(HTML(r$purpose))
         output$entityCitation <- renderUI(HTML(r$citation))
-        output$entityTags <- renderUI(HTML(""))
 
         output$locMap <- renderLeaflet({
           leaflet() %>%
