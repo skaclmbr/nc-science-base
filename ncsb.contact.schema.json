@@ -1,0 +1,23 @@
+{
+    "$id": "https://example.com/contact.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Contact",
+    "description": "Contact record for authors and associated individuals.",
+    "required": [ "name", "type", "contactType"],
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "role" : {
+        "type" : "string",
+        "enum" : [ "primary", "associated"]
+      },
+      "contactType": {
+        "type" : "string",
+        "enum" : ["person", "organization"]
+      }
+    }
+  }
+  
+  

@@ -14,8 +14,6 @@
 
 if(!require(shiny)) install.packages(
   "shiny", repos = "http://cran.us.r-project.org")
-if(!require(shinyjs)) install.packages(
-  "shinyjs", repos = "http://cran.us.r-project.org")
 if(!require(shinyWidgets)) install.packages(
   "shinyWidgets", repos = "http://cran.us.r-project.org")
 
@@ -45,8 +43,6 @@ nc_center_zoom = 7
 
 sidebar <- dashboardSidebar(
     width = 350,
-    sidebarMenu(
-    inputId = "sidebar",
     menuItem(
       "Search",
       tabName = "search",
@@ -62,11 +58,9 @@ sidebar <- dashboardSidebar(
       tabName = "rrd",
       icon = shiny::icon("file")
     )
-    )
   )
 
 body <- dashboardBody(
-    tabItems(
     ## SEARCH FORM
     tabItem(
       tabName = "search",
@@ -154,17 +148,15 @@ body <- dashboardBody(
       )
 
     )
-    )
   )
 
 
 ui <- dashboardPage(
   skin = "green",
-  tags$script(src = "func.js"),
   dashboardHeader(
     title = "NC Wildlife ScienceBase",
     titleWidth = 350
-  ),
+    ),
   sidebar,
   body
 )
@@ -234,13 +226,6 @@ server <- function(input, output, session) {
     }
   )
 
-  clearSearch <- function(){
-    # clear out the search results
-    output$searchResults <- renderUI({
-      HTML("")
-    })
-  }
-
   output$searchResults <- renderUI({
     req(searchResults())
     
@@ -250,10 +235,10 @@ server <- function(input, output, session) {
       # print(ids)
       # print(titles)
       lapply(1:length(searchResults()), function(i) {
-            div(class = "foundItem",
+            div(class="foundItem",
             a(
-              href = paste0("/?id=", ids[i]), # testing
-              # href = paste0("/nc_science_base/?id=",ids[i]), # production
+              # href = paste0("/?id=",ids[i]), # testing
+              href = paste0("/nc_science_base/?id=",ids[i]), # production
               paste(titles[i])
               ))
           })
@@ -295,10 +280,6 @@ server <- function(input, output, session) {
         output$entityTags <- renderUI({
           lapply ( 1 : length(tnames), function(i){
             print(tnames[i])
-            # TODO:
-            # change this to a div, attach event listener to class,
-            # populate custom attribute "data-eid"
-            # run javascript function to change rv_entity$id when clicked
             HTML(
               paste0(
                 '<a href="',
@@ -366,10 +347,10 @@ server <- function(input, output, session) {
         output$downloadFile <- renderInfoBox(
           infoBox(
             "Download",
-            color = "green",
+            color="green",
             a(
               href="https://drive.google.com/file/d/1NcWhy1Lm0IzFu7lBBeidpa3pPsS_1XjT/view?usp=drive_link",
-              target = "_blank",
+              target="_blank",
               "Report")
           )
         )
@@ -394,17 +375,6 @@ server <- function(input, output, session) {
         })
 
       }
-
-      # print("clear search results")
-      # clearSearch()
-
-      # switch to results tab
-      print ("switch tabs")
-      updateTabItems(
-        session,
-        "sidebar",
-        "chiny-tab-rrd"
-      )
     })
 
   # output$entityDetails <- renderUI({

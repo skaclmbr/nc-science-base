@@ -1,0 +1,65 @@
+[
+    {
+        "$schema" : "ncbb.schema.json",
+        "id" : "nc-wildlife-action-plan-2020",
+        "title" : "North Carolina Wildlife Action Plan 2015",
+        "link" : "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan",
+        "summary" : "North Carolina's wildlife action plan describes conservation priorities for fish, wildlife, and habitats, especially for species and habitats at-risk of decline. The plan also explains the most concerning threats and impacts to species and habitats and outlines actions that can be implemented to address them. It also lists the numerous programs and efforts by partners and collaborators that support North Carolina's conservation priorities.",
+        "description" : "North Carolina's Wildlife Action Plan (WAP) is a comprehensive planning tool developed by the N.C. Wildlife Resources Commission to help conserve and enhance the state’s full array of fish and wildlife species and their habitats. State Wildlife Action Plans emerged from a mandate by the U.S. Congress that each state develop a comprehensive conservation strategy to be eligible for federal funding under the State Wildlife Grants program.\nSince submitting the state’s first WAP in 2005, North Carolina has received an average $1.3 million dollars annually to support implementation of the conservation actions laid out in the Plan. In large part these funds have been used to support the Commission’s Wildlife Diversity Program, which implements the WAP throughout North Carolina.\nThe 2015 WAP was developed in cooperation with numerous partners, including federal and state agencies, conservation organizations, and stakeholders. The Wildlife Commission received approval from the U.S. Fish & Wildlife Service for the comprehensive revision of the WAP on March 30, 2016.\nThe 2020 Addendum 1 is an interim revision to incorporate new web-based assessment tools, project results, species name and listing status changes, and revisions to the Species of Greatest Conservation Need (SGCN) list. Species of Greatest Conservation Need (SGCN) and other priority fish and wildlife can now be specifically targeted by carefully considering conservation or management options within essential habitats. The goal is to strategically target imperiled animals and their required habitats early, preventing them from becoming extinct. With the 2020 Addendum 1 to the NC Wildlife Action Plan, there are 483 SGCN listed in the Plan. This number includes amphibians, birds, crayfishes, freshwater fishes and mussels, mammals, reptiles, and terrestrial and aquatic snails evaluated by Wildlife Action Plan Taxa Teams of species experts. The SGCN also includes insect and marine species evaluated by others and determined to be a priority for conservation action. North Carolina’s WAP describes 17 river basins and 40 types of aquatic, wetland, and terrestrial natural communities found across the state that provide important habitat to fish and wildlife. The plan matches each SGCN to the habitat type or river basin where it is found, identifies the most important threats facing each habitat, and details the priority conservation actions required to protect and conserve these species and habitats.",
+        "version" : "2020",
+        "scope" : "state",
+        "owner" : {
+            "name" : "North Carolina Wildlife Resources Commission",
+            "contact" : {
+                "firstName" : "Cindy",
+                "lastName" : "Simpson",
+                "title" : "Wildlife Action Plan Coordinator",
+                "role" : "Coordinator",
+                "email" : "cindy.simpson@ncwildlife.gov"
+            }
+        },
+        "contacts": [
+            {
+                "firstName" : "Cindy",
+                "lastName" : "Simpson",
+                "title" : "Wildlife Action Plan Coordinator",
+                "role" : "Coordinator",
+                "email" : "cindy.simpson@ncwildlife.gov",
+                "organization" : "North Carolina Wildlife Resources Commission",
+                "active" : true
+            }
+        ],
+        "itemType" : "plan",
+        "files" : [
+            {
+                "name" : "NC Wildlife Action Plan 2020 Addendum 1",
+                "title" : "NC Wildlife Action Plan 2020 Addendum 1",
+                "contentType" : "application/pdf",
+                "downloadUri" : "https://www.ncwildlife.org/media/3838/download?attachment",
+                "url" : "https://www.ncwildlife.org/media/3838/download?attachment"
+            },
+            {
+                "name" : "NC Wildlife Action Plan 2020 Addendum 1 - Updated Chapters Only",
+                "title" : "NC Wildlife Action Plan 2020 Addendum 1 - Updated Chapters Only",
+                "contentType" : "application/pdf",
+                "downloadUri" : "https://www.ncwildlife.org/media/3838/download?attachment",
+                "url" : "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722"
+            },
+            {
+                "name" : "Appendix-GA1-1 Amphibians",
+                "title" : "Appendix-GA1-1 Amphibians",
+                "contentType" : "application/xlsx",
+                "downloadUri" : "https://www.ncwildlife.org/media/3837/download?attachment",
+                "url" : "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722"
+            },
+            {
+                "name" : "Appendix-GA1-2 Birds",
+                "title" : "Appendix-GA1-2 Birds",
+                "contentType" : "application/xlsx",
+                "downloadUri" : "https://www.ncwildlife.org/media/3836/download?attachment",
+                "url" : "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722"
+            }
+        ]
+
+    }
+]
