@@ -160,7 +160,11 @@ body <- dashboardBody(
 
 ui <- dashboardPage(
   skin = "green",
+<<<<<<< HEAD
   # tags$script(src = "func.js"),
+=======
+  tags$script(src = "func.js"),
+>>>>>>> 98cc64bdd7341a511526a50135f368278c0072f5
   dashboardHeader(
     title = "NC Wildlife ScienceBase",
     titleWidth = 350

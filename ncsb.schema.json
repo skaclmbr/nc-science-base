@@ -1,241 +1,132 @@
 {
-    "$schema": "https://json-schema.org/draft-07/schema#",
-    "$id": "https://ncpif.org/ncsb.schema.json",
-    "title": "NC Science Base",
-    "description": "Catalog of conservation science",
-    "type": "object",
-    "properties": {
-        "id": {
-            "type": "string",
-            "description": "Unique identifier for this record"
-        },
-        "title": {
-            "type": "string",
-            "description": "The title for the record."
-        },
-        "itemType": {
-            "$ref": "#/$defs/itemType"
-        },
-        "summary": {
-            "type": "string",
-            "description": "Short summary of the item."
-        },
-        "description": {
-            "type": "string",
-            "description": "Long description of the item."
-        },
-        "version": {
-            "type": "string"
-        },
-        "status": {
+    "$schema" : "https://json-schema.org/draft/2025-02/schema",
+    "$id" : "https://ncwildlife.gov/ncsciencebase.schema.json",
+    "title" : "NC Science Base",
+    "description" : "Catalog of conservation science",
+    "type" : "object",
+    "properties" : {
+        "id" : {
             "type" : "string",
-            "enum" : [
-                "active",
-                "inactive"
-            ]
+            "description" : "Unique identifier for this record"
         },
-        "link": {
+        "title" : {
+            "type" : "string",
+            "description" : "The title for the record."
+        },
+        "summary" : {
+            "type" : "string",
+            "description" : "Short summary of the item."
+        },
+        "description" : {
+            "type" : "string",
+            "description" : "Long description of the item."
+        },
+        "version" : {
             "type" : "string"
         },
-        "citation": {
-            "type": "string"
+        "link" : {
+            "description" : "Describes the URL where the metadata record can be found",
+            "type" : "string"
         },
-        "startDate": {
-            "type": "string",
-            "format": "date"
-        },
-        "endDate": {
-            "type": "string",
-            "format": "date"
-        },
-        "publicationDate": {
-            "type": "string",
-            "format": "date"
-        },
-        "owners": { 
-            "type": "array",
-            "items" : {
-                "$ref" : "#/$defs/contact"
+        "scope" : { "$ref" : "#/$defs/scope" },
+        "citation" : "string",
+        "owner" : {
+            "type" : "object",
+            "properties" : {
+                "name" : "string",
+                "contact" : { "$ref" : "#/$defs/contact" }
             }
         },
-        "contacts": {
-            "type": "array",
-            "items": {
-                "$ref": "#/$defs/contact"
-            },
-            "minItems": 1
+        "contacts" : {
+            "type" : "array",
+            "items" : { "$ref" : "#/$defs/contact" },
+            "minItems" : 1
         },
-        "reports": {
-            "type": "array",
-            "items": {
-                "type" : "object",
-                "properties": {
-                    "summary" : {"type": "string"},
-                    "publicationDate": {
-                        "type": "string",
-                        "format": "date"
-                    },
-                    "publicationSource" : {"type": "string"}
-                }
-            }
-        },
+        "itemType" : { "$ref" : "#/$defs/itemType" },
         "identifiers": {
-            "type": "array",
-            "items": {
-                "$ref": "#/$defs/identifier"
+            "type" : "array",
+            "items" : { "$ref" : "#/$defs/identifier" }
+        },
+        "relatedItems" : {
+            "type" : "array",
+            "items" : {
+                "type" : "object",
+                "properties" : {
+                    "title" : "string",
+                    "id" : {
+                        "type" : "string",
+                        "description" : "identifier corresponding to id"
+                    },
+                    "itemType" : { "$ref" : "#/$defs/itemType" }
+                } 
+
             }
         },
-        "ownerFullName": {"type" : "string"},
-        "ownerRole": {
-            "type": "string",
-            "description": "Relationship to this item."
-        },
-        "ownerOrganization": {"type" : "string"},
-        "ownerDivision": {"type" : "string"},
-        "ownerProgram": {"type" : "string"},
-        "ownerSection": {"type" : "string"},
-        "ownerTitle": {"type" : "string"},
-        "ownerEmail": {"type" : "string"},
-        "grantName": {
-            "type": "string"
-        },
-        "grantId": {
-            "type": "string"
-        },
-        "costCenter" : {
-            "type": "string"
-        },
-        "grantNotes": {
-            "type": "string"
-        },
-        "relatedSpecies": {
-            "type": "array",
-            "items": {
-                "$ref": "#/$defs/species"
-            }
-        },
-        "relatedHabitats": {
-            "type": "array",
-            "items": {
-                "$ref": "#/$defs/habitat"
-            }
-        },
-        "relatedItems": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "title": {
-                        "type": "string"
-                    },
-                    "id": {
-                        "type": "string",
-                        "description": "identifier corresponding to id"
-                    },
-                    "itemType": {
-                        "$ref": "#/$defs/itemType"
-                    },
-                    "relationship": {
-                        "type": "string"
-                    },
-                    "description": {
-                        "type": "string"
-                    },
-                    "link": {
-                        "$ref": "#/$defs/link"
-                    }
-                }
-            }
-        },
-        "files": {
-            "type": "array",
-            "items": {
-                "$ref": "#/$defs/file"
-            }
+        "files" : {
+            "type" : "array",
+            "items" : { "$ref" : "#/$defs/file"}
         },
         "spatial": {
-            "type": "object",
-            "properties": {
-                "representationalPoint": {
-                    "$ref": "#/$defs/point"
-                },
-                "boundingBox": {
-                    "type": "object",
-                    "properties": {
-                        "minX": {
-                            "$ref": "#/$defs/longitude"
-                        },
-                        "maxX": {
-                            "$ref": "#/$defs/longitude"
-                        },
-                        "minY": {
-                            "$ref": "#/$defs/latitude"
-                        },
-                        "maxY": {
-                            "$ref": "#/$defs/latitude"
-                        }
-                    }
-                }
-            },
-            "required": [
-                "representationalPoint"
-            ]
-        },
-        "tags": {
-            "type": "array",
-            "items": {
+            "representationalPoint" : { "$ref" : "#/$defs/point"},
+            "boundingBox" : {
                 "type" : "object",
-                "properties": {
-                    "tagtype": {
-                        "type": "string",
-                        "enum": [
+                "properties" : {
+                    "minX" : { "$ref" : "#/$defs/longitude" }, 
+                    "maxX" : { "$ref" : "#/$defs/longitude" },
+                    "minY" : { "$ref" : "#/$defs/latitude" }, 
+                    "maxY" : { "$ref" : "#/$defs/latitude" }
+                }
+            }
+
+        },
+        "tags" : {
+            "type" : "array",
+            "items" : {
+                "properties" : {
+                    "tagtype" : {
+                        "type" : "string",
+                        "enum" : [
                             "category",
                             "tag",
                             "theme",
                             "place"
                         ]
                     },
-                    "name": {
-                        "type": "string"
-                    }
+                    "name" : "string"
                 }
             }
         }
     },
-    "required": [
+    "required" : [
         "link",
         "id",
         "title",
         "summary"
     ],
-    "$defs": {
-        "contact": {
-            "type": "object",
-            "description": "Contact information",
-            "properties": {
-                "fullName": {"type" : "string"},
-                "firstName": {"type" : "string"},
-                "lastName": {"type" : "string"},
-                "role": {
-                    "type": "string",
-                    "description": "Relationship to this item."
+    "$defs" : {
+        "contact" : {
+            "type" : "object",
+            "description" : "Contact information",
+            "properties" : {
+                "fullName" : "string",
+                "firstName" : "string",
+                "lastName" : "string",
+                "role" : {
+                    "type" : "string",
+                    "description" : "Relationship to this item."
                 },
-                "organization": {"type" : "string"},
-                "division": {"type" : "string"},
-                "program": {"type" : "string"},
-                "section": {"type" : "string"},
-                "title": {"type" : "string"},
-                "email": {"type" : "string"},
-                "active": {"type" : "boolean"}
+                "organization" : "string",
+                "title" : "string",
+                "email" : "string",
+                "active" : "boolean"
             }
         },
-        "itemType": {
-            "type": "string",
-            "description": "Type of item",
-            "enum": [
+        "itemType" : {
+            "type" : "string",
+            "description" : "Type of item it represents",
+            "enum" : [
                 "project",
                 "organization",
-                "committee",
                 "priority",
                 "data",
                 "plan",
@@ -243,82 +134,73 @@
                 "research"
             ]
         },
-        "link": {
-            "type": "string",
-            "format": "uri"
+        "dates" : {
+            "type" : "array",
+            "items" : { "$ref" : "#/$defs/dateEntry"},
+            "minItems" : 1
         },
-        "identifier": {
-            "type": "object",
-            "properties": {
-                "type": {"type" : "string"},
-                "scheme": {"type" : "string"},
-                "key": {"type" : "string"}
+        "identifier" : {
+            "type" : "object",
+            "properties" : {
+                "type" : "string",
+                "scheme" : "string",
+                "key" : "string"
             }
         },
-        "point": {
+        "point" : {
             "type": "object",
             "description": "A geographical coordinate on a planet (most commonly Earth).",
             "properties": {
-                "latitude": {
-                    "$ref": "#/$defs/latitude"
-                },
-                "longitude": {
-                    "$ref": "#/$defs/longitude"
-                }
+                "latitude": { "$ref" : "#/$defs/latitude" },
+                "longitude": { "$ref" : "#/$defs/longitude" }
             },
-            "required": [
-                "latitude",
-                "longitude"
-            ]
+            "required": [ "latitude", "longitude" ]
         },
-        "latitude": {
-            "type": "number",
-            "minimum": -90,
-            "maximum": 90
+        "latitude" : {
+            "type" : "number",
+            "minimum" : -90,
+            "maximum" : 90
         },
-        "longitude": {
-            "type": "number",
-            "minimum": -180,
-            "maximum": 180
+        "longitude" : {
+            "type" : "number",
+            "minimum" : -180,
+            "maximum" : 180
         },
-        "scope": {
-            "type": "string",
-            "enum": [
+        "dateEntry" : {
+            "type" : "object",
+            "properties" : {
+                "type" : { 
+                    "type" : "string",
+                    "enum" : [
+                        "start date",
+                        "end date",
+                        "publication date",
+                        "revision date"
+                    ]
+                },
+                "date" : {
+                    "type" : "string",
+                    "format" : "date"
+                }
+            }
+        },
+        "scope" : {
+            "type" : "string",
+            "enum" : [
                 "municipal",
                 "county",
-                "mountains",
-                "piedmont",
-                "coast",
                 "state",
                 "country",
-                "continent",
                 "hemisphere",
-                "world",
-                "other"
+                "world"
             ]
         },
-        "file": {
-            "type" : "object",
-            "properties" : {
-                "name": {"type" : "string"},
-                "title": {"type" : "string"},
-                "contentType": {"type" : "string"},
-                "url": {"type" : "string"},
-                "downloadUri": {"type" : "string"}
-            }
-        },
-        "species": {
-            "type" : "object",
-            "properties" :{
-                "commonName": {"type" : "string"},
-                "scientificName": {"type" : "string"}
-            }
-        },
-        "habitat": {
-            "type" : "object",
-            "properties" : {
-                "name" : {"type" : "string"}
-            }
+        "file" : {
+            "name" : "string",
+            "title" : "string",
+            "contentType" : "string",
+            "url" : "string",
+            "downloadUri" : "string"
         }
     }
 }

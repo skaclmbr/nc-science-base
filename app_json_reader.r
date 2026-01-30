@@ -1,14 +1,12 @@
 library(shiny)
 library(jsonlite)
-library(httr)
 
 # JSON Editor Module UI
 jsonEditorUI <- function(id) {
   ns <- NS(id)
   tagList(
     fileInput(ns("json_file"), "Upload JSON File", accept = ".json"),
-    verbatimTextOutput(ns("json_text")),
-    # textAreaInput(ns("json_text"), "JSON Content", height = "300px"),
+    textAreaInput(ns("json_text"), "JSON Content", height = "300px"),
     actionButton(ns("save_json"), "Save JSON"),
     downloadButton(ns("download_json"), "Download JSON"),
     textInput(ns("key"), "Key"),
@@ -23,12 +21,6 @@ jsonEditorServer <- function(id) {
   moduleServer(id, function(input, output, session) {
     json_data <- reactiveVal(list())
     
-    output$json_text <- renderPrint({
-      schema_response <- GET("https://ncpif.org/ncsb.schema.json")
-      data <- fromJSON(rawToChar(schema_response$content))
-      print(data)
-      })
-
     observeEvent(input$json_file, {
       req(input$json_file)
       json_content <- fromJSON(input$json_file$datapath, flatten = TRUE)
