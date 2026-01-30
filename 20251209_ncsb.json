@@ -1,0 +1,531 @@
+[
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "nc-wildlife-action-plan-2020",
+        "title" : "North Carolina Wildlife Action Plan 2015",
+        "link" : "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan",
+        "summary" : "North Carolina's wildlife action plan describes conservation priorities for fish, wildlife, and habitats, especially for species and habitats at-risk of decline. The plan also explains the most concerning threats and impacts to species and habitats and outlines actions that can be implemented to address them. It also lists the numerous programs and efforts by partners and collaborators that support North Carolina's conservation priorities.",
+        "description" : "North Carolina's Wildlife Action Plan (WAP) is a comprehensive planning tool developed by the N.C. Wildlife Resources Commission to help conserve and enhance the state’s full array of fish and wildlife species and their habitats. State Wildlife Action Plans emerged from a mandate by the U.S. Congress that each state develop a comprehensive conservation strategy to be eligible for federal funding under the State Wildlife Grants program.\nSince submitting the state’s first WAP in 2005, North Carolina has received an average $1.3 million dollars annually to support implementation of the conservation actions laid out in the Plan. In large part these funds have been used to support the Commission’s Wildlife Diversity Program, which implements the WAP throughout North Carolina.\nThe 2015 WAP was developed in cooperation with numerous partners, including federal and state agencies, conservation organizations, and stakeholders. The Wildlife Commission received approval from the U.S. Fish & Wildlife Service for the comprehensive revision of the WAP on March 30, 2016.\nThe 2020 Addendum 1 is an interim revision to incorporate new web-based assessment tools, project results, species name and listing status changes, and revisions to the Species of Greatest Conservation Need (SGCN) list. Species of Greatest Conservation Need (SGCN) and other priority fish and wildlife can now be specifically targeted by carefully considering conservation or management options within essential habitats. The goal is to strategically target imperiled animals and their required habitats early, preventing them from becoming extinct. With the 2020 Addendum 1 to the NC Wildlife Action Plan, there are 483 SGCN listed in the Plan. This number includes amphibians, birds, crayfishes, freshwater fishes and mussels, mammals, reptiles, and terrestrial and aquatic snails evaluated by Wildlife Action Plan Taxa Teams of species experts. The SGCN also includes insect and marine species evaluated by others and determined to be a priority for conservation action. North Carolina’s WAP describes 17 river basins and 40 types of aquatic, wetland, and terrestrial natural communities found across the state that provide important habitat to fish and wildlife. The plan matches each SGCN to the habitat type or river basin where it is found, identifies the most important threats facing each habitat, and details the priority conservation actions required to protect and conserve these species and habitats.",
+        "version" : "2020",
+        "scope" : "state",
+        "owners" : [
+            {
+                "firstName" : "Cindy",
+                "lastName" : "Simpson",
+                "title" : "Wildlife Action Plan Coordinator",
+                "role" : "Coordinator",
+                "email" : "cindy.simpson@ncwildlife.gov",
+                "organization" : "North Carolina Wildlife Resources Commission"
+            }
+        ],
+        "contacts": [
+            {
+                "firstName" : "Cindy",
+                "lastName" : "Simpson",
+                "title" : "Wildlife Action Plan Coordinator",
+                "role" : "Coordinator",
+                "email" : "cindy.simpson@ncwildlife.gov",
+                "organization" : "North Carolina Wildlife Resources Commission",
+                "active" : true
+            }
+        ],
+        "itemType" : "plan",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Wildlife Resources Commission",
+                "id" : "north-carolina-wildlife-resources-commission",
+                "itemType" : "organization",
+                "relationship" : "owner"
+            }
+
+        ],
+        "files" : [
+            {
+                "name" : "NC Wildlife Action Plan 2020 Addendum 1",
+                "title" : "NC Wildlife Action Plan 2020 Addendum 1",
+                "contentType" : "application/pdf",
+                "downloadUri" : "https://www.ncwildlife.org/media/3838/download?attachment",
+                "url" : "https://www.ncwildlife.org/media/3838/download?attachment"
+            },
+            {
+                "name" : "NC Wildlife Action Plan 2020 Addendum 1 - Updated Chapters Only",
+                "title" : "NC Wildlife Action Plan 2020 Addendum 1 - Updated Chapters Only",
+                "contentType" : "application/pdf",
+                "downloadUri" : "https://www.ncwildlife.org/media/3838/download?attachment",
+                "url" : "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722"
+            },
+            {
+                "name" : "Appendix-GA1-1 Amphibians",
+                "title" : "Appendix-GA1-1 Amphibians",
+                "contentType" : "application/xlsx",
+                "downloadUri" : "https://www.ncwildlife.org/media/3837/download?attachment",
+                "url" : "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722"
+            },
+            {
+                "name" : "Appendix-GA1-2 Birds",
+                "title" : "Appendix-GA1-2 Birds",
+                "contentType" : "application/xlsx",
+                "downloadUri" : "https://www.ncwildlife.org/media/3836/download?attachment",
+                "url" : "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722"
+            }
+        ]
+
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "atlantic-flyway-council",
+        "title" : "Atlantic Flyway Council",
+        "link" : "https://www.fws.gov/media/atlantic-flyway-upcoming-meetings-and-calendar-events",
+        "scope" : "flyway",
+        "itemType" : "organization",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Wildlife Resources Commission",
+                "id" : "north-carolina-wildlife-resources-commission",
+                "itemType" : "organization",
+                "relationship" : "partner",
+                "link" : "https://ncwildlife.gov"
+            }
+        ]
+
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "nightjar-survey-network",
+        "title" : "Nightjar Survey Network",
+        "link" : "https://www.nightjars.org/",
+        "scope" : "continent",
+        "itemType" : "project",
+        "summary" : "",
+        "description" : "In recent years, conservationists and the general public have come to share a general sense that populations of nightjars - an elusive order of nocturnal and crepuscular aerial insectivores - are dramatically declining. However, there were no standardized data available to help describe these changes or to help with reversing population losses. This survey program was created by researchers at the Center for Conservation Biology in 2007 to gain a better understanding on population status of these birds by implementing a standardized approach across the nation that will help determine the magnitude and scale of population changes to inform conservation and management actions. The Nightjar Survey Network relies entirely on volunteer participation. The program is coordinated as a partnership between the Maine Natural History Observatory and Birds Canada with the support of partner organizations at state and local levels throughout the continent.",
+        "relatedItems" : [
+            {
+                "title" : "Maine Natural History Observatory",
+                "id" : "maine-natural-history-observatory",
+                "itemType" : "organization"
+            }, 
+            {
+                "title" : "North Carolina Nightjar Surveys",
+                "id" : "north-carolina-nightjar-surveys",
+                "itemType" : "project"
+            }
+        ]
+
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "title" : "North Carolina Nightjar Surveys",
+        "id" : "north-carolina-nightjar-surveys",
+        "itemType" : "project",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Wildlife Resources Commission",
+                "id" : "north-carolina-wildlife-resources-commission",
+                "itemType" : "organization"
+            },
+            {
+                "title" : "Nightjar Survey Network",
+                "id" : "nightjar-survey-network",
+                "itemType" : "project"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "title" : "American Association of Fish and Wildlife Agencies",
+        "id" : "american-association-of-fish-and-wildlife-agencies",
+        "itemType" : "organization",
+        "link" : "https://fishwildlife.org",
+        "scope" : "national",
+        "relatedItems" : [
+            {
+                "title" : "Bird Conservation Committee",
+                "id" : "afwa-bird-conservation-committee",
+                "itemType" : "committee"
+            },
+            {
+                "title" : "Agricultural Conservation Committee",
+                "id" : "afwa-agricultural-conservation-committee",
+                "itemType" : "committee"
+            },
+            {
+                "title" : "Program Joint Working Group",
+                "id" : "afwa-program-joint-working-group",
+                "itemType" : "working"
+            },
+            {
+                "title" : "AFWA PIF/Shorebird/Waterbird Working Group",
+                "id" : "afwa-pif-shorebird-waterbird-working-group",
+                "itemType" : "committee",
+                "relationship" : "partner"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "title" : "AFWA PIF/Shorebird/Waterbird Working Group",
+        "id" : "afwa-pif-shorebird-waterbird-working-group",
+        "itemType" : "committee",
+        "link" : "https://www.fishwildlife.org/afwa-acts/afwa-committees/partners-flightshorebirdwaterbird-working-group",
+        "scope" : "national",
+        "relatedItems" : [
+            {
+                "title" : "Bird Conservation Committee",
+                "id" : "afwa-bird-conservation-committee",
+                "itemType" : "committee"
+            },
+            {
+                "title" : "American Association of Fish and Wildlife Agencies",
+                "id" : "american-association-of-fish-and-wildlife-agencies",
+                "itemType" : "organization"
+            }
+
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "title" : "North Carolina Wildlife Resources Commission",
+        "id" : "north-carolina-wildlife-resources-commission",
+        "itemType" : "organization",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Nightjar Surveys",
+                "id" : "north-carolina-nightjar-surveys",
+                "itemType" : "project",
+                "relationship" : "owner"
+            },
+            {
+                "title" : "Nightjar Survey Network",
+                "id" : "nightjar-survey-network",
+                "itemType" : "project",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "Atlantic Flyway Council",
+                "id" : "atlantic-flyway-council",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "United States North American Bird Conservation Initiative",
+                "id" : "united-states-north-american-bird-conservation-intiative",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "North Carolina Partners in Flight",
+                "id" : "north-carolina-partners-in-flight",
+                "itemType" : "organization",
+                "relationship" : "owner"
+            },
+            {
+                "title" : "North Carolina Natural Heritage Program",
+                "id" : "north-carolina-natural-heritage-program",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "Peregrine Falcon Surveys",
+                "id" : "peregrine-falcon-surveys",
+                "itemType" : "project",
+                "relationship" : "owner"
+            },
+            {
+                "title" : "American Association of Fish and Wildlife Agencies",
+                "id" : "american-association-of-fish-and-wildlife-agencies",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "Partners in Flight",
+                "id" : "partners-in-flight",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "Partners in Flight Eastern Working Group",
+                "id" : "partners-in-flight-eastern-working-group",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "North Carolina Partners in Amphibian Conservation",
+                "id" : "north-carolina-partners-in-amphibian-conservation",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "North Carolina Bird Atlas 2021",
+                "id" : "north-carolina-bird-atlas-2021",
+                "itemType" : "project",
+                "relationship" : "owner"
+            },
+            {
+                "title" : "Wildlife Management Institute",
+                "id" : "wildlife-management-institute",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "AFWA Wildlife Viewing and Nature Tourism Subcommittee",
+                "id" : "afwa-wildlife-viewing-and-nature-tourism-subcommittee",
+                "itemType" : "committee",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "AFWA Bird Conservation Committee",
+                "id" : "afwa-bird-conservation-committee",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "AFWA PIF/Shorebird/Waterbird Working Group",
+                "id" : "afwa-pif-shorebird-waterbird-working-group",
+                "itemType" : "committee",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "AFC Waterbird Committee",
+                "id" : "afc-waterbird-committee",
+                "itemType" : "committee",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "AFC Raptor Committee",
+                "id" : "afc-raptor-committee",
+                "itemType" : "committee",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "AFC Landbird Committee",
+                "id" : "afc-landbird-committee",
+                "itemType" : "committee",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "Atlantic Coast Joint Venture",
+                "id" : "atlantic-coast-joint-venture",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "Appalachian Mountains Joint Venture",
+                "id" : "appalachian-mountains-joint-venture",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "AFC Shorebird Committee",
+                "id" : "afc-shorebird-committee",
+                "itemType" : "committee",
+                "relationship" : "partner"
+            }
+
+        ],
+        "spatial" : {
+            "representationalPoint" : {
+                "latitude" : 35.7596,
+                "longitude" : 79.0193
+            },
+            "boundingBox" : {
+                "minX" : -84.91,
+                "maxX" : -75.31,
+                "minY" : 33.05,
+                "maxY" : 37.55
+            }
+        }
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "maine-natural-history-observatory",
+        "title" : "Maine Natural History Observatory",
+        "link" : "",
+        "relatedItems" : [
+            {
+                "title" : "Nightjar Survey Network",
+                "id" : "nightjar-survey-network",
+                "itemType" : "project"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "afc-american-kestrel-working-group",
+        "title" : "Atlantic Flyway American Kestrel Working Group",
+        "itemType" : "organization",
+        "link" : "",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Wildlife Resources Commission",
+                "id" : "north-carolina-wildlife-resources-commission",
+                "itemType" : "organization"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "north-american-wateribrd-conservation-plan-2002",
+        "title" : "North American Waterbird Conservation Plan 2002",
+        "itemType" : "plan",
+        "link" : "",
+        "version" : "2002",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Wildlife Resources Commission",
+                "id" : "north-carolina-wildlife-resources-commission",
+                "itemType" : "organization"
+            },
+            {
+                "title" : "United States North American Bird Conservation Initiative",
+                "id" : "united-states-north-american-bird-conservation-intiative",
+                "itemType" : "organization"
+            },
+            {
+                "title" : "North American Waterbird Conservation Council",
+                "id" : "north-american-waterbird-conservation-council",
+                "itemType" : "organization"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "north-american-wateribrd-conservation-council",
+        "title" : "North American Waterbird Conservation Council",
+        "itemType" : "organization",
+        "link" : "",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Wildlife Resources Commission",
+                "id" : "north-carolina-wildlife-resources-commission",
+                "itemType" : "organization"
+            },
+            {
+                "title" : "United States Fish and Wildlife Service",
+                "id" : "united-states-fish-and-wildlife-service",
+                "itemType" : "organization"
+            },
+            {
+                "title" : "United States North American Bird Conservation Initiative",
+                "id" : "united-states-north-american-bird-conservation-intiative",
+                "itemType" : "organization"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "united-states-shorebird-conservation-plan-2001",
+        "title" : "United States Shorebird Conservation Plan 2001",
+        "link" : "",
+        "itemType" : "plan",
+        "version" : "2001",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Wildlife Resources Commission",
+                "id" : "north-carolina-wildlife-resources-commission",
+                "itemType" : "organization"
+            },
+            {
+                "title" : "United States Fish and Wildlife Service",
+                "id" : "united-states-fish-and-wildlife-service",
+                "itemType" : "organization"
+            },
+            {
+                "title" : "United States North American Bird Conservation Initiative",
+                "id" : "united-states-north-american-bird-conservation-intiative",
+                "itemType" : "organization"
+            },
+            {
+                "title" : "United States North American Bird Conservation Initiative",
+                "id" : "united-states-north-american-bird-conservation-intiative",
+                "itemType" : "organization"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "pif-landbird-conservation-plan-2016",
+        "title" : "PIF Landbird Conservation Plan 2016",
+        "itemType" : "plan",
+        "link" : "",
+        "version" : "2016",
+        "relatedItems" : [
+            {
+                "title" : "North Carolina Wildlife Resources Commission",
+                "id" : "north-carolina-wildlife-resources-commission",
+                "itemType" : "organization"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "vermont-ecosystem-studies",
+        "title" : "Vermont Ecosystem Studies",
+        "itemType" : "organization",
+        "link" : "",
+        "relatedItems" : [
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "black-rail-habitat-restoration-pilot-project-and-internship-at-alligator-river-nwr",
+        "title" : "Black Rail Habitat Restoration Pilot Project and Internship at Alligator River NWR",
+        "itemType" : "project",
+        "description" : "The eastern black rail is a sparrow sized secretive marsh bird that nests on or near the ground in dense vegetative cover over water or moist soil (USFWS 2018). They inhabit very shallowly flooded, densely vegetated salt, brackish, and freshwater marshes. They appear to tolerate a very narrow range of conditions within these habitats with the unifying features being persistent water coverage and extremely dense herbaceous vegetation. Too much or too little water at any time during the breeding season results in abandonment of the site (USFWS 2018). Declining populations across the Atlantic Coast range led to the USFWS listing the eastern black rail as threatened under the Endangered Species Act in 2020. Callback surveys conducted in 2017 and 2018 did detect black rails at Alligator River NWR, but we do not have current population estimates or understand associations with different habitat types. Discussions between USFWS and partners at working group meetings proposed additional efforts occur on the Refuge to evaluate the presence of black rails. One suggestion was to convert existing impoundments managed historically for wintering waterfowl through cooperative farming or maintenance of moist soil units. Efforts began in fall of 2021 to modify the Creef A1N impoundment. Additional maintenance actions including rehabilitation of the dikes, disking/grading, and the installation of a new water control structure under Peterson Road are scheduled for spring 2022 (late March-June). After these actions are completed, water will be put back in A1N immediately to initiate this experiment. Manipulation of water levels within this unit will be a proof-of-concept experiment to see if we can maintain shallow water areas year-round as semi-aquatic black rail habitat. Results will then inform the feasibility of converting other habitats across the Refuge complex for these declining protected species. Project objectives include: To convert existing impoundments managed historically for wintering waterfowl through cooperative farming or maintenance of moist soil units to shallow water impoundments for rails.",
+        "link" : "",
+        "relatedItems" : [
+            {
+                "title" : "American Bird Conservancy",
+                "id" : "american-bird-conservancy",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            },
+            {
+                "title" : "American Conservation Experience",
+                "id" : "american-conservation-experience",
+                "itemType" : "organization",
+                "relationship" : "partner"
+            }
+        ]
+    },
+    {
+        "$schema" : "https://ncpif.org/ncsb.schema.json",
+        "id" : "box-turtle-connection",
+        "title" : "Box Turtle Connection",
+        "itemType" : "project",
+        "summary" : "The Box Turtle Connection is a long-term study on Box Turtles (Terrapene carolina) in North Carolina. Our purpose is to learn more about the status and trends in Box Turtle populations, identify threats, and develop strategies for long term conservation of the species. Volunteer lay-scientists who make a long-term commitment to the project and are willing to be trained in data collection become Project Leaders. Each Project Leader (PL) manages data collection at a specific site, often these are places where they work like state parks but also include private properties. Turtles are permanently marked and measured by the PLs and data is entered into a password protected database managed by the NC Wildlife Resources Commission. The database is available to interested parties who submit requests to the Collaborative. See contact information on this website.",
+        "link" : "https://boxturtleconnection.org",
+        "scope" : "state",
+        "contacts" : [
+            {
+                "fullName" : "Gabrielle Graeter",
+                "firstName" : "Gabrielle",
+                "lastName" : "Graeter",
+                "role" : "lead",
+                "organization" : "North Carolina Wildlife Resources Commission",
+                "title" : "Mountain Biologist",
+                "email" : "gabrielle.graeter@ncwildlife.gov",
+                "active" : true
+            },
+            {
+                "fullName" : "Karen Clark",
+                "firstName" : "Karen",
+                "lastName" : "Clark",
+                "role" : "coordination",
+                "organization" : "North Carolina Wildlife Resources Commission",
+                "title" : "Coastal Science Support Specialist",
+                "email" : "karen.clark@ncwildlife.gov",
+                "active" : true
+            }
+        ],
+        "tags" : [
+            {
+                "tagtype" : "theme",
+                "name" : "volunteer"
+            },
+            {
+                "tagtype" : "tag",
+                "name" : "community science"
+            }
+        ]
+    }
+]

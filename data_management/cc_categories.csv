@@ -1,0 +1,2700 @@
+﻿item_id,category
+piping-plover,Species
+piping-plover,Bird
+piping-plover,Charadriiformes
+piping-plover,Charadriidae
+piping-plover,NC SGCN
+piping-plover,NC Management Concern
+velvet-scoter,Species
+velvet-scoter,Bird
+velvet-scoter,Anseriformes
+velvet-scoter,Anatidae
+velvet-scoter,NC SGCN
+velvet-scoter,NC Management Concern
+acadian-flycatcher,Species
+acadian-flycatcher,Bird
+acadian-flycatcher,Passeriformes
+acadian-flycatcher,Tyrannidae
+acadian-flycatcher,NC SGCN
+alder-flycatcher,Species
+alder-flycatcher,Bird
+alder-flycatcher,Passeriformes
+alder-flycatcher,Tyrannidae
+alder-flycatcher,NC SGCN
+american-avocet,Species
+american-avocet,Bird
+american-avocet,Charadriiformes
+american-avocet,Recurvirostridae
+american-avocet,NC SGCN
+american-black-duck,Species
+american-black-duck,Bird
+american-black-duck,Anseriformes
+american-black-duck,Anatidae
+american-black-duck,NC SGCN
+american-black-duck,NC Management Concern
+american-pipit,Species
+american-pipit,Bird
+american-pipit,Passeriformes
+american-pipit,Motacillidae
+american-pipit,NC Knowledge Concern
+american-redstart,Species
+american-redstart,Bird
+american-redstart,Passeriformes
+american-redstart,Parulidae
+american-robin,Species
+american-robin,Bird
+american-robin,Passeriformes
+american-robin,Turdidae
+american-wigeon,Species
+american-wigeon,Bird
+american-wigeon,Anseriformes
+american-wigeon,Anatidae
+american-wigeon,NC Management Concern
+american-woodcock,Species
+american-woodcock,Bird
+american-woodcock,Charadriiformes
+american-woodcock,Scolopacidae
+american-woodcock,NC Management Concern
+american-woodcock,NC Knowledge Concern
+bachman's-sparrow,Species
+bachman's-sparrow,Bird
+bachman's-sparrow,Passeriformes
+bachman's-sparrow,Passerellidae
+bachman's-sparrow,NC SGCN
+bald-eagle,Species
+bald-eagle,Bird
+bald-eagle,Accipitriformes
+bald-eagle,Accipitridae
+bald-eagle,NC SGCN
+bald-eagle,NC Management Concern
+baltimore-oriole,Species
+baltimore-oriole,Bird
+baltimore-oriole,Passeriformes
+baltimore-oriole,Icteridae
+belted-kingfisher,Bird
+belted-kingfisher,Species
+bewick's-wren,Bird
+bewick's-wren,Species
+black-bellied-plover,Bird
+black-bellied-plover,NC Knowledge Concern
+black-bellied-plover,NC Management Concern
+black-bellied-plover,NC SGCN
+black-bellied-plover,Species
+black-billed-cuckoo,Bird
+black-billed-cuckoo,NC Knowledge Concern
+black-billed-cuckoo,Species
+black-capped-chickadee,Bird
+black-capped-chickadee,NC Knowledge Concern
+black-capped-chickadee,Paridae
+black-capped-chickadee,Species
+black-crowned-night-heron,Bird
+black-crowned-night-heron,NC Knowledge Concern
+black-crowned-night-heron,NC SGCN
+black-crowned-night-heron,Species
+blackpoll-warbler,Bird
+blackpoll-warbler,Species
+black-scoter,Bird
+black-scoter,NC Management Concern
+black-scoter,Species
+black-skimmer,Bird
+black-skimmer,NC Management Concern
+black-skimmer,NC SGCN
+black-skimmer,Species
+black-throated-blue-warbler,Bird
+black-throated-blue-warbler,Species
+blue-gray-gnatcatcher,Bird
+blue-gray-gnatcatcher,Species
+blue-grosbeak,Bird
+blue-grosbeak,Species
+blue-jay,Bird
+blue-jay,Species
+red-shouldered-hawk,Bird
+red-shouldered-hawk,Species
+red-tailed-hawk,Bird
+red-tailed-hawk,Species
+red-winged-blackbird,Bird
+red-winged-blackbird,Species
+roseate-tern,Bird
+roseate-tern,Species
+royal-tern,Bird
+royal-tern,NC Management Concern
+royal-tern,NC SGCN
+royal-tern,Species
+ruby-crowned-kinglet,Bird
+ruby-crowned-kinglet,Species
+ruby-throated-hummingbird,Bird
+ruby-throated-hummingbird,NC Management Concern
+ruby-throated-hummingbird,Species
+ruddy-duck,Bird
+ruddy-duck,NC Management Concern
+ruddy-duck,Species
+rufous-hummingbird,Bird
+rufous-hummingbird,Species
+sanderling,Bird
+sanderling,NC SGCN
+sanderling,Species
+seaside-sparrow,Bird
+seaside-sparrow,NC Knowledge Concern
+seaside-sparrow,NC SGCN
+seaside-sparrow,Species
+sedge-wren,Bird
+sedge-wren,NC Knowledge Concern
+sedge-wren,Species
+semipalmated-plover,Bird
+semipalmated-plover,NC Knowledge Concern
+semipalmated-plover,Species
+semipalmated-sandpiper,Bird
+semipalmated-sandpiper,NC SGCN
+semipalmated-sandpiper,Species
+sharp-shinned-hawk,Bird
+sharp-shinned-hawk,Species
+short-eared-owl,Bird
+short-eared-owl,NC Knowledge Concern
+short-eared-owl,Species
+snow-goose,Bird
+snow-goose,NC Management Concern
+snow-goose,NC SGCN
+snow-goose,Species
+solitary-sandpiper,Bird
+solitary-sandpiper,Species
+sora,Bird
+sora,NC Knowledge Concern
+sora,Species
+stilt-sandpiper,Bird
+stilt-sandpiper,Species
+summer-tanager,Bird
+summer-tanager,Species
+surf-scoter,Bird
+surf-scoter,NC Management Concern
+surf-scoter,NC SGCN
+surf-scoter,Species
+swamp-sparrow,Bird
+swamp-sparrow,Species
+tufted-titmouse,Bird
+tufted-titmouse,Species
+tundra-swan,Bird
+tundra-swan,NC Management Concern
+tundra-swan,NC SGCN
+tundra-swan,Species
+upland-sandpiper,Bird
+upland-sandpiper,Species
+virginia-rail,Bird
+virginia-rail,NC Knowledge Concern
+virginia-rail,NC SGCN
+virginia-rail,Species
+western-sandpiper,Bird
+western-sandpiper,Species
+eastern-whip-poor-will,Bird
+eastern-whip-poor-will,Species
+white-breasted-nuthatch,Bird
+white-breasted-nuthatch,Species
+white-crowned-sparrow,Bird
+white-crowned-sparrow,Species
+white-eyed-vireo,Bird
+white-eyed-vireo,Species
+white-rumped-sandpiper,Bird
+white-rumped-sandpiper,Species
+white-throated-sparrow,Bird
+white-throated-sparrow,Species
+white-winged-scoter,Bird
+white-winged-scoter,NC Management Concern
+white-winged-scoter,NC SGCN
+white-winged-scoter,Species
+willow-flycatcher,Bird
+willow-flycatcher,NC Knowledge Concern
+willow-flycatcher,Species
+wilson's-plover,Bird
+wilson's-plover,NC Management Concern
+wilson's-plover,NC SGCN
+wilson's-plover,Species
+wilson's-snipe,Bird
+wilson's-snipe,NC Management Concern
+wilson's-snipe,Species
+winter-wren,Bird
+winter-wren,NC Knowledge Concern
+winter-wren,Species
+wood-stork,Bird
+wood-stork,NC SGCN
+wood-stork,Species
+wood-thrush,Bird
+wood-thrush,Species
+worm-eating-warbler,Bird
+worm-eating-warbler,NC Knowledge Concern
+worm-eating-warbler,NC SGCN
+worm-eating-warbler,Species
+yellow-billed-cuckoo,Bird
+yellow-billed-cuckoo,Species
+yellow-rumped-warbler,Bird
+yellow-rumped-warbler,NC Knowledge Concern
+yellow-rumped-warbler,Species
+yellow-throated-vireo,Bird
+yellow-throated-vireo,Species
+least-bittern,Bird
+least-bittern,NC Knowledge Concern
+least-bittern,NC SGCN
+least-bittern,Species
+yellow-warbler,Bird
+yellow-warbler,Species
+boat-tailed-grackle,Bird
+boat-tailed-grackle,Species
+bobolink,Bird
+bobolink,NC Knowledge Concern
+bobolink,NC SGCN
+bobolink,Species
+bonaparte's-gull,Bird
+bonaparte's-gull,Species
+brewer's-blackbird,Bird
+brewer's-blackbird,NC SGCN
+brewer's-blackbird,Species
+brown-thrasher,Bird
+brown-thrasher,Species
+bufflehead,Bird
+bufflehead,NC Management Concern
+bufflehead,Species
+canada-warbler,Bird
+canada-warbler,Species
+canvasback,Bird
+canvasback,NC Management Concern
+canvasback,NC SGCN
+canvasback,Species
+cape-may-warbler,Bird
+cape-may-warbler,NC Knowledge Concern
+cape-may-warbler,Species
+carolina-chickadee,Bird
+carolina-chickadee,Species
+carolina-wren,Bird
+carolina-wren,Species
+chimney-swift,Bird
+chimney-swift,Species
+chipping-sparrow,Bird
+chipping-sparrow,Species
+common-gallinule,Bird
+common-gallinule,NC Knowledge Concern
+common-gallinule,NC SGCN
+common-gallinule,Species
+common-merganser,Bird
+common-merganser,NC Knowledge Concern
+common-merganser,Species
+connecticut-warbler,Bird
+connecticut-warbler,Species
+dark-eyed-junco,Bird
+dark-eyed-junco,Species
+dickcissel,Bird
+dickcissel,NC Knowledge Concern
+dickcissel,Species
+double-crested-cormorant,Bird
+double-crested-cormorant,NC Management Concern
+double-crested-cormorant,NC SGCN
+double-crested-cormorant,Species
+dunlin,Bird
+dunlin,Species
+eastern-bluebird,Bird
+eastern-bluebird,Species
+eastern-kingbird,Bird
+eastern-kingbird,Species
+eastern-meadowlark,Bird
+eastern-meadowlark,Species
+painted-bunting,Bird
+painted-bunting,NC SGCN
+painted-bunting,Species
+eastern-towhee,Bird
+eastern-towhee,Species
+eastern-wood-pewee,Bird
+eastern-wood-pewee,Species
+european-starling,Bird
+european-starling,NC Management Concern
+european-starling,Species
+evening-grosbeak,Bird
+evening-grosbeak,NC SGCN
+evening-grosbeak,Species
+field-sparrow,Bird
+field-sparrow,Species
+golden-eagle,Bird
+golden-eagle,NC Knowledge Concern
+golden-eagle,Species
+fox-sparrow,Bird
+fox-sparrow,Species
+gadwall,Bird
+gadwall,NC Management Concern
+gadwall,NC SGCN
+gadwall,Species
+glossy-ibis,Bird
+glossy-ibis,NC Management Concern
+glossy-ibis,NC SGCN
+glossy-ibis,Species
+grasshopper-sparrow,Bird
+grasshopper-sparrow,Species
+gray-cheeked-thrush,Bird
+gray-cheeked-thrush,NC Knowledge Concern
+gray-cheeked-thrush,Species
+great-black-backed-gull,Bird
+great-black-backed-gull,NC Management Concern
+great-black-backed-gull,NC SGCN
+great-black-backed-gull,Species
+great-crested-flycatcher,Bird
+great-crested-flycatcher,Species
+great-egret,Bird
+great-egret,NC Management Concern
+great-egret,Species
+greater-scaup,Bird
+greater-scaup,NC Management Concern
+greater-scaup,Species
+greater-yellowlegs,Bird
+greater-yellowlegs,NC Knowledge Concern
+greater-yellowlegs,Species
+green-heron,Bird
+green-heron,NC Knowledge Concern
+green-heron,Species
+green-winged-teal,Bird
+green-winged-teal,NC Management Concern
+green-winged-teal,Species
+gull-billed-tern,Bird
+gull-billed-tern,NC SGCN
+gull-billed-tern,Species
+hairy-woodpecker,Bird
+hairy-woodpecker,Species
+hooded-merganser,Bird
+hooded-merganser,NC Management Concern
+hooded-merganser,Species
+horned-grebe,Bird
+horned-grebe,NC Knowledge Concern
+horned-grebe,Species
+house-wren,Bird
+house-wren,Species
+killdeer,Bird
+killdeer,Species
+kirtland's-warbler,Bird
+kirtland's-warbler,Species
+laughing-gull,Bird
+laughing-gull,Species
+least-flycatcher,Bird
+least-flycatcher,NC Knowledge Concern
+least-flycatcher,Species
+leconte's-sparrow,Bird
+leconte's-sparrow,NC Knowledge Concern
+leconte's-sparrow,NC SGCN
+leconte's-sparrow,Species
+loggerhead-shrike,Bird
+loggerhead-shrike,NC Knowledge Concern
+loggerhead-shrike,NC SGCN
+loggerhead-shrike,Species
+long-tailed-duck,Bird
+long-tailed-duck,NC Management Concern
+long-tailed-duck,NC SGCN
+long-tailed-duck,Species
+louisiana-waterthrush,Bird
+louisiana-waterthrush,NC SGCN
+louisiana-waterthrush,Species
+magnolia-warbler,Bird
+magnolia-warbler,NC Knowledge Concern
+magnolia-warbler,Species
+marbled-godwit,Bird
+marbled-godwit,NC Knowledge Concern
+marbled-godwit,NC Management Concern
+marbled-godwit,NC SGCN
+marbled-godwit,Species
+american-oystercatcher,Species
+american-oystercatcher,Bird
+american-oystercatcher,Charadriiformes
+american-oystercatcher,Haematopodidae
+american-oystercatcher,NC SGCN
+american-oystercatcher,NC Management Concern
+american-goldfinch,Species
+american-goldfinch,Bird
+american-goldfinch,Passeriformes
+american-goldfinch,Fringillidae
+american-bittern,Species
+american-bittern,Bird
+american-bittern,Pelecaniformes
+american-bittern,Ardeidae
+american-bittern,NC SGCN
+american-bittern,NC Knowledge Concern
+american-coot,Species
+american-coot,Bird
+american-coot,Gruiformes
+american-coot,Rallidae
+american-coot,NC Management Concern
+american-crow,Species
+american-crow,Bird
+american-crow,Passeriformes
+american-crow,Corvidae
+american-kestrel,Species
+american-kestrel,Bird
+american-kestrel,Falconiformes
+american-kestrel,Falconidae
+american-kestrel,NC SGCN
+anhinga,Species
+anhinga,Bird
+anhinga,Suliformes
+anhinga,Anhingidae
+bachman's-warbler,Species
+bachman's-warbler,Bird
+bachman's-warbler,Passeriformes
+bachman's-warbler,Parulidae
+bank-swallow,Bird
+bank-swallow,NC Knowledge Concern
+bank-swallow,NC SGCN
+bank-swallow,Species
+barn-owl,Bird
+barn-owl,NC Knowledge Concern
+barn-owl,NC SGCN
+barn-owl,Species
+barn-swallow,Bird
+barn-swallow,Species
+barred-owl,Bird
+barred-owl,Species
+bay-breasted-warbler,Bird
+bay-breasted-warbler,NC Knowledge Concern
+bay-breasted-warbler,Species
+black-and-white-warbler,Bird
+black-and-white-warbler,Species
+blackburnian-warbler,Bird
+blackburnian-warbler,NC Knowledge Concern
+blackburnian-warbler,NC SGCN
+blackburnian-warbler,Species
+black-necked-stilt,Bird
+black-necked-stilt,Species
+black-rail,Bird
+black-rail,NC Knowledge Concern
+black-rail,NC SGCN
+black-rail,Species
+black-throated-green-warbler,Bird
+black-throated-green-warbler,Species
+black-vulture,Bird
+black-vulture,Species
+blue-headed-vireo,Bird
+blue-headed-vireo,Species
+blue-winged-teal,Bird
+blue-winged-teal,NC Management Concern
+blue-winged-teal,Species
+blue-winged-warbler,Bird
+blue-winged-warbler,NC Knowledge Concern
+blue-winged-warbler,Species
+red-eyed-vireo,Bird
+red-eyed-vireo,Species
+redhead,Bird
+redhead,Species
+red-headed-woodpecker,Bird
+red-headed-woodpecker,NC SGCN
+red-headed-woodpecker,Species
+red-knot,Bird
+red-knot,NC Management Concern
+red-knot,NC SGCN
+red-knot,Species
+red-necked-phalarope,Bird
+red-necked-phalarope,NC Management Concern
+red-necked-phalarope,Species
+red-throated-loon,Bird
+red-throated-loon,Species
+ring-billed-gull,Bird
+ring-billed-gull,Species
+ring-necked-duck,Bird
+ring-necked-duck,NC Management Concern
+ring-necked-duck,Species
+rock-pigeon,Bird
+rock-pigeon,NC Management Concern
+rock-pigeon,Species
+rose-breasted-grosbeak,Bird
+rose-breasted-grosbeak,NC Knowledge Concern
+rose-breasted-grosbeak,Species
+ruddy-turnstone,Bird
+ruddy-turnstone,NC Management Concern
+ruddy-turnstone,NC SGCN
+ruddy-turnstone,Species
+ruffed-grouse,Bird
+ruffed-grouse,NC Management Concern
+ruffed-grouse,NC SGCN
+ruffed-grouse,Species
+rusty-blackbird,Bird
+rusty-blackbird,NC Knowledge Concern
+rusty-blackbird,NC SGCN
+rusty-blackbird,Species
+saltmarsh-sparrow,Bird
+saltmarsh-sparrow,NC Knowledge Concern
+saltmarsh-sparrow,NC SGCN
+saltmarsh-sparrow,Species
+sandwich-tern,Bird
+sandwich-tern,NC Management Concern
+sandwich-tern,NC SGCN
+sandwich-tern,Species
+savannah-sparrow,Bird
+savannah-sparrow,NC SGCN
+savannah-sparrow,Species
+scarlet-tanager,Bird
+scarlet-tanager,Species
+short-billed-dowitcher,Bird
+short-billed-dowitcher,NC Knowledge Concern
+short-billed-dowitcher,NC Management Concern
+short-billed-dowitcher,Species
+snowy-egret,Bird
+snowy-egret,NC Management Concern
+snowy-egret,NC SGCN
+snowy-egret,Species
+song-sparrow,Bird
+song-sparrow,Species
+spotted-sandpiper,Bird
+spotted-sandpiper,NC Knowledge Concern
+spotted-sandpiper,Species
+swainson's-thrush,Bird
+swainson's-thrush,NC Knowledge Concern
+swainson's-thrush,Species
+swainson's-warbler,Bird
+swainson's-warbler,NC Knowledge Concern
+swainson's-warbler,NC SGCN
+swainson's-warbler,Species
+swallow-tailed-kite,Bird
+swallow-tailed-kite,NC Knowledge Concern
+swallow-tailed-kite,NC SGCN
+swallow-tailed-kite,Species
+tennessee-warbler,Bird
+tennessee-warbler,NC Knowledge Concern
+tennessee-warbler,Species
+tree-swallow,Bird
+tree-swallow,NC Knowledge Concern
+tree-swallow,Species
+tricolored-heron,Bird
+tricolored-heron,NC Management Concern
+tricolored-heron,NC SGCN
+tricolored-heron,Species
+turkey-vulture,Bird
+turkey-vulture,Species
+veery,Bird
+veery,NC Knowledge Concern
+veery,NC SGCN
+veery,Species
+vesper-sparrow,Bird
+vesper-sparrow,NC SGCN
+vesper-sparrow,Species
+warbling-vireo,Bird
+warbling-vireo,NC Knowledge Concern
+warbling-vireo,NC Management Concern
+warbling-vireo,Species
+whimbrel,Bird
+whimbrel,NC Management Concern
+whimbrel,NC SGCN
+whimbrel,Species
+white-ibis,Bird
+white-ibis,NC Management Concern
+white-ibis,NC SGCN
+white-ibis,Species
+wild-turkey,Bird
+wild-turkey,NC Management Concern
+wild-turkey,Species
+willet,Bird
+willet,NC Management Concern
+willet,NC SGCN
+willet,Species
+wood-duck,Bird
+wood-duck,NC Management Concern
+wood-duck,Species
+yellow-bellied-sapsucker,Bird
+yellow-bellied-sapsucker,NC Knowledge Concern
+yellow-bellied-sapsucker,NC Management Concern
+yellow-bellied-sapsucker,Species
+yellow-breasted-chat,Bird
+yellow-breasted-chat,Species
+yellow-crowned-night-heron,Bird
+yellow-crowned-night-heron,NC Knowledge Concern
+yellow-crowned-night-heron,NC Management Concern
+yellow-crowned-night-heron,NC SGCN
+yellow-crowned-night-heron,Species
+yellow-rail,Bird
+yellow-rail,NC Knowledge Concern
+yellow-rail,NC SGCN
+yellow-rail,Species
+brant,Bird
+brant,NC Management Concern
+brant,NC SGCN
+brant,Species
+broad-winged-hawk,Bird
+broad-winged-hawk,Species
+brown-creeper,Bird
+brown-creeper,NC Knowledge Concern
+brown-creeper,Species
+brown-headed-cowbird,Bird
+brown-headed-cowbird,Species
+brown-headed-nuthatch,Bird
+brown-headed-nuthatch,NC SGCN
+brown-headed-nuthatch,Species
+brown-pelican,Bird
+brown-pelican,NC Management Concern
+brown-pelican,NC SGCN
+brown-pelican,Species
+canada-goose,Bird
+canada-goose,NC Management Concern
+canada-goose,Species
+caspian-tern,Bird
+caspian-tern,NC Management Concern
+caspian-tern,NC SGCN
+caspian-tern,Species
+cattle-egret,Bird
+cattle-egret,NC Management Concern
+cattle-egret,Species
+cedar-waxwing,Bird
+cedar-waxwing,Species
+cerulean-warbler,Bird
+cerulean-warbler,NC SGCN
+cerulean-warbler,Species
+chestnut-sided-warbler,Bird
+chestnut-sided-warbler,Species
+chuck-will's-widow,Bird
+chuck-will's-widow,Species
+clapper-rail,Bird
+clapper-rail,NC Knowledge Concern
+clapper-rail,NC SGCN
+clapper-rail,Species
+clay-colored-sparrow,Bird
+clay-colored-sparrow,NC SGCN
+clay-colored-sparrow,Species
+cliff-swallow,Bird
+cliff-swallow,Species
+common-goldeneye,Bird
+common-goldeneye,Species
+common-grackle,Bird
+common-grackle,Species
+common-loon,Bird
+common-loon,NC Knowledge Concern
+common-loon,NC Management Concern
+common-loon,Species
+common-nighthawk,Bird
+common-nighthawk,Species
+common-raven,Bird
+common-raven,NC Knowledge Concern
+common-raven,NC SGCN
+common-raven,Species
+common-tern,Bird
+common-tern,NC Management Concern
+common-tern,NC SGCN
+common-tern,Species
+common-yellowthroat,Bird
+common-yellowthroat,Species
+cooper's-hawk,Bird
+cooper's-hawk,NC Knowledge Concern
+cooper's-hawk,Species
+downy-woodpecker,Bird
+downy-woodpecker,Species
+eastern-phoebe,Bird
+eastern-phoebe,Species
+eastern-screech-owl,Bird
+eastern-screech-owl,Species
+fish-crow,Bird
+fish-crow,Species
+forster's-tern,Bird
+forster's-tern,NC Management Concern
+forster's-tern,NC SGCN
+forster's-tern,Species
+golden-crowned-kinglet,Bird
+golden-crowned-kinglet,NC Knowledge Concern
+golden-crowned-kinglet,Species
+golden-winged-warbler,Bird
+golden-winged-warbler,NC SGCN
+golden-winged-warbler,Species
+gray-catbird,Bird
+gray-catbird,Species
+great-blue-heron,Bird
+great-blue-heron,NC Management Concern
+great-blue-heron,Species
+great-horned-owl,Bird
+great-horned-owl,Species
+henslow's-sparrow,Bird
+henslow's-sparrow,NC SGCN
+henslow's-sparrow,Species
+hermit-thrush,Bird
+hermit-thrush,NC Knowledge Concern
+hermit-thrush,NC SGCN
+hermit-thrush,Species
+herring-gull,Bird
+herring-gull,NC Management Concern
+herring-gull,NC SGCN
+herring-gull,Species
+hooded-warbler,Bird
+hooded-warbler,Species
+horned-lark,Bird
+horned-lark,Species
+indigo-bunting,Bird
+indigo-bunting,Species
+ivory-billed-woodpecker,Bird
+ivory-billed-woodpecker,Species
+kentucky-warbler,Bird
+kentucky-warbler,NC SGCN
+kentucky-warbler,Species
+king-rail,Bird
+king-rail,NC Knowledge Concern
+king-rail,NC SGCN
+king-rail,Species
+lark-sparrow,Bird
+lark-sparrow,Species
+least-sandpiper,Bird
+least-sandpiper,Species
+least-tern,Bird
+least-tern,NC Management Concern
+least-tern,NC SGCN
+least-tern,Species
+lesser-scaup,Bird
+lesser-scaup,NC Management Concern
+lesser-scaup,Species
+lesser-yellowlegs,Bird
+lesser-yellowlegs,NC Knowledge Concern
+lesser-yellowlegs,Species
+lincoln's-sparrow,Bird
+lincoln's-sparrow,NC SGCN
+lincoln's-sparrow,Species
+little-blue-heron,Bird
+little-blue-heron,NC Management Concern
+little-blue-heron,NC SGCN
+little-blue-heron,Species
+long-billed-dowitcher,Bird
+long-billed-dowitcher,NC Knowledge Concern
+long-billed-dowitcher,NC Management Concern
+long-billed-dowitcher,Species
+merlin,Bird
+merlin,NC SGCN
+merlin,Species
+mississippi-kite,Bird
+mississippi-kite,NC Knowledge Concern
+mississippi-kite,Species
+nashville-warbler,Bird
+nashville-warbler,NC SGCN
+nashville-warbler,Species
+nelson's-sparrow,Bird
+nelson's-sparrow,NC Knowledge Concern
+nelson's-sparrow,NC SGCN
+nelson's-sparrow,Species
+northern-mockingbird,Bird
+northern-mockingbird,Species
+northern-rough-winged-swallow,Bird
+northern-rough-winged-swallow,Species
+northern-shoveler,Bird
+northern-shoveler,NC Management Concern
+northern-shoveler,Species
+olive-sided-flycatcher,Bird
+olive-sided-flycatcher,NC Knowledge Concern
+olive-sided-flycatcher,NC SGCN
+olive-sided-flycatcher,Species
+orange-crowned-warbler,Bird
+orange-crowned-warbler,NC Knowledge Concern
+orange-crowned-warbler,Species
+orchard-oriole,Bird
+orchard-oriole,Species
+osprey,Bird
+osprey,Species
+ovenbird,Bird
+ovenbird,Species
+pectoral-sandpiper,Bird
+pectoral-sandpiper,Species
+peregrine-falcon,Bird
+peregrine-falcon,NC Management Concern
+peregrine-falcon,NC SGCN
+peregrine-falcon,Species
+pine-siskin,Bird
+pine-siskin,NC Knowledge Concern
+pine-siskin,NC Management Concern
+pine-siskin,Species
+pine-warbler,Bird
+pine-warbler,Species
+prairie-warbler,Bird
+prairie-warbler,NC SGCN
+prairie-warbler,Species
+prothonotary-warbler,Bird
+prothonotary-warbler,NC SGCN
+prothonotary-warbler,Species
+red-bellied-woodpecker,Bird
+red-bellied-woodpecker,Species
+red-breasted-merganser,Bird
+red-breasted-merganser,NC Management Concern
+red-breasted-merganser,Species
+red-breasted-nuthatch,Bird
+red-breasted-nuthatch,NC Knowledge Concern
+red-breasted-nuthatch,Species
+reddish-egret,Bird
+reddish-egret,NC Knowledge Concern
+reddish-egret,NC Management Concern
+reddish-egret,Species
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-1,Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-1,NCWAP15 Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-1,Conservation Programs And Partnerships Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-2,Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-2,NCWAP15 Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-2,Conservation Programs And Partnerships Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-3,Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-3,NCWAP15 Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-3,Conservation Programs And Partnerships Priority
+ncwap15-4.3.3-conservation-programs-and-partnerships-priority-4,Priority
+ncwap15-4.3.3-conservation-programs-and-partnerships-priority-4,NCWAP15 Priority
+ncwap15-4.3.3-conservation-programs-and-partnerships-priority-4,Conservation Programs And Partnerships Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-5,Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-5,NCWAP15 Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-5,Conservation Programs And Partnerships Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-6,Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-6,NCWAP15 Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-6,Conservation Programs And Partnerships Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-7,Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-7,NCWAP15 Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-7,Conservation Programs And Partnerships Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-8,Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-8,NCWAP15 Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-8,Conservation Programs And Partnerships Priority
+ncwap15-4.3.4-conservation-programs-and-partnerships-priority-9,Priority
+ncwap15-4.3.4-conservation-programs-and-partnerships-priority-9,NCWAP15 Priority
+ncwap15-4.3.4-conservation-programs-and-partnerships-priority-9,Conservation Programs And Partnerships Priority
+ncwap15-4.3.4-conservation-programs-and-partnerships-priority-10,Priority
+ncwap15-4.3.4-conservation-programs-and-partnerships-priority-10,NCWAP15 Priority
+ncwap15-4.3.4-conservation-programs-and-partnerships-priority-10,Conservation Programs And Partnerships Priority
+ncwap15-4.3.6-conservation-programs-and-partnerships-priority-11,Priority
+ncwap15-4.3.6-conservation-programs-and-partnerships-priority-11,NCWAP15 Priority
+ncwap15-4.3.6-conservation-programs-and-partnerships-priority-11,Conservation Programs And Partnerships Priority
+ncwap15-4.4.6-conservation-programs-and-partnerships-priority-12,Priority
+ncwap15-4.4.6-conservation-programs-and-partnerships-priority-12,NCWAP15 Priority
+ncwap15-4.4.6-conservation-programs-and-partnerships-priority-12,Conservation Programs And Partnerships Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-13,Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-13,NCWAP15 Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-13,Conservation Programs And Partnerships Priority
+ncwap15-4.4.14-conservation-programs-and-partnerships-priority-14,Priority
+ncwap15-4.4.14-conservation-programs-and-partnerships-priority-14,NCWAP15 Priority
+ncwap15-4.4.14-conservation-programs-and-partnerships-priority-14,Conservation Programs And Partnerships Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-15,Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-15,NCWAP15 Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-15,Conservation Programs And Partnerships Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-16,Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-16,NCWAP15 Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-16,Conservation Programs And Partnerships Priority
+ncwap15-4.3.7-conservation-programs-and-partnerships-priority-17,Priority
+ncwap15-4.3.7-conservation-programs-and-partnerships-priority-17,NCWAP15 Priority
+ncwap15-4.3.7-conservation-programs-and-partnerships-priority-17,Conservation Programs And Partnerships Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-18,Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-18,NCWAP15 Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-18,Conservation Programs And Partnerships Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-19,Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-19,NCWAP15 Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-19,Conservation Programs And Partnerships Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-20,Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-20,NCWAP15 Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-20,Conservation Programs And Partnerships Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-21,Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-21,NCWAP15 Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-21,Conservation Programs And Partnerships Priority
+ncwap15-4.3.8-conservation-programs-and-partnerships-priority-22,Priority
+ncwap15-4.3.8-conservation-programs-and-partnerships-priority-22,NCWAP15 Priority
+ncwap15-4.3.8-conservation-programs-and-partnerships-priority-22,Conservation Programs And Partnerships Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-23,Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-23,NCWAP15 Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-23,Conservation Programs And Partnerships Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-24,Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-24,NCWAP15 Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-24,Conservation Programs And Partnerships Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-25,Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-25,NCWAP15 Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-25,Conservation Programs And Partnerships Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-26,Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-26,NCWAP15 Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-26,Conservation Programs And Partnerships Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-27,Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-27,NCWAP15 Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-27,Conservation Programs And Partnerships Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-28,Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-28,NCWAP15 Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-28,Conservation Programs And Partnerships Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-29,Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-29,NCWAP15 Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-29,Conservation Programs And Partnerships Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-30,Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-30,NCWAP15 Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-30,Conservation Programs And Partnerships Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-31,Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-31,NCWAP15 Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-31,Conservation Programs And Partnerships Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-32,Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-32,NCWAP15 Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-32,Conservation Programs And Partnerships Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-33,Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-33,NCWAP15 Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-33,Conservation Programs And Partnerships Priority
+ncwap15-4.3.10-conservation-programs-and-partnerships-priority-34,Priority
+ncwap15-4.3.10-conservation-programs-and-partnerships-priority-34,NCWAP15 Priority
+ncwap15-4.3.10-conservation-programs-and-partnerships-priority-34,Conservation Programs And Partnerships Priority
+ncwap15-4.2.3-conservation-programs-and-partnerships-priority-35,Priority
+ncwap15-4.2.3-conservation-programs-and-partnerships-priority-35,NCWAP15 Priority
+ncwap15-4.2.3-conservation-programs-and-partnerships-priority-35,Conservation Programs And Partnerships Priority
+ncwap15-4.2.4-conservation-programs-and-partnerships-priority-36,Priority
+ncwap15-4.2.4-conservation-programs-and-partnerships-priority-36,NCWAP15 Priority
+ncwap15-4.2.4-conservation-programs-and-partnerships-priority-36,Conservation Programs And Partnerships Priority
+ncwap15-4.4.4-management-practices-priority-37,Priority
+ncwap15-4.4.4-management-practices-priority-37,NCWAP15 Priority
+ncwap15-4.4.4-management-practices-priority-37,Management Practices Priority
+ncwap15-4.4.4-management-practices-priority-38,Priority
+ncwap15-4.4.4-management-practices-priority-38,NCWAP15 Priority
+ncwap15-4.4.4-management-practices-priority-38,Management Practices Priority
+ncwap15-4.4.10-management-practices-priority-39,Priority
+ncwap15-4.4.10-management-practices-priority-39,NCWAP15 Priority
+ncwap15-4.4.10-management-practices-priority-39,Management Practices Priority
+ncwap15-4.4.13-management-practices-priority-40,Priority
+ncwap15-4.4.13-management-practices-priority-40,NCWAP15 Priority
+ncwap15-4.4.13-management-practices-priority-40,Management Practices Priority
+ncwap15-4.4.13-management-practices-priority-41,Priority
+ncwap15-4.4.13-management-practices-priority-41,NCWAP15 Priority
+ncwap15-4.4.13-management-practices-priority-41,Management Practices Priority
+ncwap15-4.2.14-management-practices-priority-42,Priority
+ncwap15-4.2.14-management-practices-priority-42,NCWAP15 Priority
+ncwap15-4.2.14-management-practices-priority-42,Management Practices Priority
+ncwap15-4.2.14-management-practices-priority-43,Priority
+ncwap15-4.2.14-management-practices-priority-43,NCWAP15 Priority
+ncwap15-4.2.14-management-practices-priority-43,Management Practices Priority
+ncwap15-4.2.14-management-practices-priority-44,Priority
+ncwap15-4.2.14-management-practices-priority-44,NCWAP15 Priority
+ncwap15-4.2.14-management-practices-priority-44,Management Practices Priority
+ncwap15-4.2.14-management-practices-priority-45,Priority
+ncwap15-4.2.14-management-practices-priority-45,NCWAP15 Priority
+ncwap15-4.2.14-management-practices-priority-45,Management Practices Priority
+ncwap15-4.2.14-management-practices-priority-46,Priority
+ncwap15-4.2.14-management-practices-priority-46,NCWAP15 Priority
+ncwap15-4.2.14-management-practices-priority-46,Management Practices Priority
+ncwap15-4.3.2-management-practices-priority-47,Priority
+ncwap15-4.3.2-management-practices-priority-47,NCWAP15 Priority
+ncwap15-4.3.2-management-practices-priority-47,Management Practices Priority
+ncwap15-4.3.2-management-practices-priority-48,Priority
+ncwap15-4.3.2-management-practices-priority-48,NCWAP15 Priority
+ncwap15-4.3.2-management-practices-priority-48,Management Practices Priority
+ncwap15-4.4.4-conservation-programs-and-partnerships-priority-49,Priority
+ncwap15-4.4.4-conservation-programs-and-partnerships-priority-49,NCWAP15 Priority
+ncwap15-4.4.4-conservation-programs-and-partnerships-priority-49,Conservation Programs And Partnerships Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-50,Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-50,NCWAP15 Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-50,Conservation Programs And Partnerships Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-51,Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-51,NCWAP15 Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-51,Conservation Programs And Partnerships Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-52,Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-52,NCWAP15 Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-52,Conservation Programs And Partnerships Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-53,Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-53,NCWAP15 Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-53,Conservation Programs And Partnerships Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-54,Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-54,NCWAP15 Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-54,Conservation Programs And Partnerships Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-55,Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-55,NCWAP15 Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-55,Conservation Programs And Partnerships Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-56,Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-56,NCWAP15 Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-56,Conservation Programs And Partnerships Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-57,Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-57,NCWAP15 Priority
+ncwap15-4.3.1-conservation-programs-and-partnerships-priority-57,Conservation Programs And Partnerships Priority
+ncwap15-4.3.2-management-practices-priority-58,Priority
+ncwap15-4.3.2-management-practices-priority-58,NCWAP15 Priority
+ncwap15-4.3.2-management-practices-priority-58,Management Practices Priority
+ncwap15-4.3.4-management-practices-priority-59,Priority
+ncwap15-4.3.4-management-practices-priority-59,NCWAP15 Priority
+ncwap15-4.3.4-management-practices-priority-59,Management Practices Priority
+ncwap15-4.3.5-management-practices-priority-60,Priority
+ncwap15-4.3.5-management-practices-priority-60,NCWAP15 Priority
+ncwap15-4.3.5-management-practices-priority-60,Management Practices Priority
+ncwap15-4.3.6-management-practices-priority-61,Priority
+ncwap15-4.3.6-management-practices-priority-61,NCWAP15 Priority
+ncwap15-4.3.6-management-practices-priority-61,Management Practices Priority
+ncwap15-4.3.6-management-practices-priority-62,Priority
+ncwap15-4.3.6-management-practices-priority-62,NCWAP15 Priority
+ncwap15-4.3.6-management-practices-priority-62,Management Practices Priority
+ncwap15-4.4.6-management-practices-priority-63,Priority
+ncwap15-4.4.6-management-practices-priority-63,NCWAP15 Priority
+ncwap15-4.4.6-management-practices-priority-63,Management Practices Priority
+ncwap15-4.4.7-management-practices-priority-64,Priority
+ncwap15-4.4.7-management-practices-priority-64,NCWAP15 Priority
+ncwap15-4.4.7-management-practices-priority-64,Management Practices Priority
+ncwap15-4.4.7-management-practices-priority-65,Priority
+ncwap15-4.4.7-management-practices-priority-65,NCWAP15 Priority
+ncwap15-4.4.7-management-practices-priority-65,Management Practices Priority
+ncwap15-4.2.10-management-practices-priority-66,Priority
+ncwap15-4.2.10-management-practices-priority-66,NCWAP15 Priority
+ncwap15-4.2.10-management-practices-priority-66,Management Practices Priority
+ncwap15-4.4.8-management-practices-priority-67,Priority
+ncwap15-4.4.8-management-practices-priority-67,NCWAP15 Priority
+ncwap15-4.4.8-management-practices-priority-67,Management Practices Priority
+ncwap15-4.4.8-management-practices-priority-68,Priority
+ncwap15-4.4.8-management-practices-priority-68,NCWAP15 Priority
+ncwap15-4.4.8-management-practices-priority-68,Management Practices Priority
+ncwap15-4.4.8-management-practices-priority-69,Priority
+ncwap15-4.4.8-management-practices-priority-69,NCWAP15 Priority
+ncwap15-4.4.8-management-practices-priority-69,Management Practices Priority
+ncwap15-4.4.8-management-practices-priority-70,Priority
+ncwap15-4.4.8-management-practices-priority-70,NCWAP15 Priority
+ncwap15-4.4.8-management-practices-priority-70,Management Practices Priority
+ncwap15-4.4.5-management-practices-priority-71,Priority
+ncwap15-4.4.5-management-practices-priority-71,NCWAP15 Priority
+ncwap15-4.4.5-management-practices-priority-71,Management Practices Priority
+ncwap15-4.4.5-management-practices-priority-72,Priority
+ncwap15-4.4.5-management-practices-priority-72,NCWAP15 Priority
+ncwap15-4.4.5-management-practices-priority-72,Management Practices Priority
+ncwap15-4.4.14-management-practices-priority-73,Priority
+ncwap15-4.4.14-management-practices-priority-73,NCWAP15 Priority
+ncwap15-4.4.14-management-practices-priority-73,Management Practices Priority
+ncwap15-4.4.15-management-practices-priority-74,Priority
+ncwap15-4.4.15-management-practices-priority-74,NCWAP15 Priority
+ncwap15-4.4.15-management-practices-priority-74,Management Practices Priority
+ncwap15-4.4.15-management-practices-priority-75,Priority
+ncwap15-4.4.15-management-practices-priority-75,NCWAP15 Priority
+ncwap15-4.4.15-management-practices-priority-75,Management Practices Priority
+ncwap15-4.4.15-management-practices-priority-76,Priority
+ncwap15-4.4.15-management-practices-priority-76,NCWAP15 Priority
+ncwap15-4.4.15-management-practices-priority-76,Management Practices Priority
+ncwap15-4.4.15-management-practices-priority-77,Priority
+ncwap15-4.4.15-management-practices-priority-77,NCWAP15 Priority
+ncwap15-4.4.15-management-practices-priority-77,Management Practices Priority
+ncwap15-4.4.15-management-practices-priority-78,Priority
+ncwap15-4.4.15-management-practices-priority-78,NCWAP15 Priority
+ncwap15-4.4.15-management-practices-priority-78,Management Practices Priority
+ncwap15-4.2.9-management-practices-priority-79,Priority
+ncwap15-4.2.9-management-practices-priority-79,NCWAP15 Priority
+ncwap15-4.2.9-management-practices-priority-79,Management Practices Priority
+ncwap15-4.4.12-management-practices-priority-80,Priority
+ncwap15-4.4.12-management-practices-priority-80,NCWAP15 Priority
+ncwap15-4.4.12-management-practices-priority-80,Management Practices Priority
+ncwap15-4.4.12-management-practices-priority-81,Priority
+ncwap15-4.4.12-management-practices-priority-81,NCWAP15 Priority
+ncwap15-4.4.12-management-practices-priority-81,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-82,Priority
+ncwap15-4.2.2-management-practices-priority-82,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-82,Management Practices Priority
+ncwap15-4.3.7-management-practices-priority-83,Priority
+ncwap15-4.3.7-management-practices-priority-83,NCWAP15 Priority
+ncwap15-4.3.7-management-practices-priority-83,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-84,Priority
+ncwap15-4.2.2-management-practices-priority-84,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-84,Management Practices Priority
+ncwap15-4.4.3-management-practices-priority-85,Priority
+ncwap15-4.4.3-management-practices-priority-85,NCWAP15 Priority
+ncwap15-4.4.3-management-practices-priority-85,Management Practices Priority
+ncwap15-4.4.3-management-practices-priority-86,Priority
+ncwap15-4.4.3-management-practices-priority-86,NCWAP15 Priority
+ncwap15-4.4.3-management-practices-priority-86,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-87,Priority
+ncwap15-4.2.2-management-practices-priority-87,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-87,Management Practices Priority
+ncwap15-4.4.11-management-practices-priority-88,Priority
+ncwap15-4.4.11-management-practices-priority-88,NCWAP15 Priority
+ncwap15-4.4.11-management-practices-priority-88,Management Practices Priority
+ncwap15-4.4.11-management-practices-priority-89,Priority
+ncwap15-4.4.11-management-practices-priority-89,NCWAP15 Priority
+ncwap15-4.4.11-management-practices-priority-89,Management Practices Priority
+ncwap15-4.4.11-management-practices-priority-90,Priority
+ncwap15-4.4.11-management-practices-priority-90,NCWAP15 Priority
+ncwap15-4.4.11-management-practices-priority-90,Management Practices Priority
+ncwap15-4.4.11-management-practices-priority-91,Priority
+ncwap15-4.4.11-management-practices-priority-91,NCWAP15 Priority
+ncwap15-4.4.11-management-practices-priority-91,Management Practices Priority
+ncwap15-4.4.11-management-practices-priority-92,Priority
+ncwap15-4.4.11-management-practices-priority-92,NCWAP15 Priority
+ncwap15-4.4.11-management-practices-priority-92,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-93,Priority
+ncwap15-4.2.2-management-practices-priority-93,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-93,Management Practices Priority
+ncwap15-4.3.8-management-practices-priority-94,Priority
+ncwap15-4.3.8-management-practices-priority-94,NCWAP15 Priority
+ncwap15-4.3.8-management-practices-priority-94,Management Practices Priority
+ncwap15-4.3.8-management-practices-priority-95,Priority
+ncwap15-4.3.8-management-practices-priority-95,NCWAP15 Priority
+ncwap15-4.3.8-management-practices-priority-95,Management Practices Priority
+ncwap15-4.2.13-management-practices-priority-96,Priority
+ncwap15-4.2.13-management-practices-priority-96,NCWAP15 Priority
+ncwap15-4.2.13-management-practices-priority-96,Management Practices Priority
+ncwap15-4.2.13-management-practices-priority-97,Priority
+ncwap15-4.2.13-management-practices-priority-97,NCWAP15 Priority
+ncwap15-4.2.13-management-practices-priority-97,Management Practices Priority
+ncwap15-4.2.13-management-practices-priority-98,Priority
+ncwap15-4.2.13-management-practices-priority-98,NCWAP15 Priority
+ncwap15-4.2.13-management-practices-priority-98,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-99,Priority
+ncwap15-4.2.2-management-practices-priority-99,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-99,Management Practices Priority
+ncwap15-4.4.16-management-practices-priority-100,Priority
+ncwap15-4.4.16-management-practices-priority-100,NCWAP15 Priority
+ncwap15-4.4.16-management-practices-priority-100,Management Practices Priority
+ncwap15-4.2.8-management-practices-priority-101,Priority
+ncwap15-4.2.8-management-practices-priority-101,NCWAP15 Priority
+ncwap15-4.2.8-management-practices-priority-101,Management Practices Priority
+ncwap15-4.4.18-management-practices-priority-102,Priority
+ncwap15-4.4.18-management-practices-priority-102,NCWAP15 Priority
+ncwap15-4.4.18-management-practices-priority-102,Management Practices Priority
+ncwap15-4.4.17-management-practices-priority-103,Priority
+ncwap15-4.4.17-management-practices-priority-103,NCWAP15 Priority
+ncwap15-4.4.17-management-practices-priority-103,Management Practices Priority
+ncwap15-4.4.2-management-practices-priority-104,Priority
+ncwap15-4.4.2-management-practices-priority-104,NCWAP15 Priority
+ncwap15-4.4.2-management-practices-priority-104,Management Practices Priority
+ncwap15-4.4.2-management-practices-priority-105,Priority
+ncwap15-4.4.2-management-practices-priority-105,NCWAP15 Priority
+ncwap15-4.4.2-management-practices-priority-105,Management Practices Priority
+ncwap15-4.4.2-management-practices-priority-106,Priority
+ncwap15-4.4.2-management-practices-priority-106,NCWAP15 Priority
+ncwap15-4.4.2-management-practices-priority-106,Management Practices Priority
+ncwap15-4.2.11-management-practices-priority-107,Priority
+ncwap15-4.2.11-management-practices-priority-107,NCWAP15 Priority
+ncwap15-4.2.11-management-practices-priority-107,Management Practices Priority
+ncwap15-4.2.11-management-practices-priority-108,Priority
+ncwap15-4.2.11-management-practices-priority-108,NCWAP15 Priority
+ncwap15-4.2.11-management-practices-priority-108,Management Practices Priority
+ncwap15-4.2.11-management-practices-priority-109,Priority
+ncwap15-4.2.11-management-practices-priority-109,NCWAP15 Priority
+ncwap15-4.2.11-management-practices-priority-109,Management Practices Priority
+ncwap15-4.4.17-management-practices-priority-110,Priority
+ncwap15-4.4.17-management-practices-priority-110,NCWAP15 Priority
+ncwap15-4.4.17-management-practices-priority-110,Management Practices Priority
+ncwap15-4.3.9-management-practices-priority-111,Priority
+ncwap15-4.3.9-management-practices-priority-111,NCWAP15 Priority
+ncwap15-4.3.9-management-practices-priority-111,Management Practices Priority
+ncwap15-4.3.9-management-practices-priority-112,Priority
+ncwap15-4.3.9-management-practices-priority-112,NCWAP15 Priority
+ncwap15-4.3.9-management-practices-priority-112,Management Practices Priority
+ncwap15-4.3.11-management-practices-priority-113,Priority
+ncwap15-4.3.11-management-practices-priority-113,NCWAP15 Priority
+ncwap15-4.3.11-management-practices-priority-113,Management Practices Priority
+ncwap15-4.3.11-management-practices-priority-114,Priority
+ncwap15-4.3.11-management-practices-priority-114,NCWAP15 Priority
+ncwap15-4.3.11-management-practices-priority-114,Management Practices Priority
+ncwap15-4.3.11-management-practices-priority-115,Priority
+ncwap15-4.3.11-management-practices-priority-115,NCWAP15 Priority
+ncwap15-4.3.11-management-practices-priority-115,Management Practices Priority
+ncwap15-4.3.11-management-practices-priority-116,Priority
+ncwap15-4.3.11-management-practices-priority-116,NCWAP15 Priority
+ncwap15-4.3.11-management-practices-priority-116,Management Practices Priority
+ncwap15-4.3.11-management-practices-priority-117,Priority
+ncwap15-4.3.11-management-practices-priority-117,NCWAP15 Priority
+ncwap15-4.3.11-management-practices-priority-117,Management Practices Priority
+ncwap15-4.4.1-management-practices-priority-118,Priority
+ncwap15-4.4.1-management-practices-priority-118,NCWAP15 Priority
+ncwap15-4.4.1-management-practices-priority-118,Management Practices Priority
+ncwap15-4.2.3-management-practices-priority-119,Priority
+ncwap15-4.2.3-management-practices-priority-119,NCWAP15 Priority
+ncwap15-4.2.3-management-practices-priority-119,Management Practices Priority
+ncwap15-4.2.4-management-practices-priority-120,Priority
+ncwap15-4.2.4-management-practices-priority-120,NCWAP15 Priority
+ncwap15-4.2.4-management-practices-priority-120,Management Practices Priority
+ncwap15-4.4.10-monitoring-priority-121,Priority
+ncwap15-4.4.10-monitoring-priority-121,NCWAP15 Priority
+ncwap15-4.4.10-monitoring-priority-121,Monitoring Priority
+ncwap15-4.4.10-monitoring-priority-122,Priority
+ncwap15-4.4.10-monitoring-priority-122,NCWAP15 Priority
+ncwap15-4.4.10-monitoring-priority-122,Monitoring Priority
+ncwap15-4.3.9-monitoring-priority-123,Priority
+ncwap15-4.3.9-monitoring-priority-123,NCWAP15 Priority
+ncwap15-4.3.9-monitoring-priority-123,Monitoring Priority
+ncwap15-4.2.14-monitoring-priority-124,Priority
+ncwap15-4.2.14-monitoring-priority-124,NCWAP15 Priority
+ncwap15-4.2.14-monitoring-priority-124,Monitoring Priority
+ncwap15-4.3.1-monitoring-priority-125,Priority
+ncwap15-4.3.1-monitoring-priority-125,NCWAP15 Priority
+ncwap15-4.3.1-monitoring-priority-125,Monitoring Priority
+ncwap15-4.3.2-monitoring-priority-126,Priority
+ncwap15-4.3.2-monitoring-priority-126,NCWAP15 Priority
+ncwap15-4.3.2-monitoring-priority-126,Monitoring Priority
+ncwap15-4.3.2-monitoring-priority-127,Priority
+ncwap15-4.3.2-monitoring-priority-127,NCWAP15 Priority
+ncwap15-4.3.2-monitoring-priority-127,Monitoring Priority
+ncwap15-4.3.3-monitoring-priority-128,Priority
+ncwap15-4.3.3-monitoring-priority-128,NCWAP15 Priority
+ncwap15-4.3.3-monitoring-priority-128,Monitoring Priority
+ncwap15-4.3.3-monitoring-priority-129,Priority
+ncwap15-4.3.3-monitoring-priority-129,NCWAP15 Priority
+ncwap15-4.3.3-monitoring-priority-129,Monitoring Priority
+ncwap15-4.3.3-monitoring-priority-130,Priority
+ncwap15-4.3.3-monitoring-priority-130,NCWAP15 Priority
+ncwap15-4.3.3-monitoring-priority-130,Monitoring Priority
+ncwap15-4.3.3-monitoring-priority-131,Priority
+ncwap15-4.3.3-monitoring-priority-131,NCWAP15 Priority
+ncwap15-4.3.3-monitoring-priority-131,Monitoring Priority
+ncwap15-4.3.4-monitoring-priority-132,Priority
+ncwap15-4.3.4-monitoring-priority-132,NCWAP15 Priority
+ncwap15-4.3.4-monitoring-priority-132,Monitoring Priority
+ncwap15-4.3.5-monitoring-priority-133,Priority
+ncwap15-4.3.5-monitoring-priority-133,NCWAP15 Priority
+ncwap15-4.3.5-monitoring-priority-133,Monitoring Priority
+ncwap15-4.3.5-monitoring-priority-134,Priority
+ncwap15-4.3.5-monitoring-priority-134,NCWAP15 Priority
+ncwap15-4.3.5-monitoring-priority-134,Monitoring Priority
+ncwap15-4.4.6-monitoring-priority-135,Priority
+ncwap15-4.4.6-monitoring-priority-135,NCWAP15 Priority
+ncwap15-4.4.6-monitoring-priority-135,Monitoring Priority
+ncwap15-4.4.7-monitoring-priority-136,Priority
+ncwap15-4.4.7-monitoring-priority-136,NCWAP15 Priority
+ncwap15-4.4.7-monitoring-priority-136,Monitoring Priority
+ncwap15-4.4.7-monitoring-priority-137,Priority
+ncwap15-4.4.7-monitoring-priority-137,NCWAP15 Priority
+ncwap15-4.4.7-monitoring-priority-137,Monitoring Priority
+ncwap15-4.2.10-monitoring-priority-138,Priority
+ncwap15-4.2.10-monitoring-priority-138,NCWAP15 Priority
+ncwap15-4.2.10-monitoring-priority-138,Monitoring Priority
+ncwap15-4.2.10-monitoring-priority-139,Priority
+ncwap15-4.2.10-monitoring-priority-139,NCWAP15 Priority
+ncwap15-4.2.10-monitoring-priority-139,Monitoring Priority
+ncwap15-4.2.10-monitoring-priority-140,Priority
+ncwap15-4.2.10-monitoring-priority-140,NCWAP15 Priority
+ncwap15-4.2.10-monitoring-priority-140,Monitoring Priority
+ncwap15-4.2.2-monitoring-priority-141,Priority
+ncwap15-4.2.2-monitoring-priority-141,NCWAP15 Priority
+ncwap15-4.2.2-monitoring-priority-141,Monitoring Priority
+ncwap15-4.2.2-monitoring-priority-142,Priority
+ncwap15-4.2.2-monitoring-priority-142,NCWAP15 Priority
+ncwap15-4.2.2-monitoring-priority-142,Monitoring Priority
+ncwap15-4.4.15-monitoring-priority-143,Priority
+ncwap15-4.4.15-monitoring-priority-143,NCWAP15 Priority
+ncwap15-4.4.15-monitoring-priority-143,Monitoring Priority
+ncwap15-4.4.15-monitoring-priority-144,Priority
+ncwap15-4.4.15-monitoring-priority-144,NCWAP15 Priority
+ncwap15-4.4.15-monitoring-priority-144,Monitoring Priority
+ncwap15-4.4.15-monitoring-priority-145,Priority
+ncwap15-4.4.15-monitoring-priority-145,NCWAP15 Priority
+ncwap15-4.4.15-monitoring-priority-145,Monitoring Priority
+ncwap15-4.2.2-monitoring-priority-146,Priority
+ncwap15-4.2.2-monitoring-priority-146,NCWAP15 Priority
+ncwap15-4.2.2-monitoring-priority-146,Monitoring Priority
+ncwap15-4.4.15-monitoring-priority-147,Priority
+ncwap15-4.4.15-monitoring-priority-147,NCWAP15 Priority
+ncwap15-4.4.15-monitoring-priority-147,Monitoring Priority
+ncwap15-4.2.2-monitoring-priority-148,Priority
+ncwap15-4.2.2-monitoring-priority-148,NCWAP15 Priority
+ncwap15-4.2.2-monitoring-priority-148,Monitoring Priority
+ncwap15-4.4.9-monitoring-priority-149,Priority
+ncwap15-4.4.9-monitoring-priority-149,NCWAP15 Priority
+ncwap15-4.4.9-monitoring-priority-149,Monitoring Priority
+ncwap15-4.2.2-monitoring-priority-150,Priority
+ncwap15-4.2.2-monitoring-priority-150,NCWAP15 Priority
+ncwap15-4.2.2-monitoring-priority-150,Monitoring Priority
+ncwap15-4.4.9-monitoring-priority-151,Priority
+ncwap15-4.4.9-monitoring-priority-151,NCWAP15 Priority
+ncwap15-4.4.9-monitoring-priority-151,Monitoring Priority
+ncwap15-4.4.3-monitoring-priority-152,Priority
+ncwap15-4.4.3-monitoring-priority-152,NCWAP15 Priority
+ncwap15-4.4.3-monitoring-priority-152,Monitoring Priority
+ncwap15-4.4.3-monitoring-priority-153,Priority
+ncwap15-4.4.3-monitoring-priority-153,NCWAP15 Priority
+ncwap15-4.4.3-monitoring-priority-153,Monitoring Priority
+ncwap15-4.4.11-monitoring-priority-154,Priority
+ncwap15-4.4.11-monitoring-priority-154,NCWAP15 Priority
+ncwap15-4.4.11-monitoring-priority-154,Monitoring Priority
+ncwap15-4.3.8-monitoring-priority-155,Priority
+ncwap15-4.3.8-monitoring-priority-155,NCWAP15 Priority
+ncwap15-4.3.8-monitoring-priority-155,Monitoring Priority
+ncwap15-4.2.13-monitoring-priority-156,Priority
+ncwap15-4.2.13-monitoring-priority-156,NCWAP15 Priority
+ncwap15-4.2.13-monitoring-priority-156,Monitoring Priority
+ncwap15-4.2.13-monitoring-priority-157,Priority
+ncwap15-4.2.13-monitoring-priority-157,NCWAP15 Priority
+ncwap15-4.2.13-monitoring-priority-157,Monitoring Priority
+ncwap15-4.4.16-monitoring-priority-158,Priority
+ncwap15-4.4.16-monitoring-priority-158,NCWAP15 Priority
+ncwap15-4.4.16-monitoring-priority-158,Monitoring Priority
+ncwap15-4.4.16-monitoring-priority-159,Priority
+ncwap15-4.4.16-monitoring-priority-159,NCWAP15 Priority
+ncwap15-4.4.16-monitoring-priority-159,Monitoring Priority
+ncwap15-4.4.2-monitoring-priority-160,Priority
+ncwap15-4.4.2-monitoring-priority-160,NCWAP15 Priority
+ncwap15-4.4.2-monitoring-priority-160,Monitoring Priority
+ncwap15-4.4.2-monitoring-priority-161,Priority
+ncwap15-4.4.2-monitoring-priority-161,NCWAP15 Priority
+ncwap15-4.4.2-monitoring-priority-161,Monitoring Priority
+ncwap15-4.2.11-monitoring-priority-162,Priority
+ncwap15-4.2.11-monitoring-priority-162,NCWAP15 Priority
+ncwap15-4.2.11-monitoring-priority-162,Monitoring Priority
+ncwap15-4.2.11-monitoring-priority-163,Priority
+ncwap15-4.2.11-monitoring-priority-163,NCWAP15 Priority
+ncwap15-4.2.11-monitoring-priority-163,Monitoring Priority
+ncwap15-4.4.17-monitoring-priority-164,Priority
+ncwap15-4.4.17-monitoring-priority-164,NCWAP15 Priority
+ncwap15-4.4.17-monitoring-priority-164,Monitoring Priority
+ncwap15-4.4.17-monitoring-priority-165,Priority
+ncwap15-4.4.17-monitoring-priority-165,NCWAP15 Priority
+ncwap15-4.4.17-monitoring-priority-165,Monitoring Priority
+ncwap15-4.3.11-monitoring-priority-166,Priority
+ncwap15-4.3.11-monitoring-priority-166,NCWAP15 Priority
+ncwap15-4.3.11-monitoring-priority-166,Monitoring Priority
+ncwap15-4.4.1-monitoring-priority-167,Priority
+ncwap15-4.4.1-monitoring-priority-167,NCWAP15 Priority
+ncwap15-4.4.1-monitoring-priority-167,Monitoring Priority
+ncwap15-4.4.1-monitoring-priority-168,Priority
+ncwap15-4.4.1-monitoring-priority-168,NCWAP15 Priority
+ncwap15-4.4.1-monitoring-priority-168,Monitoring Priority
+ncwap15-4.4.4-monitoring-priority-169,Priority
+ncwap15-4.4.4-monitoring-priority-169,NCWAP15 Priority
+ncwap15-4.4.4-monitoring-priority-169,Monitoring Priority
+ncwap15-4.3.1-research-priority-170,Priority
+ncwap15-4.3.1-research-priority-170,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-170,Research Priority
+ncwap15-4.4.10-research-priority-171,Priority
+ncwap15-4.4.10-research-priority-171,NCWAP15 Priority
+ncwap15-4.4.10-research-priority-171,Research Priority
+ncwap15-4.4.13-research-priority-172,Priority
+ncwap15-4.4.13-research-priority-172,NCWAP15 Priority
+ncwap15-4.4.13-research-priority-172,Research Priority
+ncwap15-4.2.14-research-priority-173,Priority
+ncwap15-4.2.14-research-priority-173,NCWAP15 Priority
+ncwap15-4.2.14-research-priority-173,Research Priority
+ncwap15-4.2.14-research-priority-174,Priority
+ncwap15-4.2.14-research-priority-174,NCWAP15 Priority
+ncwap15-4.2.14-research-priority-174,Research Priority
+ncwap15-4.3.2-research-priority-175,Priority
+ncwap15-4.3.2-research-priority-175,NCWAP15 Priority
+ncwap15-4.3.2-research-priority-175,Research Priority
+ncwap15-4.3.2-research-priority-176,Priority
+ncwap15-4.3.2-research-priority-176,NCWAP15 Priority
+ncwap15-4.3.2-research-priority-176,Research Priority
+ncwap15-4.4.17-research-priority-177,Priority
+ncwap15-4.4.17-research-priority-177,NCWAP15 Priority
+ncwap15-4.4.17-research-priority-177,Research Priority
+ncwap15-4.3.2-research-priority-178,Priority
+ncwap15-4.3.2-research-priority-178,NCWAP15 Priority
+ncwap15-4.3.2-research-priority-178,Research Priority
+ncwap15-4.3.1-research-priority-179,Priority
+ncwap15-4.3.1-research-priority-179,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-179,Research Priority
+ncwap15-4.3.5-research-priority-180,Priority
+ncwap15-4.3.5-research-priority-180,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-180,Research Priority
+ncwap15-4.3.5-research-priority-181,Priority
+ncwap15-4.3.5-research-priority-181,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-181,Research Priority
+ncwap15-4.2.2-research-priority-182,Priority
+ncwap15-4.2.2-research-priority-182,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-182,Research Priority
+ncwap15-4.2.2-research-priority-183,Priority
+ncwap15-4.2.2-research-priority-183,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-183,Research Priority
+ncwap15-4.3.5-research-priority-184,Priority
+ncwap15-4.3.5-research-priority-184,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-184,Research Priority
+ncwap15-4.3.6-research-priority-185,Priority
+ncwap15-4.3.6-research-priority-185,NCWAP15 Priority
+ncwap15-4.3.6-research-priority-185,Research Priority
+ncwap15-4.2.11-research-priority-186,Priority
+ncwap15-4.2.11-research-priority-186,NCWAP15 Priority
+ncwap15-4.2.11-research-priority-186,Research Priority
+ncwap15-4.3.6-research-priority-187,Priority
+ncwap15-4.3.6-research-priority-187,NCWAP15 Priority
+ncwap15-4.3.6-research-priority-187,Research Priority
+ncwap15-4.2.4-research-priority-188,Priority
+ncwap15-4.2.4-research-priority-188,NCWAP15 Priority
+ncwap15-4.2.4-research-priority-188,Research Priority
+ncwap15-4.4.8-research-priority-189,Priority
+ncwap15-4.4.8-research-priority-189,NCWAP15 Priority
+ncwap15-4.4.8-research-priority-189,Research Priority
+ncwap15-4.2.2-research-priority-190,Priority
+ncwap15-4.2.2-research-priority-190,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-190,Research Priority
+ncwap15-4.3.9-research-priority-191,Priority
+ncwap15-4.3.9-research-priority-191,NCWAP15 Priority
+ncwap15-4.3.9-research-priority-191,Research Priority
+ncwap15-4.4.7-research-priority-192,Priority
+ncwap15-4.4.7-research-priority-192,NCWAP15 Priority
+ncwap15-4.4.7-research-priority-192,Research Priority
+ncwap15-4.3.1-research-priority-193,Priority
+ncwap15-4.3.1-research-priority-193,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-193,Research Priority
+ncwap15-4.2.10-research-priority-194,Priority
+ncwap15-4.2.10-research-priority-194,NCWAP15 Priority
+ncwap15-4.2.10-research-priority-194,Research Priority
+ncwap15-4.2.10-research-priority-195,Priority
+ncwap15-4.2.10-research-priority-195,NCWAP15 Priority
+ncwap15-4.2.10-research-priority-195,Research Priority
+ncwap15-4.4.8-research-priority-196,Priority
+ncwap15-4.4.8-research-priority-196,NCWAP15 Priority
+ncwap15-4.4.8-research-priority-196,Research Priority
+ncwap15-4.2.2-research-priority-197,Priority
+ncwap15-4.2.2-research-priority-197,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-197,Research Priority
+ncwap15-4.4.14-research-priority-198,Priority
+ncwap15-4.4.14-research-priority-198,NCWAP15 Priority
+ncwap15-4.4.14-research-priority-198,Research Priority
+ncwap15-4.4.14-research-priority-199,Priority
+ncwap15-4.4.14-research-priority-199,NCWAP15 Priority
+ncwap15-4.4.14-research-priority-199,Research Priority
+ncwap15-4.4.15-research-priority-200,Priority
+ncwap15-4.4.15-research-priority-200,NCWAP15 Priority
+ncwap15-4.4.15-research-priority-200,Research Priority
+ncwap15-4.4.9-research-priority-201,Priority
+ncwap15-4.4.9-research-priority-201,NCWAP15 Priority
+ncwap15-4.4.9-research-priority-201,Research Priority
+ncwap15-4.4.12-research-priority-202,Priority
+ncwap15-4.4.12-research-priority-202,NCWAP15 Priority
+ncwap15-4.4.12-research-priority-202,Research Priority
+ncwap15-4.4.12-research-priority-203,Priority
+ncwap15-4.4.12-research-priority-203,NCWAP15 Priority
+ncwap15-4.4.12-research-priority-203,Research Priority
+ncwap15-4.4.12-research-priority-204,Priority
+ncwap15-4.4.12-research-priority-204,NCWAP15 Priority
+ncwap15-4.4.12-research-priority-204,Research Priority
+ncwap15-4.3.7-research-priority-205,Priority
+ncwap15-4.3.7-research-priority-205,NCWAP15 Priority
+ncwap15-4.3.7-research-priority-205,Research Priority
+ncwap15-4.4.3-research-priority-206,Priority
+ncwap15-4.4.3-research-priority-206,NCWAP15 Priority
+ncwap15-4.4.3-research-priority-206,Research Priority
+ncwap15-4.4.3-research-priority-207,Priority
+ncwap15-4.4.3-research-priority-207,NCWAP15 Priority
+ncwap15-4.4.3-research-priority-207,Research Priority
+ncwap15-4.4.17-research-priority-208,Priority
+ncwap15-4.4.17-research-priority-208,NCWAP15 Priority
+ncwap15-4.4.17-research-priority-208,Research Priority
+ncwap15-4.3.8-research-priority-209,Priority
+ncwap15-4.3.8-research-priority-209,NCWAP15 Priority
+ncwap15-4.3.8-research-priority-209,Research Priority
+ncwap15-4.3.8-research-priority-210,Priority
+ncwap15-4.3.8-research-priority-210,NCWAP15 Priority
+ncwap15-4.3.8-research-priority-210,Research Priority
+ncwap15-4.2.13-research-priority-211,Priority
+ncwap15-4.2.13-research-priority-211,NCWAP15 Priority
+ncwap15-4.2.13-research-priority-211,Research Priority
+ncwap15-4.2.13-research-priority-212,Priority
+ncwap15-4.2.13-research-priority-212,NCWAP15 Priority
+ncwap15-4.2.13-research-priority-212,Research Priority
+ncwap15-4.3.1-research-priority-213,Priority
+ncwap15-4.3.1-research-priority-213,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-213,Research Priority
+ncwap15-4.4.16-research-priority-214,Priority
+ncwap15-4.4.16-research-priority-214,NCWAP15 Priority
+ncwap15-4.4.16-research-priority-214,Research Priority
+ncwap15-4.2.8-research-priority-215,Priority
+ncwap15-4.2.8-research-priority-215,NCWAP15 Priority
+ncwap15-4.2.8-research-priority-215,Research Priority
+ncwap15-4.2.8-research-priority-216,Priority
+ncwap15-4.2.8-research-priority-216,NCWAP15 Priority
+ncwap15-4.2.8-research-priority-216,Research Priority
+ncwap15-4.2.8-research-priority-217,Priority
+ncwap15-4.2.8-research-priority-217,NCWAP15 Priority
+ncwap15-4.2.8-research-priority-217,Research Priority
+ncwap15-4.4.2-research-priority-218,Priority
+ncwap15-4.4.2-research-priority-218,NCWAP15 Priority
+ncwap15-4.4.2-research-priority-218,Research Priority
+ncwap15-4.2.11-research-priority-219,Priority
+ncwap15-4.2.11-research-priority-219,NCWAP15 Priority
+ncwap15-4.2.11-research-priority-219,Research Priority
+ncwap15-4.2.11-research-priority-220,Priority
+ncwap15-4.2.11-research-priority-220,NCWAP15 Priority
+ncwap15-4.2.11-research-priority-220,Research Priority
+ncwap15-4.2.11-research-priority-221,Priority
+ncwap15-4.2.11-research-priority-221,NCWAP15 Priority
+ncwap15-4.2.11-research-priority-221,Research Priority
+ncwap15-4.2.11-research-priority-222,Priority
+ncwap15-4.2.11-research-priority-222,NCWAP15 Priority
+ncwap15-4.2.11-research-priority-222,Research Priority
+ncwap15-4.3.1-research-priority-223,Priority
+ncwap15-4.3.1-research-priority-223,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-223,Research Priority
+ncwap15-4.2.5-research-priority-224,Priority
+ncwap15-4.2.5-research-priority-224,NCWAP15 Priority
+ncwap15-4.2.5-research-priority-224,Research Priority
+ncwap15-4.3.11-research-priority-225,Priority
+ncwap15-4.3.11-research-priority-225,NCWAP15 Priority
+ncwap15-4.3.11-research-priority-225,Research Priority
+ncwap15-4.4.1-research-priority-226,Priority
+ncwap15-4.4.1-research-priority-226,NCWAP15 Priority
+ncwap15-4.4.1-research-priority-226,Research Priority
+ncwap15-4.4.1-research-priority-227,Priority
+ncwap15-4.4.1-research-priority-227,NCWAP15 Priority
+ncwap15-4.4.1-research-priority-227,Research Priority
+ncwap15-4.2.3-research-priority-228,Priority
+ncwap15-4.2.3-research-priority-228,NCWAP15 Priority
+ncwap15-4.2.3-research-priority-228,Research Priority
+ncwap15-4.2.3-research-priority-229,Priority
+ncwap15-4.2.3-research-priority-229,NCWAP15 Priority
+ncwap15-4.2.3-research-priority-229,Research Priority
+ncwap15-4.4.4-research-priority-230,Priority
+ncwap15-4.4.4-research-priority-230,NCWAP15 Priority
+ncwap15-4.4.4-research-priority-230,Research Priority
+ncwap15-4.3.1-surveys-priority-231,Priority
+ncwap15-4.3.1-surveys-priority-231,NCWAP15 Priority
+ncwap15-4.3.1-surveys-priority-231,Surveys Priority
+ncwap15-4.4.13-surveys-priority-232,Priority
+ncwap15-4.4.13-surveys-priority-232,NCWAP15 Priority
+ncwap15-4.4.13-surveys-priority-232,Surveys Priority
+ncwap15-4.2.14-surveys-priority-233,Priority
+ncwap15-4.2.14-surveys-priority-233,NCWAP15 Priority
+ncwap15-4.2.14-surveys-priority-233,Surveys Priority
+ncwap15-4.3.5-surveys-priority-234,Priority
+ncwap15-4.3.5-surveys-priority-234,NCWAP15 Priority
+ncwap15-4.3.5-surveys-priority-234,Surveys Priority
+ncwap15-4.3.3-surveys-priority-235,Priority
+ncwap15-4.3.3-surveys-priority-235,NCWAP15 Priority
+ncwap15-4.3.3-surveys-priority-235,Surveys Priority
+ncwap15-4.3.3-surveys-priority-236,Priority
+ncwap15-4.3.3-surveys-priority-236,NCWAP15 Priority
+ncwap15-4.3.3-surveys-priority-236,Surveys Priority
+ncwap15-4.3.5-surveys-priority-237,Priority
+ncwap15-4.3.5-surveys-priority-237,NCWAP15 Priority
+ncwap15-4.3.5-surveys-priority-237,Surveys Priority
+ncwap15-4.3.5-surveys-priority-238,Priority
+ncwap15-4.3.5-surveys-priority-238,NCWAP15 Priority
+ncwap15-4.3.5-surveys-priority-238,Surveys Priority
+ncwap15-4.3.5-surveys-priority-239,Priority
+ncwap15-4.3.5-surveys-priority-239,NCWAP15 Priority
+ncwap15-4.3.5-surveys-priority-239,Surveys Priority
+ncwap15-4.3.5-surveys-priority-240,Priority
+ncwap15-4.3.5-surveys-priority-240,NCWAP15 Priority
+ncwap15-4.3.5-surveys-priority-240,Surveys Priority
+ncwap15-4.4.6-surveys-priority-241,Priority
+ncwap15-4.4.6-surveys-priority-241,NCWAP15 Priority
+ncwap15-4.4.6-surveys-priority-241,Surveys Priority
+ncwap15-4.2.7-surveys-priority-242,Priority
+ncwap15-4.2.7-surveys-priority-242,NCWAP15 Priority
+ncwap15-4.2.7-surveys-priority-242,Surveys Priority
+ncwap15-4.2.10-surveys-priority-243,Priority
+ncwap15-4.2.10-surveys-priority-243,NCWAP15 Priority
+ncwap15-4.2.10-surveys-priority-243,Surveys Priority
+ncwap15-4.4.5-surveys-priority-244,Priority
+ncwap15-4.4.5-surveys-priority-244,NCWAP15 Priority
+ncwap15-4.4.5-surveys-priority-244,Surveys Priority
+ncwap15-4.4.5-surveys-priority-245,Priority
+ncwap15-4.4.5-surveys-priority-245,NCWAP15 Priority
+ncwap15-4.4.5-surveys-priority-245,Surveys Priority
+ncwap15-4.4.14-surveys-priority-246,Priority
+ncwap15-4.4.14-surveys-priority-246,NCWAP15 Priority
+ncwap15-4.4.14-surveys-priority-246,Surveys Priority
+ncwap15-4.4.15-surveys-priority-247,Priority
+ncwap15-4.4.15-surveys-priority-247,NCWAP15 Priority
+ncwap15-4.4.15-surveys-priority-247,Surveys Priority
+ncwap15-4.4.15-surveys-priority-248,Priority
+ncwap15-4.4.15-surveys-priority-248,NCWAP15 Priority
+ncwap15-4.4.15-surveys-priority-248,Surveys Priority
+ncwap15-4.4.15-surveys-priority-249,Priority
+ncwap15-4.4.15-surveys-priority-249,NCWAP15 Priority
+ncwap15-4.4.15-surveys-priority-249,Surveys Priority
+ncwap15-4.4.12-surveys-priority-250,Priority
+ncwap15-4.4.12-surveys-priority-250,NCWAP15 Priority
+ncwap15-4.4.12-surveys-priority-250,Surveys Priority
+ncwap15-4.4.12-surveys-priority-251,Priority
+ncwap15-4.4.12-surveys-priority-251,NCWAP15 Priority
+ncwap15-4.4.12-surveys-priority-251,Surveys Priority
+ncwap15-4.3.7-surveys-priority-252,Priority
+ncwap15-4.3.7-surveys-priority-252,NCWAP15 Priority
+ncwap15-4.3.7-surveys-priority-252,Surveys Priority
+ncwap15-4.3.7-surveys-priority-253,Priority
+ncwap15-4.3.7-surveys-priority-253,NCWAP15 Priority
+ncwap15-4.3.7-surveys-priority-253,Surveys Priority
+ncwap15-4.4.3-surveys-priority-254,Priority
+ncwap15-4.4.3-surveys-priority-254,NCWAP15 Priority
+ncwap15-4.4.3-surveys-priority-254,Surveys Priority
+ncwap15-4.4.3-surveys-priority-255,Priority
+ncwap15-4.4.3-surveys-priority-255,NCWAP15 Priority
+ncwap15-4.4.3-surveys-priority-255,Surveys Priority
+ncwap15-4.4.11-surveys-priority-256,Priority
+ncwap15-4.4.11-surveys-priority-256,NCWAP15 Priority
+ncwap15-4.4.11-surveys-priority-256,Surveys Priority
+ncwap15-4.4.11-surveys-priority-257,Priority
+ncwap15-4.4.11-surveys-priority-257,NCWAP15 Priority
+ncwap15-4.4.11-surveys-priority-257,Surveys Priority
+ncwap15-4.2.13-surveys-priority-258,Priority
+ncwap15-4.2.13-surveys-priority-258,NCWAP15 Priority
+ncwap15-4.2.13-surveys-priority-258,Surveys Priority
+ncwap15-4.2.13-surveys-priority-259,Priority
+ncwap15-4.2.13-surveys-priority-259,NCWAP15 Priority
+ncwap15-4.2.13-surveys-priority-259,Surveys Priority
+ncwap15-4.4.16-surveys-priority-260,Priority
+ncwap15-4.4.16-surveys-priority-260,NCWAP15 Priority
+ncwap15-4.4.16-surveys-priority-260,Surveys Priority
+ncwap15-4.2.8-surveys-priority-261,Priority
+ncwap15-4.2.8-surveys-priority-261,NCWAP15 Priority
+ncwap15-4.2.8-surveys-priority-261,Surveys Priority
+ncwap15-4.4.18-surveys-priority-262,Priority
+ncwap15-4.4.18-surveys-priority-262,NCWAP15 Priority
+ncwap15-4.4.18-surveys-priority-262,Surveys Priority
+ncwap15-4.4.18-surveys-priority-263,Priority
+ncwap15-4.4.18-surveys-priority-263,NCWAP15 Priority
+ncwap15-4.4.18-surveys-priority-263,Surveys Priority
+ncwap15-4.4.2-surveys-priority-264,Priority
+ncwap15-4.4.2-surveys-priority-264,NCWAP15 Priority
+ncwap15-4.4.2-surveys-priority-264,Surveys Priority
+ncwap15-4.4.17-surveys-priority-265,Priority
+ncwap15-4.4.17-surveys-priority-265,NCWAP15 Priority
+ncwap15-4.4.17-surveys-priority-265,Surveys Priority
+ncwap15-4.3.9-surveys-priority-266,Priority
+ncwap15-4.3.9-surveys-priority-266,NCWAP15 Priority
+ncwap15-4.3.9-surveys-priority-266,Surveys Priority
+ncwap15-4.4.1-surveys-priority-267,Priority
+ncwap15-4.4.1-surveys-priority-267,NCWAP15 Priority
+ncwap15-4.4.1-surveys-priority-267,Surveys Priority
+ncwap15-4.4.1-surveys-priority-268,Priority
+ncwap15-4.4.1-surveys-priority-268,NCWAP15 Priority
+ncwap15-4.4.1-surveys-priority-268,Surveys Priority
+ncwap15-4.4.1-surveys-priority-269,Priority
+ncwap15-4.4.1-surveys-priority-269,NCWAP15 Priority
+ncwap15-4.4.1-surveys-priority-269,Surveys Priority
+ncwap15-4.2.3-surveys-priority-270,Priority
+ncwap15-4.2.3-surveys-priority-270,NCWAP15 Priority
+ncwap15-4.2.3-surveys-priority-270,Surveys Priority
+ncwap15-4.2.3-surveys-priority-271,Priority
+ncwap15-4.2.3-surveys-priority-271,NCWAP15 Priority
+ncwap15-4.2.3-surveys-priority-271,Surveys Priority
+ncwap15-4.2.3-surveys-priority-272,Priority
+ncwap15-4.2.3-surveys-priority-272,NCWAP15 Priority
+ncwap15-4.2.3-surveys-priority-272,Surveys Priority
+ncwap15-4.4.4-surveys-priority-273,Priority
+ncwap15-4.4.4-surveys-priority-273,NCWAP15 Priority
+ncwap15-4.4.4-surveys-priority-273,Surveys Priority
+ncwap15-4.4.4-surveys-priority-274,Priority
+ncwap15-4.4.4-surveys-priority-274,NCWAP15 Priority
+ncwap15-4.4.4-surveys-priority-274,Surveys Priority
+ncwap15-4.4.4-surveys-priority-275,Priority
+ncwap15-4.4.4-surveys-priority-275,NCWAP15 Priority
+ncwap15-4.4.4-surveys-priority-275,Surveys Priority
+estuarine-wetland-communities,Habitat
+estuarine-wetland-communities,NCWAP15 Habitat
+estuarine-wetland-communities,Wetland Natural Communities
+floodplains-blackwater-systems,Habitat
+floodplains-blackwater-systems,NCWAP15 Habitat
+floodplains-blackwater-systems,Wetland Natural Communities
+floodplains-inland-systems,Habitat
+floodplains-inland-systems,NCWAP15 Habitat
+floodplains-inland-systems,Wetland Natural Communities
+freshwater-tidal-wetlands,Habitat
+freshwater-tidal-wetlands,NCWAP15 Habitat
+pocosins,Habitat
+pocosins,NCWAP15 Habitat
+pocosins,Wetland Natural Communities
+upland-pools-and-depressions,Habitat
+upland-pools-and-depressions,NCWAP15 Habitat
+upland-pools-and-depressions,Wetland Natural Communities
+upland-seepages-and-spray-cliffs,Habitat
+upland-seepages-and-spray-cliffs,NCWAP15 Habitat
+upland-seepages-and-spray-cliffs,Wetland Natural Communities
+spruce-fir-forest,Habitat
+spruce-fir-forest,NCWAP15 Habitat
+spruce-fir-forest,Wetland Natural Communities
+northern-hardwood-forests,Habitat
+northern-hardwood-forests,NCWAP15 Habitat
+northern-hardwood-forests,Wetland Natural Communities
+grass-and-heath-balds,Habitat
+grass-and-heath-balds,NCWAP15 Habitat
+grass-and-heath-balds,Upland Communities
+low-elevation-flatrocks-cliffs-and-rock-outcrops,Habitat
+low-elevation-flatrocks-cliffs-and-rock-outcrops,NCWAP15 Habitat
+low-elevation-flatrocks-cliffs-and-rock-outcrops,Upland Communities
+montane-oak-forests,Habitat
+montane-oak-forests,NCWAP15 Habitat
+montane-oak-forests,Upland Communities
+dry-longleaf-pine-communities,Habitat
+dry-longleaf-pine-communities,NCWAP15 Habitat
+dry-longleaf-pine-communities,Upland Communities
+sparsely-settled-mixed-habitats,Habitat
+sparsely-settled-mixed-habitats,NCWAP15 Habitat
+sparsely-settled-mixed-habitats,Upland Communities
+coldwater-streams,Habitat
+coldwater-streams,NCWAP15 Habitat
+coldwater-streams,Aquatic Communities
+estuarine-aquatic-communities,NCWAP15 Habitat
+estuarine-aquatic-communities,Habitat
+estuarine-aquatic-communities,Aquatic Communities
+groundwater-springs/caves,Habitat
+groundwater-springs/caves,NCWAP15 Habitat
+groundwater-springs/caves,Aquatic Communities
+natural-lakes,Habitat
+natural-lakes,NCWAP15 Habitat
+natural-lakes,Aquatic Communities
+reservoirs-and-impoundments,Habitat
+reservoirs-and-impoundments,NCWAP15 Habitat
+reservoirs-and-impoundments,Aquatic Communities
+small-river-systems/large-creeks,Habitat
+small-river-systems/large-creeks,NCWAP15 Habitat
+small-river-systems/large-creeks,Aquatic Communities
+stream-swamps,Habitat
+stream-swamps,NCWAP15 Habitat
+stream-swamps,Aquatic Communities
+golden-winged-warbler-working-group,Organization
+golden-winged-warbler-working-group,Partnership
+conservation-trust-for-north-carolina,Non-Government
+conservation-trust-for-north-carolina,Organization
+north-carolina-wildlife-resources-commission,Government
+north-carolina-wildlife-resources-commission,Organization
+north-carolina-wildlife-resources-commission,State Wildlife Agency
+united-states-north-american-bird-conservation-initiative,Organization
+united-states-north-american-bird-conservation-initiative,Partnership
+north-carolina-audubon-society,Organization
+north-carolina-audubon-society,Non-Government
+united-states-fish-and-wildlife-service,Organization
+united-states-fish-and-wildlife-service,Government
+american-oystercatcher-working-group,Organization
+american-oystercatcher-working-group,Partnership
+cornell-lab-of-ornithology,Organization
+cornell-lab-of-ornithology,Academic
+atlantic-coast-joint-venture,Organization
+atlantic-coast-joint-venture,Partnership
+atlantic-coast-joint-venture,Migratory Bird Joint Venture
+loggerhead-shrike-working-group,Organization
+loggerhead-shrike-working-group,Working Group
+partners-in-flight,Organization
+partners-in-flight,Partnership
+golden-winged-warbler-distribution-gap-surveys,Project
+southeast-conservation-blueprint,Project
+north-carolina-wildlife-action-plan,Plan
+north-carolina-wildlife-action-plan-2005,Plan
+partners-in-flight-landbird-conservation-plan-2016,Plan
+conservation-action-plan-for-the-cerulean-warbler-2007,Plan
+summary-of-secretive-marsh-bird-surveys-in-the-atlantic-flyway-2020,Plan
+summary-of-secretive-marsh-bird-surveys-in-the-atlantic-flyway-2020,Report
+bird-conservation-region-29,Geography
+bird-conservation-region-29,Bird Conservation Region
+bird-conservation-region-27,Geography
+bird-conservation-region-27,Bird Conservation Region
+flyways,Geography
+atlantic-coast-joint-venture-region,Geography
+atlantic-coast-joint-venture-region,Joint Venture Region
+appalachian-mountain-joint-venture-region,Geography
+appalachian-mountain-joint-venture-region,Joint Venture Region
+marsh-wren,Bird
+marsh-wren,NC Knowledge Concern
+marsh-wren,Species
+mourning-dove,Bird
+mourning-dove,NC Management Concern
+mourning-dove,Species
+northern-bobwhite,Bird
+northern-bobwhite,NC Management Concern
+northern-bobwhite,NC SGCN
+northern-bobwhite,Species
+northern-cardinal,Bird
+northern-cardinal,Species
+northern-flicker,Bird
+northern-flicker,Species
+northern-gannet,Bird
+northern-gannet,NC Knowledge Concern
+northern-gannet,Species
+northern-harrier,Bird
+northern-harrier,NC Knowledge Concern
+northern-harrier,NC SGCN
+northern-harrier,Species
+northern-parula,Bird
+northern-parula,Species
+northern-pintail,Bird
+northern-pintail,NC Management Concern
+northern-pintail,Species
+northern-saw-whet-owl,Bird
+northern-saw-whet-owl,NC SGCN
+northern-saw-whet-owl,Species
+northern-waterthrush,Bird
+northern-waterthrush,Species
+palm-warbler,Bird
+palm-warbler,Species
+philadelphia-vireo,Bird
+philadelphia-vireo,NC Knowledge Concern
+philadelphia-vireo,Species
+pied-billed-grebe,Bird
+pied-billed-grebe,NC Knowledge Concern
+pied-billed-grebe,Species
+pileated-woodpecker,Bird
+pileated-woodpecker,Species
+purple-finch,Bird
+purple-finch,Species
+purple-martin,Bird
+purple-martin,NC Management Concern
+purple-martin,Species
+purple-sandpiper,Bird
+purple-sandpiper,NC SGCN
+purple-sandpiper,Species
+red-cockaded-woodpecker,Bird
+red-cockaded-woodpecker,NC Management Concern
+red-cockaded-woodpecker,NC SGCN
+red-cockaded-woodpecker,Species
+red-crossbill,Bird
+red-crossbill,NC Knowledge Concern
+red-crossbill,NC Management Concern
+red-crossbill,NC SGCN
+red-crossbill,Species
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-276,Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-276,NCWAP15 Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-276,Conservation Programs And Partnerships Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-277,Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-277,NCWAP15 Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-277,Conservation Programs And Partnerships Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-278,Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-278,NCWAP15 Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-278,Conservation Programs And Partnerships Priority
+ncwap15-4.3.3-conservation-programs-and-partnerships-priority-279,Priority
+ncwap15-4.3.3-conservation-programs-and-partnerships-priority-279,NCWAP15 Priority
+ncwap15-4.3.3-conservation-programs-and-partnerships-priority-279,Conservation Programs And Partnerships Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-280,Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-280,NCWAP15 Priority
+ncwap15-4.3.5-conservation-programs-and-partnerships-priority-280,Conservation Programs And Partnerships Priority
+ncwap15-4.3.6-conservation-programs-and-partnerships-priority-281,Priority
+ncwap15-4.3.6-conservation-programs-and-partnerships-priority-281,NCWAP15 Priority
+ncwap15-4.3.6-conservation-programs-and-partnerships-priority-281,Conservation Programs And Partnerships Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-282,Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-282,NCWAP15 Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-282,Conservation Programs And Partnerships Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-283,Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-283,NCWAP15 Priority
+ncwap15-4.4.7-conservation-programs-and-partnerships-priority-283,Conservation Programs And Partnerships Priority
+ncwap15-4.2.10-conservation-programs-and-partnerships-priority-284,Priority
+ncwap15-4.2.10-conservation-programs-and-partnerships-priority-284,NCWAP15 Priority
+ncwap15-4.2.10-conservation-programs-and-partnerships-priority-284,Conservation Programs And Partnerships Priority
+ncwap15-4.2.10-conservation-programs-and-partnerships-priority-285,Priority
+ncwap15-4.2.10-conservation-programs-and-partnerships-priority-285,NCWAP15 Priority
+ncwap15-4.2.10-conservation-programs-and-partnerships-priority-285,Conservation Programs And Partnerships Priority
+ncwap15-4.4.8-conservation-programs-and-partnerships-priority-286,Priority
+ncwap15-4.4.8-conservation-programs-and-partnerships-priority-286,NCWAP15 Priority
+ncwap15-4.4.8-conservation-programs-and-partnerships-priority-286,Conservation Programs And Partnerships Priority
+ncwap15-4.4.8-conservation-programs-and-partnerships-priority-287,Priority
+ncwap15-4.4.8-conservation-programs-and-partnerships-priority-287,NCWAP15 Priority
+ncwap15-4.4.8-conservation-programs-and-partnerships-priority-287,Conservation Programs And Partnerships Priority
+ncwap15-4.4.5-conservation-programs-and-partnerships-priority-288,Priority
+ncwap15-4.4.5-conservation-programs-and-partnerships-priority-288,NCWAP15 Priority
+ncwap15-4.4.5-conservation-programs-and-partnerships-priority-288,Conservation Programs And Partnerships Priority
+ncwap15-4.4.5-conservation-programs-and-partnerships-priority-289,Priority
+ncwap15-4.4.5-conservation-programs-and-partnerships-priority-289,NCWAP15 Priority
+ncwap15-4.4.5-conservation-programs-and-partnerships-priority-289,Conservation Programs And Partnerships Priority
+ncwap15-4.4.14-conservation-programs-and-partnerships-priority-290,Priority
+ncwap15-4.4.14-conservation-programs-and-partnerships-priority-290,NCWAP15 Priority
+ncwap15-4.4.14-conservation-programs-and-partnerships-priority-290,Conservation Programs And Partnerships Priority
+ncwap15-4.4.15-conservation-programs-and-partnerships-priority-291,Priority
+ncwap15-4.4.15-conservation-programs-and-partnerships-priority-291,NCWAP15 Priority
+ncwap15-4.4.15-conservation-programs-and-partnerships-priority-291,Conservation Programs And Partnerships Priority
+ncwap15-4.4.15-conservation-programs-and-partnerships-priority-292,Priority
+ncwap15-4.4.15-conservation-programs-and-partnerships-priority-292,NCWAP15 Priority
+ncwap15-4.4.15-conservation-programs-and-partnerships-priority-292,Conservation Programs And Partnerships Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-293,Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-293,NCWAP15 Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-293,Conservation Programs And Partnerships Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-294,Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-294,NCWAP15 Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-294,Conservation Programs And Partnerships Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-295,Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-295,NCWAP15 Priority
+ncwap15-4.4.9-conservation-programs-and-partnerships-priority-295,Conservation Programs And Partnerships Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-296,Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-296,NCWAP15 Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-296,Conservation Programs And Partnerships Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-297,Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-297,NCWAP15 Priority
+ncwap15-4.4.12-conservation-programs-and-partnerships-priority-297,Conservation Programs And Partnerships Priority
+ncwap15-4.3.7-conservation-programs-and-partnerships-priority-298,Priority
+ncwap15-4.3.7-conservation-programs-and-partnerships-priority-298,NCWAP15 Priority
+ncwap15-4.3.7-conservation-programs-and-partnerships-priority-298,Conservation Programs And Partnerships Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-299,Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-299,NCWAP15 Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-299,Conservation Programs And Partnerships Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-300,Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-300,NCWAP15 Priority
+ncwap15-4.4.3-conservation-programs-and-partnerships-priority-300,Conservation Programs And Partnerships Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-301,Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-301,NCWAP15 Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-301,Conservation Programs And Partnerships Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-302,Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-302,NCWAP15 Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-302,Conservation Programs And Partnerships Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-303,Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-303,NCWAP15 Priority
+ncwap15-4.4.11-conservation-programs-and-partnerships-priority-303,Conservation Programs And Partnerships Priority
+ncwap15-4.3.8-conservation-programs-and-partnerships-priority-304,Priority
+ncwap15-4.3.8-conservation-programs-and-partnerships-priority-304,NCWAP15 Priority
+ncwap15-4.3.8-conservation-programs-and-partnerships-priority-304,Conservation Programs And Partnerships Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-305,Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-305,NCWAP15 Priority
+ncwap15-4.2.13-conservation-programs-and-partnerships-priority-305,Conservation Programs And Partnerships Priority
+ncwap15-4.2.4-conservation-programs-and-partnerships-priority-306,Priority
+ncwap15-4.2.4-conservation-programs-and-partnerships-priority-306,NCWAP15 Priority
+ncwap15-4.2.4-conservation-programs-and-partnerships-priority-306,Conservation Programs And Partnerships Priority
+ncwap15-4.4.18-conservation-programs-and-partnerships-priority-307,Priority
+ncwap15-4.4.18-conservation-programs-and-partnerships-priority-307,NCWAP15 Priority
+ncwap15-4.4.18-conservation-programs-and-partnerships-priority-307,Conservation Programs And Partnerships Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-308,Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-308,NCWAP15 Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-308,Conservation Programs And Partnerships Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-309,Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-309,NCWAP15 Priority
+ncwap15-4.4.17-conservation-programs-and-partnerships-priority-309,Conservation Programs And Partnerships Priority
+ncwap15-4.4.2-conservation-programs-and-partnerships-priority-310,Priority
+ncwap15-4.4.2-conservation-programs-and-partnerships-priority-310,NCWAP15 Priority
+ncwap15-4.4.2-conservation-programs-and-partnerships-priority-310,Conservation Programs And Partnerships Priority
+ncwap15-4.4.2-conservation-programs-and-partnerships-priority-311,Priority
+ncwap15-4.4.2-conservation-programs-and-partnerships-priority-311,NCWAP15 Priority
+ncwap15-4.4.2-conservation-programs-and-partnerships-priority-311,Conservation Programs And Partnerships Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-312,Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-312,NCWAP15 Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-312,Conservation Programs And Partnerships Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-313,Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-313,NCWAP15 Priority
+ncwap15-4.2.2-conservation-programs-and-partnerships-priority-313,Conservation Programs And Partnerships Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-314,Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-314,NCWAP15 Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-314,Conservation Programs And Partnerships Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-315,Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-315,NCWAP15 Priority
+ncwap15-4.3.9-conservation-programs-and-partnerships-priority-315,Conservation Programs And Partnerships Priority
+ncwap15-4.4.1-conservation-programs-and-partnerships-priority-316,Priority
+ncwap15-4.4.1-conservation-programs-and-partnerships-priority-316,NCWAP15 Priority
+ncwap15-4.4.1-conservation-programs-and-partnerships-priority-316,Conservation Programs And Partnerships Priority
+ncwap15-4.4.1-conservation-programs-and-partnerships-priority-317,Priority
+ncwap15-4.4.1-conservation-programs-and-partnerships-priority-317,NCWAP15 Priority
+ncwap15-4.4.1-conservation-programs-and-partnerships-priority-317,Conservation Programs And Partnerships Priority
+ncwap15-4.4.10-management-practices-priority-318,Priority
+ncwap15-4.4.10-management-practices-priority-318,NCWAP15 Priority
+ncwap15-4.4.10-management-practices-priority-318,Management Practices Priority
+ncwap15-4.4.10-management-practices-priority-319,Priority
+ncwap15-4.4.10-management-practices-priority-319,NCWAP15 Priority
+ncwap15-4.4.10-management-practices-priority-319,Management Practices Priority
+ncwap15-4.4.13-management-practices-priority-320,Priority
+ncwap15-4.4.13-management-practices-priority-320,NCWAP15 Priority
+ncwap15-4.4.13-management-practices-priority-320,Management Practices Priority
+ncwap15-4.4.13-management-practices-priority-321,Priority
+ncwap15-4.4.13-management-practices-priority-321,NCWAP15 Priority
+ncwap15-4.4.13-management-practices-priority-321,Management Practices Priority
+ncwap15-4.4.13-management-practices-priority-322,Priority
+ncwap15-4.4.13-management-practices-priority-322,NCWAP15 Priority
+ncwap15-4.4.13-management-practices-priority-322,Management Practices Priority
+ncwap15-4.2.14-management-practices-priority-323,Priority
+ncwap15-4.2.14-management-practices-priority-323,NCWAP15 Priority
+ncwap15-4.2.14-management-practices-priority-323,Management Practices Priority
+ncwap15-4.2.14-management-practices-priority-324,Priority
+ncwap15-4.2.14-management-practices-priority-324,NCWAP15 Priority
+ncwap15-4.2.14-management-practices-priority-324,Management Practices Priority
+ncwap15-4.3.2-management-practices-priority-325,Priority
+ncwap15-4.3.2-management-practices-priority-325,NCWAP15 Priority
+ncwap15-4.3.2-management-practices-priority-325,Management Practices Priority
+ncwap15-4.3.2-management-practices-priority-326,Priority
+ncwap15-4.3.2-management-practices-priority-326,NCWAP15 Priority
+ncwap15-4.3.2-management-practices-priority-326,Management Practices Priority
+ncwap15-4.3.2-management-practices-priority-327,Priority
+ncwap15-4.3.2-management-practices-priority-327,NCWAP15 Priority
+ncwap15-4.3.2-management-practices-priority-327,Management Practices Priority
+ncwap15-4.4.4-conservation-programs-and-partnerships-priority-328,Priority
+ncwap15-4.4.4-conservation-programs-and-partnerships-priority-328,NCWAP15 Priority
+ncwap15-4.4.4-conservation-programs-and-partnerships-priority-328,Conservation Programs And Partnerships Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-329,Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-329,NCWAP15 Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-329,Conservation Programs And Partnerships Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-330,Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-330,NCWAP15 Priority
+ncwap15-4.4.10-conservation-programs-and-partnerships-priority-330,Conservation Programs And Partnerships Priority
+ncwap15-4.4.13-conservation-programs-and-partnerships-priority-331,Priority
+ncwap15-4.4.13-conservation-programs-and-partnerships-priority-331,NCWAP15 Priority
+ncwap15-4.4.13-conservation-programs-and-partnerships-priority-331,Conservation Programs And Partnerships Priority
+ncwap15-4.4.13-conservation-programs-and-partnerships-priority-332,Priority
+ncwap15-4.4.13-conservation-programs-and-partnerships-priority-332,NCWAP15 Priority
+ncwap15-4.4.13-conservation-programs-and-partnerships-priority-332,Conservation Programs And Partnerships Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-333,Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-333,NCWAP15 Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-333,Conservation Programs And Partnerships Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-334,Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-334,NCWAP15 Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-334,Conservation Programs And Partnerships Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-335,Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-335,NCWAP15 Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-335,Conservation Programs And Partnerships Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-336,Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-336,NCWAP15 Priority
+ncwap15-4.2.14-conservation-programs-and-partnerships-priority-336,Conservation Programs And Partnerships Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-337,Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-337,NCWAP15 Priority
+ncwap15-4.3.2-conservation-programs-and-partnerships-priority-337,Conservation Programs And Partnerships Priority
+ncwap15-4.2.11-management-practices-priority-338,Priority
+ncwap15-4.2.11-management-practices-priority-338,NCWAP15 Priority
+ncwap15-4.2.11-management-practices-priority-338,Management Practices Priority
+ncwap15-4.3.5-management-practices-priority-339,Priority
+ncwap15-4.3.5-management-practices-priority-339,NCWAP15 Priority
+ncwap15-4.3.5-management-practices-priority-339,Management Practices Priority
+ncwap15-4.3.3-management-practices-priority-340,Priority
+ncwap15-4.3.3-management-practices-priority-340,NCWAP15 Priority
+ncwap15-4.3.3-management-practices-priority-340,Management Practices Priority
+ncwap15-4.3.4-management-practices-priority-341,Priority
+ncwap15-4.3.4-management-practices-priority-341,NCWAP15 Priority
+ncwap15-4.3.4-management-practices-priority-341,Management Practices Priority
+ncwap15-4.3.4-management-practices-priority-342,Priority
+ncwap15-4.3.4-management-practices-priority-342,NCWAP15 Priority
+ncwap15-4.3.4-management-practices-priority-342,Management Practices Priority
+ncwap15-4.3.4-management-practices-priority-343,Priority
+ncwap15-4.3.4-management-practices-priority-343,NCWAP15 Priority
+ncwap15-4.3.4-management-practices-priority-343,Management Practices Priority
+ncwap15-4.3.6-management-practices-priority-344,Priority
+ncwap15-4.3.6-management-practices-priority-344,NCWAP15 Priority
+ncwap15-4.3.6-management-practices-priority-344,Management Practices Priority
+ncwap15-4.3.6-management-practices-priority-345,Priority
+ncwap15-4.3.6-management-practices-priority-345,NCWAP15 Priority
+ncwap15-4.3.6-management-practices-priority-345,Management Practices Priority
+ncwap15-4.4.6-management-practices-priority-346,Priority
+ncwap15-4.4.6-management-practices-priority-346,NCWAP15 Priority
+ncwap15-4.4.6-management-practices-priority-346,Management Practices Priority
+ncwap15-4.2.7-management-practices-priority-347,Priority
+ncwap15-4.2.7-management-practices-priority-347,NCWAP15 Priority
+ncwap15-4.2.7-management-practices-priority-347,Management Practices Priority
+ncwap15-4.4.7-management-practices-priority-348,Priority
+ncwap15-4.4.7-management-practices-priority-348,NCWAP15 Priority
+ncwap15-4.4.7-management-practices-priority-348,Management Practices Priority
+ncwap15-4.2.10-management-practices-priority-349,Priority
+ncwap15-4.2.10-management-practices-priority-349,NCWAP15 Priority
+ncwap15-4.2.10-management-practices-priority-349,Management Practices Priority
+ncwap15-4.4.14-management-practices-priority-350,Priority
+ncwap15-4.4.14-management-practices-priority-350,NCWAP15 Priority
+ncwap15-4.4.14-management-practices-priority-350,Management Practices Priority
+ncwap15-4.4.15-management-practices-priority-351,Priority
+ncwap15-4.4.15-management-practices-priority-351,NCWAP15 Priority
+ncwap15-4.4.15-management-practices-priority-351,Management Practices Priority
+ncwap15-4.4.15-management-practices-priority-352,Priority
+ncwap15-4.4.15-management-practices-priority-352,NCWAP15 Priority
+ncwap15-4.4.15-management-practices-priority-352,Management Practices Priority
+ncwap15-4.4.15-management-practices-priority-353,Priority
+ncwap15-4.4.15-management-practices-priority-353,NCWAP15 Priority
+ncwap15-4.4.15-management-practices-priority-353,Management Practices Priority
+ncwap15-4.2.9-management-practices-priority-354,Priority
+ncwap15-4.2.9-management-practices-priority-354,NCWAP15 Priority
+ncwap15-4.2.9-management-practices-priority-354,Management Practices Priority
+ncwap15-4.4.9-management-practices-priority-355,Priority
+ncwap15-4.4.9-management-practices-priority-355,NCWAP15 Priority
+ncwap15-4.4.9-management-practices-priority-355,Management Practices Priority
+ncwap15-4.4.9-management-practices-priority-356,Priority
+ncwap15-4.4.9-management-practices-priority-356,NCWAP15 Priority
+ncwap15-4.4.9-management-practices-priority-356,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-357,Priority
+ncwap15-4.2.2-management-practices-priority-357,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-357,Management Practices Priority
+ncwap15-4.4.12-management-practices-priority-358,Priority
+ncwap15-4.4.12-management-practices-priority-358,NCWAP15 Priority
+ncwap15-4.4.12-management-practices-priority-358,Management Practices Priority
+ncwap15-4.3.7-management-practices-priority-359,Priority
+ncwap15-4.3.7-management-practices-priority-359,NCWAP15 Priority
+ncwap15-4.3.7-management-practices-priority-359,Management Practices Priority
+ncwap15-4.3.7-management-practices-priority-360,Priority
+ncwap15-4.3.7-management-practices-priority-360,NCWAP15 Priority
+ncwap15-4.3.7-management-practices-priority-360,Management Practices Priority
+ncwap15-4.3.7-management-practices-priority-361,Priority
+ncwap15-4.3.7-management-practices-priority-361,NCWAP15 Priority
+ncwap15-4.3.7-management-practices-priority-361,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-362,Priority
+ncwap15-4.2.2-management-practices-priority-362,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-362,Management Practices Priority
+ncwap15-4.4.11-management-practices-priority-363,Priority
+ncwap15-4.4.11-management-practices-priority-363,NCWAP15 Priority
+ncwap15-4.4.11-management-practices-priority-363,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-364,Priority
+ncwap15-4.2.2-management-practices-priority-364,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-364,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-365,Priority
+ncwap15-4.2.2-management-practices-priority-365,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-365,Management Practices Priority
+ncwap15-4.2.13-management-practices-priority-366,Priority
+ncwap15-4.2.13-management-practices-priority-366,NCWAP15 Priority
+ncwap15-4.2.13-management-practices-priority-366,Management Practices Priority
+ncwap15-4.2.13-management-practices-priority-367,Priority
+ncwap15-4.2.13-management-practices-priority-367,NCWAP15 Priority
+ncwap15-4.2.13-management-practices-priority-367,Management Practices Priority
+ncwap15-4.4.16-management-practices-priority-368,Priority
+ncwap15-4.4.16-management-practices-priority-368,NCWAP15 Priority
+ncwap15-4.4.16-management-practices-priority-368,Management Practices Priority
+ncwap15-4.4.16-management-practices-priority-369,Priority
+ncwap15-4.4.16-management-practices-priority-369,NCWAP15 Priority
+ncwap15-4.4.16-management-practices-priority-369,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-370,Priority
+ncwap15-4.2.2-management-practices-priority-370,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-370,Management Practices Priority
+ncwap15-4.4.16-management-practices-priority-371,Priority
+ncwap15-4.4.16-management-practices-priority-371,NCWAP15 Priority
+ncwap15-4.4.16-management-practices-priority-371,Management Practices Priority
+ncwap15-4.2.8-management-practices-priority-372,Priority
+ncwap15-4.2.8-management-practices-priority-372,NCWAP15 Priority
+ncwap15-4.2.8-management-practices-priority-372,Management Practices Priority
+ncwap15-4.2.2-management-practices-priority-373,Priority
+ncwap15-4.2.2-management-practices-priority-373,NCWAP15 Priority
+ncwap15-4.2.2-management-practices-priority-373,Management Practices Priority
+ncwap15-4.2.8-management-practices-priority-374,Priority
+ncwap15-4.2.8-management-practices-priority-374,NCWAP15 Priority
+ncwap15-4.2.8-management-practices-priority-374,Management Practices Priority
+ncwap15-4.2.8-management-practices-priority-375,Priority
+ncwap15-4.2.8-management-practices-priority-375,NCWAP15 Priority
+ncwap15-4.2.8-management-practices-priority-375,Management Practices Priority
+ncwap15-4.4.18-management-practices-priority-376,Priority
+ncwap15-4.4.18-management-practices-priority-376,NCWAP15 Priority
+ncwap15-4.4.18-management-practices-priority-376,Management Practices Priority
+ncwap15-4.4.17-management-practices-priority-377,Priority
+ncwap15-4.4.17-management-practices-priority-377,NCWAP15 Priority
+ncwap15-4.4.17-management-practices-priority-377,Management Practices Priority
+ncwap15-4.4.17-management-practices-priority-378,Priority
+ncwap15-4.4.17-management-practices-priority-378,NCWAP15 Priority
+ncwap15-4.4.17-management-practices-priority-378,Management Practices Priority
+ncwap15-4.4.17-management-practices-priority-379,Priority
+ncwap15-4.4.17-management-practices-priority-379,NCWAP15 Priority
+ncwap15-4.4.17-management-practices-priority-379,Management Practices Priority
+ncwap15-4.3.9-management-practices-priority-380,Priority
+ncwap15-4.3.9-management-practices-priority-380,NCWAP15 Priority
+ncwap15-4.3.9-management-practices-priority-380,Management Practices Priority
+ncwap15-4.4.17-management-practices-priority-381,Priority
+ncwap15-4.4.17-management-practices-priority-381,NCWAP15 Priority
+ncwap15-4.4.17-management-practices-priority-381,Management Practices Priority
+ncwap15-4.3.10-management-practices-priority-382,Priority
+ncwap15-4.3.10-management-practices-priority-382,NCWAP15 Priority
+ncwap15-4.3.10-management-practices-priority-382,Management Practices Priority
+ncwap15-4.3.11-management-practices-priority-383,Priority
+ncwap15-4.3.11-management-practices-priority-383,NCWAP15 Priority
+ncwap15-4.3.11-management-practices-priority-383,Management Practices Priority
+ncwap15-4.4.1-management-practices-priority-384,Priority
+ncwap15-4.4.1-management-practices-priority-384,NCWAP15 Priority
+ncwap15-4.4.1-management-practices-priority-384,Management Practices Priority
+ncwap15-4.4.4-monitoring-priority-385,Priority
+ncwap15-4.4.4-monitoring-priority-385,NCWAP15 Priority
+ncwap15-4.4.4-monitoring-priority-385,Monitoring Priority
+ncwap15-4.4.4-monitoring-priority-386,Priority
+ncwap15-4.4.4-monitoring-priority-386,NCWAP15 Priority
+ncwap15-4.4.4-monitoring-priority-386,Monitoring Priority
+ncwap15-4.3.1-monitoring-priority-387,Priority
+ncwap15-4.3.1-monitoring-priority-387,NCWAP15 Priority
+ncwap15-4.3.1-monitoring-priority-387,Monitoring Priority
+ncwap15-4.4.13-monitoring-priority-388,Priority
+ncwap15-4.4.13-monitoring-priority-388,NCWAP15 Priority
+ncwap15-4.4.13-monitoring-priority-388,Monitoring Priority
+ncwap15-4.4.13-monitoring-priority-389,Priority
+ncwap15-4.4.13-monitoring-priority-389,NCWAP15 Priority
+ncwap15-4.4.13-monitoring-priority-389,Monitoring Priority
+ncwap15-4.3.1-monitoring-priority-390,Priority
+ncwap15-4.3.1-monitoring-priority-390,NCWAP15 Priority
+ncwap15-4.3.1-monitoring-priority-390,Monitoring Priority
+ncwap15-4.2.14-monitoring-priority-391,Priority
+ncwap15-4.2.14-monitoring-priority-391,NCWAP15 Priority
+ncwap15-4.2.14-monitoring-priority-391,Monitoring Priority
+ncwap15-4.2.14-monitoring-priority-392,Priority
+ncwap15-4.2.14-monitoring-priority-392,NCWAP15 Priority
+ncwap15-4.2.14-monitoring-priority-392,Monitoring Priority
+ncwap15-4.2.14-monitoring-priority-393,Priority
+ncwap15-4.2.14-monitoring-priority-393,NCWAP15 Priority
+ncwap15-4.2.14-monitoring-priority-393,Monitoring Priority
+ncwap15-4.3.2-monitoring-priority-394,Priority
+ncwap15-4.3.2-monitoring-priority-394,NCWAP15 Priority
+ncwap15-4.3.2-monitoring-priority-394,Monitoring Priority
+ncwap15-4.3.5-monitoring-priority-395,Priority
+ncwap15-4.3.5-monitoring-priority-395,NCWAP15 Priority
+ncwap15-4.3.5-monitoring-priority-395,Monitoring Priority
+ncwap15-4.3.3-monitoring-priority-396,Priority
+ncwap15-4.3.3-monitoring-priority-396,NCWAP15 Priority
+ncwap15-4.3.3-monitoring-priority-396,Monitoring Priority
+ncwap15-4.3.5-monitoring-priority-397,Priority
+ncwap15-4.3.5-monitoring-priority-397,NCWAP15 Priority
+ncwap15-4.3.5-monitoring-priority-397,Monitoring Priority
+ncwap15-4.3.4-monitoring-priority-398,Priority
+ncwap15-4.3.4-monitoring-priority-398,NCWAP15 Priority
+ncwap15-4.3.4-monitoring-priority-398,Monitoring Priority
+ncwap15-4.3.5-monitoring-priority-399,Priority
+ncwap15-4.3.5-monitoring-priority-399,NCWAP15 Priority
+ncwap15-4.3.5-monitoring-priority-399,Monitoring Priority
+ncwap15-4.3.5-monitoring-priority-400,Priority
+ncwap15-4.3.5-monitoring-priority-400,NCWAP15 Priority
+ncwap15-4.3.5-monitoring-priority-400,Monitoring Priority
+ncwap15-4.3.6-monitoring-priority-401,Priority
+ncwap15-4.3.6-monitoring-priority-401,NCWAP15 Priority
+ncwap15-4.3.6-monitoring-priority-401,Monitoring Priority
+ncwap15-4.2.7-monitoring-priority-402,Priority
+ncwap15-4.2.7-monitoring-priority-402,NCWAP15 Priority
+ncwap15-4.2.7-monitoring-priority-402,Monitoring Priority
+ncwap15-4.4.8-monitoring-priority-403,Priority
+ncwap15-4.4.8-monitoring-priority-403,NCWAP15 Priority
+ncwap15-4.4.8-monitoring-priority-403,Monitoring Priority
+ncwap15-4.4.8-monitoring-priority-404,Priority
+ncwap15-4.4.8-monitoring-priority-404,NCWAP15 Priority
+ncwap15-4.4.8-monitoring-priority-404,Monitoring Priority
+ncwap15-4.4.14-monitoring-priority-405,Priority
+ncwap15-4.4.14-monitoring-priority-405,NCWAP15 Priority
+ncwap15-4.4.14-monitoring-priority-405,Monitoring Priority
+ncwap15-4.4.14-monitoring-priority-406,Priority
+ncwap15-4.4.14-monitoring-priority-406,NCWAP15 Priority
+ncwap15-4.4.14-monitoring-priority-406,Monitoring Priority
+ncwap15-4.4.14-monitoring-priority-407,Priority
+ncwap15-4.4.14-monitoring-priority-407,NCWAP15 Priority
+ncwap15-4.4.14-monitoring-priority-407,Monitoring Priority
+ncwap15-4.4.14-monitoring-priority-408,Priority
+ncwap15-4.4.14-monitoring-priority-408,NCWAP15 Priority
+ncwap15-4.4.14-monitoring-priority-408,Monitoring Priority
+ncwap15-4.2.2-monitoring-priority-409,Priority
+ncwap15-4.2.2-monitoring-priority-409,NCWAP15 Priority
+ncwap15-4.2.2-monitoring-priority-409,Monitoring Priority
+ncwap15-4.4.15-monitoring-priority-410,Priority
+ncwap15-4.4.15-monitoring-priority-410,NCWAP15 Priority
+ncwap15-4.4.15-monitoring-priority-410,Monitoring Priority
+ncwap15-4.4.9-monitoring-priority-411,Priority
+ncwap15-4.4.9-monitoring-priority-411,NCWAP15 Priority
+ncwap15-4.4.9-monitoring-priority-411,Monitoring Priority
+ncwap15-4.2.9-monitoring-priority-412,Priority
+ncwap15-4.2.9-monitoring-priority-412,NCWAP15 Priority
+ncwap15-4.2.9-monitoring-priority-412,Monitoring Priority
+ncwap15-4.2.2-monitoring-priority-413,Priority
+ncwap15-4.2.2-monitoring-priority-413,NCWAP15 Priority
+ncwap15-4.2.2-monitoring-priority-413,Monitoring Priority
+ncwap15-4.2.2-monitoring-priority-414,Priority
+ncwap15-4.2.2-monitoring-priority-414,NCWAP15 Priority
+ncwap15-4.2.2-monitoring-priority-414,Monitoring Priority
+ncwap15-4.4.12-monitoring-priority-415,Priority
+ncwap15-4.4.12-monitoring-priority-415,NCWAP15 Priority
+ncwap15-4.4.12-monitoring-priority-415,Monitoring Priority
+ncwap15-4.4.12-monitoring-priority-416,Priority
+ncwap15-4.4.12-monitoring-priority-416,NCWAP15 Priority
+ncwap15-4.4.12-monitoring-priority-416,Monitoring Priority
+ncwap15-4.3.7-monitoring-priority-417,Priority
+ncwap15-4.3.7-monitoring-priority-417,NCWAP15 Priority
+ncwap15-4.3.7-monitoring-priority-417,Monitoring Priority
+ncwap15-4.4.3-monitoring-priority-418,Priority
+ncwap15-4.4.3-monitoring-priority-418,NCWAP15 Priority
+ncwap15-4.4.3-monitoring-priority-418,Monitoring Priority
+ncwap15-4.4.11-monitoring-priority-419,Priority
+ncwap15-4.4.11-monitoring-priority-419,NCWAP15 Priority
+ncwap15-4.4.11-monitoring-priority-419,Monitoring Priority
+ncwap15-4.4.11-monitoring-priority-420,Priority
+ncwap15-4.4.11-monitoring-priority-420,NCWAP15 Priority
+ncwap15-4.4.11-monitoring-priority-420,Monitoring Priority
+ncwap15-4.2.13-monitoring-priority-421,Priority
+ncwap15-4.2.13-monitoring-priority-421,NCWAP15 Priority
+ncwap15-4.2.13-monitoring-priority-421,Monitoring Priority
+ncwap15-4.4.16-monitoring-priority-422,Priority
+ncwap15-4.4.16-monitoring-priority-422,NCWAP15 Priority
+ncwap15-4.4.16-monitoring-priority-422,Monitoring Priority
+ncwap15-4.4.2-monitoring-priority-423,Priority
+ncwap15-4.4.2-monitoring-priority-423,NCWAP15 Priority
+ncwap15-4.4.2-monitoring-priority-423,Monitoring Priority
+ncwap15-4.4.2-monitoring-priority-424,Priority
+ncwap15-4.4.2-monitoring-priority-424,NCWAP15 Priority
+ncwap15-4.4.2-monitoring-priority-424,Monitoring Priority
+ncwap15-4.3.9-monitoring-priority-425,Priority
+ncwap15-4.3.9-monitoring-priority-425,NCWAP15 Priority
+ncwap15-4.3.9-monitoring-priority-425,Monitoring Priority
+ncwap15-4.4.1-monitoring-priority-426,Priority
+ncwap15-4.4.1-monitoring-priority-426,NCWAP15 Priority
+ncwap15-4.4.1-monitoring-priority-426,Monitoring Priority
+ncwap15-4.4.1-monitoring-priority-427,Priority
+ncwap15-4.4.1-monitoring-priority-427,NCWAP15 Priority
+ncwap15-4.4.1-monitoring-priority-427,Monitoring Priority
+ncwap15-4.4.10-research-priority-428,Priority
+ncwap15-4.4.10-research-priority-428,NCWAP15 Priority
+ncwap15-4.4.10-research-priority-428,Research Priority
+ncwap15-4.2.14-research-priority-429,Priority
+ncwap15-4.2.14-research-priority-429,NCWAP15 Priority
+ncwap15-4.2.14-research-priority-429,Research Priority
+ncwap15-4.2.14-research-priority-430,Priority
+ncwap15-4.2.14-research-priority-430,NCWAP15 Priority
+ncwap15-4.2.14-research-priority-430,Research Priority
+ncwap15-4.3.2-research-priority-431,Priority
+ncwap15-4.3.2-research-priority-431,NCWAP15 Priority
+ncwap15-4.3.2-research-priority-431,Research Priority
+ncwap15-4.3.5-research-priority-432,Priority
+ncwap15-4.3.5-research-priority-432,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-432,Research Priority
+ncwap15-4.3.5-research-priority-433,Priority
+ncwap15-4.3.5-research-priority-433,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-433,Research Priority
+ncwap15-4.3.4-research-priority-434,Priority
+ncwap15-4.3.4-research-priority-434,NCWAP15 Priority
+ncwap15-4.3.4-research-priority-434,Research Priority
+ncwap15-4.2.2-research-priority-435,Priority
+ncwap15-4.2.2-research-priority-435,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-435,Research Priority
+ncwap15-4.3.5-research-priority-436,Priority
+ncwap15-4.3.5-research-priority-436,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-436,Research Priority
+ncwap15-4.3.5-research-priority-437,Priority
+ncwap15-4.3.5-research-priority-437,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-437,Research Priority
+ncwap15-4.3.5-research-priority-438,Priority
+ncwap15-4.3.5-research-priority-438,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-438,Research Priority
+ncwap15-4.2.2-research-priority-439,Priority
+ncwap15-4.2.2-research-priority-439,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-439,Research Priority
+ncwap15-4.2.2-research-priority-440,Priority
+ncwap15-4.2.2-research-priority-440,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-440,Research Priority
+ncwap15-4.3.5-research-priority-441,Priority
+ncwap15-4.3.5-research-priority-441,NCWAP15 Priority
+ncwap15-4.3.5-research-priority-441,Research Priority
+ncwap15-4.2.2-research-priority-442,Priority
+ncwap15-4.2.2-research-priority-442,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-442,Research Priority
+ncwap15-4.2.2-research-priority-443,Priority
+ncwap15-4.2.2-research-priority-443,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-443,Research Priority
+ncwap15-4.3.6-research-priority-444,Priority
+ncwap15-4.3.6-research-priority-444,NCWAP15 Priority
+ncwap15-4.3.6-research-priority-444,Research Priority
+ncwap15-4.4.6-research-priority-445,Priority
+ncwap15-4.4.6-research-priority-445,NCWAP15 Priority
+ncwap15-4.4.6-research-priority-445,Research Priority
+ncwap15-4.2.7-research-priority-446,Priority
+ncwap15-4.2.7-research-priority-446,NCWAP15 Priority
+ncwap15-4.2.7-research-priority-446,Research Priority
+ncwap15-4.2.2-research-priority-447,Priority
+ncwap15-4.2.2-research-priority-447,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-447,Research Priority
+ncwap15-4.2.10-research-priority-448,Priority
+ncwap15-4.2.10-research-priority-448,NCWAP15 Priority
+ncwap15-4.2.10-research-priority-448,Research Priority
+ncwap15-4.2.2-research-priority-449,Priority
+ncwap15-4.2.2-research-priority-449,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-449,Research Priority
+ncwap15-4.2.2-research-priority-450,Priority
+ncwap15-4.2.2-research-priority-450,NCWAP15 Priority
+ncwap15-4.2.2-research-priority-450,Research Priority
+ncwap15-4.4.5-research-priority-451,Priority
+ncwap15-4.4.5-research-priority-451,NCWAP15 Priority
+ncwap15-4.4.5-research-priority-451,Research Priority
+ncwap15-4.4.8-research-priority-452,Priority
+ncwap15-4.4.8-research-priority-452,NCWAP15 Priority
+ncwap15-4.4.8-research-priority-452,Research Priority
+ncwap15-4.4.5-research-priority-453,Priority
+ncwap15-4.4.5-research-priority-453,NCWAP15 Priority
+ncwap15-4.4.5-research-priority-453,Research Priority
+ncwap15-4.4.14-research-priority-454,Priority
+ncwap15-4.4.14-research-priority-454,NCWAP15 Priority
+ncwap15-4.4.14-research-priority-454,Research Priority
+ncwap15-4.4.14-research-priority-455,Priority
+ncwap15-4.4.14-research-priority-455,NCWAP15 Priority
+ncwap15-4.4.14-research-priority-455,Research Priority
+ncwap15-4.4.14-research-priority-456,Priority
+ncwap15-4.4.14-research-priority-456,NCWAP15 Priority
+ncwap15-4.4.14-research-priority-456,Research Priority
+ncwap15-4.4.14-research-priority-457,Priority
+ncwap15-4.4.14-research-priority-457,NCWAP15 Priority
+ncwap15-4.4.14-research-priority-457,Research Priority
+ncwap15-4.4.15-research-priority-458,Priority
+ncwap15-4.4.15-research-priority-458,NCWAP15 Priority
+ncwap15-4.4.15-research-priority-458,Research Priority
+ncwap15-4.4.15-research-priority-459,Priority
+ncwap15-4.4.15-research-priority-459,NCWAP15 Priority
+ncwap15-4.4.15-research-priority-459,Research Priority
+ncwap15-4.4.15-research-priority-460,Priority
+ncwap15-4.4.15-research-priority-460,NCWAP15 Priority
+ncwap15-4.4.15-research-priority-460,Research Priority
+ncwap15-4.2.9-research-priority-461,Priority
+ncwap15-4.2.9-research-priority-461,NCWAP15 Priority
+ncwap15-4.2.9-research-priority-461,Research Priority
+ncwap15-4.3.1-research-priority-462,Priority
+ncwap15-4.3.1-research-priority-462,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-462,Research Priority
+ncwap15-4.4.12-research-priority-463,Priority
+ncwap15-4.4.12-research-priority-463,NCWAP15 Priority
+ncwap15-4.4.12-research-priority-463,Research Priority
+ncwap15-4.4.12-research-priority-464,Priority
+ncwap15-4.4.12-research-priority-464,NCWAP15 Priority
+ncwap15-4.4.12-research-priority-464,Research Priority
+ncwap15-4.4.12-research-priority-465,Priority
+ncwap15-4.4.12-research-priority-465,NCWAP15 Priority
+ncwap15-4.4.12-research-priority-465,Research Priority
+ncwap15-4.4.12-research-priority-466,Priority
+ncwap15-4.4.12-research-priority-466,NCWAP15 Priority
+ncwap15-4.4.12-research-priority-466,Research Priority
+ncwap15-4.3.7-research-priority-467,Priority
+ncwap15-4.3.7-research-priority-467,NCWAP15 Priority
+ncwap15-4.3.7-research-priority-467,Research Priority
+ncwap15-4.3.7-research-priority-468,Priority
+ncwap15-4.3.7-research-priority-468,NCWAP15 Priority
+ncwap15-4.3.7-research-priority-468,Research Priority
+ncwap15-4.3.7-research-priority-469,Priority
+ncwap15-4.3.7-research-priority-469,NCWAP15 Priority
+ncwap15-4.3.7-research-priority-469,Research Priority
+ncwap15-4.4.3-research-priority-470,Priority
+ncwap15-4.4.3-research-priority-470,NCWAP15 Priority
+ncwap15-4.4.3-research-priority-470,Research Priority
+ncwap15-4.4.3-research-priority-471,Priority
+ncwap15-4.4.3-research-priority-471,NCWAP15 Priority
+ncwap15-4.4.3-research-priority-471,Research Priority
+ncwap15-4.4.11-research-priority-472,Priority
+ncwap15-4.4.11-research-priority-472,NCWAP15 Priority
+ncwap15-4.4.11-research-priority-472,Research Priority
+ncwap15-4.3.8-research-priority-473,Priority
+ncwap15-4.3.8-research-priority-473,NCWAP15 Priority
+ncwap15-4.3.8-research-priority-473,Research Priority
+ncwap15-4.3.8-research-priority-474,Priority
+ncwap15-4.3.8-research-priority-474,NCWAP15 Priority
+ncwap15-4.3.8-research-priority-474,Research Priority
+ncwap15-4.2.13-research-priority-475,Priority
+ncwap15-4.2.13-research-priority-475,NCWAP15 Priority
+ncwap15-4.2.13-research-priority-475,Research Priority
+ncwap15-4.2.8-research-priority-476,Priority
+ncwap15-4.2.8-research-priority-476,NCWAP15 Priority
+ncwap15-4.2.8-research-priority-476,Research Priority
+ncwap15-4.4.2-research-priority-477,Priority
+ncwap15-4.4.2-research-priority-477,NCWAP15 Priority
+ncwap15-4.4.2-research-priority-477,Research Priority
+ncwap15-4.4.2-research-priority-478,Priority
+ncwap15-4.4.2-research-priority-478,NCWAP15 Priority
+ncwap15-4.4.2-research-priority-478,Research Priority
+ncwap15-4.4.2-research-priority-479,Priority
+ncwap15-4.4.2-research-priority-479,NCWAP15 Priority
+ncwap15-4.4.2-research-priority-479,Research Priority
+ncwap15-4.2.11-research-priority-480,Priority
+ncwap15-4.2.11-research-priority-480,NCWAP15 Priority
+ncwap15-4.2.11-research-priority-480,Research Priority
+ncwap15-4.2.11-research-priority-481,Priority
+ncwap15-4.2.11-research-priority-481,NCWAP15 Priority
+ncwap15-4.2.11-research-priority-481,Research Priority
+ncwap15-4.4.17-research-priority-482,Priority
+ncwap15-4.4.17-research-priority-482,NCWAP15 Priority
+ncwap15-4.4.17-research-priority-482,Research Priority
+ncwap15-4.4.17-research-priority-483,Priority
+ncwap15-4.4.17-research-priority-483,NCWAP15 Priority
+ncwap15-4.4.17-research-priority-483,Research Priority
+ncwap15-4.3.9-research-priority-484,Priority
+ncwap15-4.3.9-research-priority-484,NCWAP15 Priority
+ncwap15-4.3.9-research-priority-484,Research Priority
+ncwap15-4.3.9-research-priority-485,Priority
+ncwap15-4.3.9-research-priority-485,NCWAP15 Priority
+ncwap15-4.3.9-research-priority-485,Research Priority
+ncwap15-4.3.10-research-priority-486,Priority
+ncwap15-4.3.10-research-priority-486,NCWAP15 Priority
+ncwap15-4.3.10-research-priority-486,Research Priority
+ncwap15-4.3.10-research-priority-487,Priority
+ncwap15-4.3.10-research-priority-487,NCWAP15 Priority
+ncwap15-4.3.10-research-priority-487,Research Priority
+ncwap15-4.3.11-research-priority-488,Priority
+ncwap15-4.3.11-research-priority-488,NCWAP15 Priority
+ncwap15-4.3.11-research-priority-488,Research Priority
+ncwap15-4.3.1-research-priority-489,Priority
+ncwap15-4.3.1-research-priority-489,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-489,Research Priority
+ncwap15-4.3.1-research-priority-490,Priority
+ncwap15-4.3.1-research-priority-490,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-490,Research Priority
+ncwap15-4.2.3-research-priority-491,Priority
+ncwap15-4.2.3-research-priority-491,NCWAP15 Priority
+ncwap15-4.2.3-research-priority-491,Research Priority
+ncwap15-4.2.3-research-priority-492,Priority
+ncwap15-4.2.3-research-priority-492,NCWAP15 Priority
+ncwap15-4.2.3-research-priority-492,Research Priority
+ncwap15-4.2.3-research-priority-493,Priority
+ncwap15-4.2.3-research-priority-493,NCWAP15 Priority
+ncwap15-4.2.3-research-priority-493,Research Priority
+ncwap15-4.2.3-research-priority-494,Priority
+ncwap15-4.2.3-research-priority-494,NCWAP15 Priority
+ncwap15-4.2.3-research-priority-494,Research Priority
+ncwap15-4.3.1-research-priority-495,Priority
+ncwap15-4.3.1-research-priority-495,NCWAP15 Priority
+ncwap15-4.3.1-research-priority-495,Research Priority
+ncwap15-4.4.10-surveys-priority-496,Priority
+ncwap15-4.4.10-surveys-priority-496,NCWAP15 Priority
+ncwap15-4.4.10-surveys-priority-496,Surveys Priority
+ncwap15-4.4.10-surveys-priority-497,Priority
+ncwap15-4.4.10-surveys-priority-497,NCWAP15 Priority
+ncwap15-4.4.10-surveys-priority-497,Surveys Priority
+ncwap15-4.2.14-surveys-priority-498,Priority
+ncwap15-4.2.14-surveys-priority-498,NCWAP15 Priority
+ncwap15-4.2.14-surveys-priority-498,Surveys Priority
+ncwap15-4.3.2-surveys-priority-499,Priority
+ncwap15-4.3.2-surveys-priority-499,NCWAP15 Priority
+ncwap15-4.3.2-surveys-priority-499,Surveys Priority
+ncwap15-4.2.4-surveys-priority-500,Priority
+ncwap15-4.2.4-surveys-priority-500,NCWAP15 Priority
+ncwap15-4.2.4-surveys-priority-500,Surveys Priority
+ncwap15-4.3.3-surveys-priority-501,Priority
+ncwap15-4.3.3-surveys-priority-501,NCWAP15 Priority
+ncwap15-4.3.3-surveys-priority-501,Surveys Priority
+ncwap15-4.2.2-surveys-priority-502,Priority
+ncwap15-4.2.2-surveys-priority-502,NCWAP15 Priority
+ncwap15-4.2.2-surveys-priority-502,Surveys Priority
+ncwap15-4.3.4-surveys-priority-503,Priority
+ncwap15-4.3.4-surveys-priority-503,NCWAP15 Priority
+ncwap15-4.3.4-surveys-priority-503,Surveys Priority
+ncwap15-4.3.4-surveys-priority-504,Priority
+ncwap15-4.3.4-surveys-priority-504,NCWAP15 Priority
+ncwap15-4.3.4-surveys-priority-504,Surveys Priority
+ncwap15-4.2.2-surveys-priority-505,Priority
+ncwap15-4.2.2-surveys-priority-505,NCWAP15 Priority
+ncwap15-4.2.2-surveys-priority-505,Surveys Priority
+ncwap15-4.3.5-surveys-priority-506,Priority
+ncwap15-4.3.5-surveys-priority-506,NCWAP15 Priority
+ncwap15-4.3.5-surveys-priority-506,Surveys Priority
+ncwap15-4.3.5-surveys-priority-507,Priority
+ncwap15-4.3.5-surveys-priority-507,NCWAP15 Priority
+ncwap15-4.3.5-surveys-priority-507,Surveys Priority
+ncwap15-4.3.5-surveys-priority-508,Priority
+ncwap15-4.3.5-surveys-priority-508,NCWAP15 Priority
+ncwap15-4.3.5-surveys-priority-508,Surveys Priority
+ncwap15-4.4.6-surveys-priority-509,Priority
+ncwap15-4.4.6-surveys-priority-509,NCWAP15 Priority
+ncwap15-4.4.6-surveys-priority-509,Surveys Priority
+ncwap15-4.2.7-surveys-priority-510,Priority
+ncwap15-4.2.7-surveys-priority-510,NCWAP15 Priority
+ncwap15-4.2.7-surveys-priority-510,Surveys Priority
+ncwap15-4.4.7-surveys-priority-511,Priority
+ncwap15-4.4.7-surveys-priority-511,NCWAP15 Priority
+ncwap15-4.4.7-surveys-priority-511,Surveys Priority
+ncwap15-4.4.7-surveys-priority-512,Priority
+ncwap15-4.4.7-surveys-priority-512,NCWAP15 Priority
+ncwap15-4.4.7-surveys-priority-512,Surveys Priority
+ncwap15-4.2.10-surveys-priority-513,Priority
+ncwap15-4.2.10-surveys-priority-513,NCWAP15 Priority
+ncwap15-4.2.10-surveys-priority-513,Surveys Priority
+ncwap15-4.4.8-surveys-priority-514,Priority
+ncwap15-4.4.8-surveys-priority-514,NCWAP15 Priority
+ncwap15-4.4.8-surveys-priority-514,Surveys Priority
+ncwap15-4.4.8-surveys-priority-515,Priority
+ncwap15-4.4.8-surveys-priority-515,NCWAP15 Priority
+ncwap15-4.4.8-surveys-priority-515,Surveys Priority
+ncwap15-4.4.5-surveys-priority-516,Priority
+ncwap15-4.4.5-surveys-priority-516,NCWAP15 Priority
+ncwap15-4.4.5-surveys-priority-516,Surveys Priority
+ncwap15-4.4.5-surveys-priority-517,Priority
+ncwap15-4.4.5-surveys-priority-517,NCWAP15 Priority
+ncwap15-4.4.5-surveys-priority-517,Surveys Priority
+ncwap15-4.4.14-surveys-priority-518,Priority
+ncwap15-4.4.14-surveys-priority-518,NCWAP15 Priority
+ncwap15-4.4.14-surveys-priority-518,Surveys Priority
+ncwap15-4.4.14-surveys-priority-519,Priority
+ncwap15-4.4.14-surveys-priority-519,NCWAP15 Priority
+ncwap15-4.4.14-surveys-priority-519,Surveys Priority
+ncwap15-4.4.15-surveys-priority-520,Priority
+ncwap15-4.4.15-surveys-priority-520,NCWAP15 Priority
+ncwap15-4.4.15-surveys-priority-520,Surveys Priority
+ncwap15-4.4.9-surveys-priority-521,Priority
+ncwap15-4.4.9-surveys-priority-521,NCWAP15 Priority
+ncwap15-4.4.9-surveys-priority-521,Surveys Priority
+ncwap15-4.4.9-surveys-priority-522,Priority
+ncwap15-4.4.9-surveys-priority-522,NCWAP15 Priority
+ncwap15-4.4.9-surveys-priority-522,Surveys Priority
+ncwap15-4.3.7-surveys-priority-523,Priority
+ncwap15-4.3.7-surveys-priority-523,NCWAP15 Priority
+ncwap15-4.3.7-surveys-priority-523,Surveys Priority
+ncwap15-4.3.7-surveys-priority-524,Priority
+ncwap15-4.3.7-surveys-priority-524,NCWAP15 Priority
+ncwap15-4.3.7-surveys-priority-524,Surveys Priority
+ncwap15-4.3.7-surveys-priority-525,Priority
+ncwap15-4.3.7-surveys-priority-525,NCWAP15 Priority
+ncwap15-4.3.7-surveys-priority-525,Surveys Priority
+ncwap15-4.4.3-surveys-priority-526,Priority
+ncwap15-4.4.3-surveys-priority-526,NCWAP15 Priority
+ncwap15-4.4.3-surveys-priority-526,Surveys Priority
+ncwap15-4.4.3-surveys-priority-527,Priority
+ncwap15-4.4.3-surveys-priority-527,NCWAP15 Priority
+ncwap15-4.4.3-surveys-priority-527,Surveys Priority
+ncwap15-4.3.8-surveys-priority-528,Priority
+ncwap15-4.3.8-surveys-priority-528,NCWAP15 Priority
+ncwap15-4.3.8-surveys-priority-528,Surveys Priority
+ncwap15-4.2.13-surveys-priority-529,Priority
+ncwap15-4.2.13-surveys-priority-529,NCWAP15 Priority
+ncwap15-4.2.13-surveys-priority-529,Surveys Priority
+ncwap15-4.2.8-surveys-priority-530,Priority
+ncwap15-4.2.8-surveys-priority-530,NCWAP15 Priority
+ncwap15-4.2.8-surveys-priority-530,Surveys Priority
+ncwap15-4.2.8-surveys-priority-531,Priority
+ncwap15-4.2.8-surveys-priority-531,NCWAP15 Priority
+ncwap15-4.2.8-surveys-priority-531,Surveys Priority
+ncwap15-4.4.2-surveys-priority-532,Priority
+ncwap15-4.4.2-surveys-priority-532,NCWAP15 Priority
+ncwap15-4.4.2-surveys-priority-532,Surveys Priority
+ncwap15-4.4.2-surveys-priority-533,Priority
+ncwap15-4.4.2-surveys-priority-533,NCWAP15 Priority
+ncwap15-4.4.2-surveys-priority-533,Surveys Priority
+ncwap15-4.2.11-surveys-priority-534,Priority
+ncwap15-4.2.11-surveys-priority-534,NCWAP15 Priority
+ncwap15-4.2.11-surveys-priority-534,Surveys Priority
+ncwap15-4.2.11-surveys-priority-535,Priority
+ncwap15-4.2.11-surveys-priority-535,NCWAP15 Priority
+ncwap15-4.2.11-surveys-priority-535,Surveys Priority
+ncwap15-4.4.17-surveys-priority-536,Priority
+ncwap15-4.4.17-surveys-priority-536,NCWAP15 Priority
+ncwap15-4.4.17-surveys-priority-536,Surveys Priority
+ncwap15-4.4.17-surveys-priority-537,Priority
+ncwap15-4.4.17-surveys-priority-537,NCWAP15 Priority
+ncwap15-4.4.17-surveys-priority-537,Surveys Priority
+ncwap15-4.3.9-surveys-priority-538,Priority
+ncwap15-4.3.9-surveys-priority-538,NCWAP15 Priority
+ncwap15-4.3.9-surveys-priority-538,Surveys Priority
+ncwap15-4.2.5-surveys-priority-539,Priority
+ncwap15-4.2.5-surveys-priority-539,NCWAP15 Priority
+ncwap15-4.2.5-surveys-priority-539,Surveys Priority
+ncwap15-4.4.1-surveys-priority-540,Priority
+ncwap15-4.4.1-surveys-priority-540,NCWAP15 Priority
+ncwap15-4.4.1-surveys-priority-540,Surveys Priority
+ncwap15-4.4.1-surveys-priority-541,Priority
+ncwap15-4.4.1-surveys-priority-541,NCWAP15 Priority
+ncwap15-4.4.1-surveys-priority-541,Surveys Priority
+ncwap15-4.2.4-surveys-priority-542,Priority
+ncwap15-4.2.4-surveys-priority-542,NCWAP15 Priority
+ncwap15-4.2.4-surveys-priority-542,Surveys Priority
+bogs-and-fens,Habitat
+bogs-and-fens,NCWAP15 Habitat
+bogs-and-fens,NCWAP05 Habitat
+bogs-and-fens,Wetland Natural Communities
+floodplains-brownwater-systems,Habitat
+floodplains-brownwater-systems,NCWAP15 Habitat
+floodplains-brownwater-systems,Wetland Natural Communities
+nonalluvial-mineral-wetlands,Habitat
+nonalluvial-mineral-wetlands,NCWAP15 Habitat
+nonalluvial-mineral-wetlands,Wetland Natural Communities
+wet-pine-savannas,Habitat
+wet-pine-savannas,NCWAP15 Habitat
+wet-pine-savannas,Wetland Natural Communities
+cove-forests,Habitat
+cove-forests,NCWAP15 Habitat
+cove-forests,Upland Communities
+mafic-glades-and-barrrens,Habitat
+mafic-glades-and-barrrens,NCWAP15 Habitat
+mafic-glades-and-barrrens,Upland Communities
+high-elevation-cliffs-and-rock-outcrops,Habitat
+high-elevation-cliffs-and-rock-outcrops,NCWAP15 Habitat
+high-elevation-cliffs-and-rock-outcrops,Upland Communities
+mesic-forests,Habitat
+mesic-forests,NCWAP15 Habitat
+mesic-forests,Upland Communities
+dry-coniferous-woodlands,Habitat
+dry-coniferous-woodlands,NCWAP15 Habitat
+dry-coniferous-woodlands,Upland Communities
+oak-and-mixed-hardwood/pine-forests-and-managed-timber,Habitat
+oak-and-mixed-hardwood/pine-forests-and-managed-timber,NCWAP15 Habitat
+oak-and-mixed-hardwood/pine-forests-and-managed-timber,Upland Communities
+maritime-forests,Habitat
+maritime-forests,NCWAP15 Habitat
+maritime-forests,Upland Communities
+maritime-grasslands,Habitat
+maritime-grasslands,NCWAP15 Habitat
+maritime-grasslands,Upland Communities
+central-appalachian-broadleaf-forest-coniferous-forest-meadow-province,Habitat
+central-appalachian-broadleaf-forest-coniferous-forest-meadow-province,Bailey's Habitat
+successional-communities,Habitat
+successional-communities,NCWAP15 Habitat
+successional-communities,Upland Communities
+warmwater-streams,Habitat
+warmwater-streams,NCWAP15 Habitat
+warmwater-streams,Aquatic Communities
+caves-and-mines,Habitat
+caves-and-mines,NCWAP15 Habitat
+caves-and-mines,Upland Communities
+coolwater-streams,Habitat
+coolwater-streams,NCWAP15 Habitat
+coolwater-streams,Aquatic Communities
+headwater-streams/small-creeks,Habitat
+headwater-streams/small-creeks,NCWAP15 Habitat
+headwater-streams/small-creeks,Aquatic Communities
+large-river-systems,Habitat
+large-river-systems,NCWAP15 Habitat
+large-river-systems,Aquatic Communities
+medium-river-systems,Habitat
+medium-river-systems,NCWAP15 Habitat
+medium-river-systems,Aquatic Communities
+sand-shell-and-wrack-active-shoreline,Habitat
+sand-shell-and-wrack-active-shoreline,NCWAP15 Habitat
+sand-shell-and-wrack-active-shoreline,Upland Communities
+united-states-shorebird-conservation-partnership,Organization
+united-states-shorebird-conservation-partnership,Partnership
+appalachian-mountain-joint-venture,Organization
+appalachian-mountain-joint-venture,Partnership
+appalachian-mountain-joint-venture,Migratory Bird Joint Venture
+partners-in-flight-eastern-working-group,Organization
+partners-in-flight-eastern-working-group,Partnership
+afwa-migratory-shore-and-upland-game-bird-working-group,Organization
+afwa-migratory-shore-and-upland-game-bird-working-group,Working Group
+golden-eagle-working-group,Organization
+golden-eagle-working-group,Working Group
+southeast-conservation-adaptation-strategy,Organization
+southeast-conservation-adaptation-strategy,Partnership
+southeast-conservation-adaptation-strategy,Migratory Bird Joint Venture
+north-carolina-birding-trail,Project
+north-carolina-colonial-waterbird-surveys,Project
+south-atlantic-migratory-bird-initiative-implementation-plan-2008,Plan
+north-carolina-wildlife-action-plan-2015,NCWAP15 Habitat
+north-carolina-wildlife-action-plan-2015,Wetland Natural Communities
+north-carolina-wildlife-action-plan-2015,NCWAP15 Habitat
+north-carolina-wildlife-action-plan-2015,Upland Communities
+north-carolina-wildlife-action-plan-2015,Plan
+american-woodcock-management-plan-1990,Plan
+atlantic-flyway-shorebird-business-strategy-2013,Plan
+conservation-plan-for-the-american-oystercatcher-2007,Plan
+golden-winged-warbler-status-review-and-conservation-plan-2012,Plan
+atlantic-coastal-plain,Geography
+atlantic-coastal-plain,Ecoregion
+southern-blue-ridge,Geography
+southern-blue-ridge,Ecoregion
+piedmont,Geography
+piedmont,Ecoregion
+sandhills,Geography
+sandhills,Ecoregion
+bird-conservation-region-28,Geography
+bird-conservation-region-28,Bird Conservation Region
+atlantic-flyway,Geography
+atlantic-flyway,Flyway

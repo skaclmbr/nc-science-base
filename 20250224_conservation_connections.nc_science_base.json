@@ -1,0 +1,1393 @@
+[{
+  "_id": {
+    "$oid": "66e4aa8593a76a5d2cf77019"
+  },
+  "link": {
+    "rel": "self",
+    "url": "https://www.sciencebase.gov/catalog/item/58f7fadae4b0b7ea5451fc5c"
+  },
+  "relatedItems": [
+    {
+      "id": "ncwap-2015-priority-181",
+      "type": "Priority",
+      "name": "2015 NCWAP Management Priority 181",
+      "url": "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan",
+      "rel": "related"
+    }
+  ],
+  "id": "nc-wildlife-action-plan",
+  "identifiers": [
+    {
+      "type": "DOI",
+      "scheme": "https://www.sciencebase.gov/vocab/category/item/identifier",
+      "key": "doi:10.5066/F79C6VJ0"
+    }
+  ],
+  "title": "North Carolina Wildlife Action Plan",
+  "summary": "The North Carolina Wildlife Action Plan (NCWAP) is intended to provide a foundation for State and Federal agencies and other conservation partners to think strategically about their individual roles and coordinate prioritizing conservation efforts throughout the state.  At a minimum, North Carolina's Plan will be comprehensively evaluated and revised every 10 years. However, we expect that as new information is discovered about the status of species and natural communities we will need to develop interim updates. You can help us keep the content of the Plan relevant to current issues and needs by sharing your knowledge about the state's fish and wildlife species and their habitats.",
+  "body": "",
+  "citation": "North Carolina Wildlife Resources Commission. 2015. North Carolina Wildlife Action Plan. Raleigh, NC.",
+  "purpose": "FOR 75 YEARS, state fish and wildlife agencies across the United States have benefited from federal aid funds provided by the Wildlife Restoration Act (Pittman–Robertson or PR), Sport Fisheries Restoration Act (Dingell–Johnson or DJ), and the Wallop-Breaux Act, which support the conservation and management of game fish and wildlife species. These funds aregenerated through federal excise taxes collected at the manufacturers’ level and have been critical to the establishment of long-term agency conservation planning related to game species. Yet conservation efforts for nongame fish and wildlife species (those that are not hunted or fished) have historically been opportunistic and crisis-driven. This is largely because of limited resources, such as a lack of dedicated funding, and a lack of strategic approaches to species and habitat conservation. With nearly 600 wildlife species listed nationally on the federal endangered and threatened species list, the need for a complementary source of funding for nongame species remains critical for the continued conservation, protection, and restoration of the full array of North Carolina’s wildlife species.",
+  "rights": "The authors of these data require that data users contact them regarding intended use and to assist with understanding limitations and interpretation. Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the NC Wildlife Resources Commission (NCWRC), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.",
+  "provenance": {
+    "annotation": "Revision 2.0 by Erika Sanchez-Chopitea and Pai Hui Yu on August 3, 2017. To review the changes that were made, see \"RevisionHistory_Vulnerability_DataRelease.odt\" in the attached files section.",
+    "dataSource": "Input directly",
+    "dateCreated": "2017-04-20T00:03:38Z",
+    "lastUpdated": "2020-12-22T16:50:24Z"
+  },
+  "maintenanceUpdateFrequency": "5 years",
+  "hasChildren": true,
+  "parentId": "55b7a980e4b09a3b01b5fa6f",
+  "contacts": [
+    {
+      "name": "Cindy Simpson",
+      "type": "Point of Contact",
+      "contactType": "person",
+      "onlineResource": "http://www.werc.usgs.gov/",
+      "active": true,
+      "aliases": [
+        "{\"name\":\"WESTERN ECOLOGICAL RESEARCH CT\"}",
+        "{\"name\":\"WESTERN ECOLOGICAL RESEARCH CTR.\"}",
+        "{\"name\":\"WERC\"}"
+      ],
+      "fbmsCodes": [
+        "GGWSZC0000"
+      ],
+      "logoUrl": "http://my.usgs.gov/static-cache/images/dataOwner/v1/logosMed/USGSLogo.gif",
+      "smallLogoUrl": "http://my.usgs.gov/static-cache/images/dataOwner/v1/logosSmall/USGSLogo.gif",
+      "organization": {},
+      "primaryLocation": {
+        "name": "CSUS Campus - Modoc Hall [WDD]",
+        "building": "Modoc Hall",
+        "buildingCode": "WDD",
+        "streetAddress": {
+          "line1": "Modoc Hall, USGS",
+          "line2": "3020 State University Drive East",
+          "city": "Sacramento",
+          "state": "CA",
+          "zip": "95819",
+          "country": "USA"
+        },
+        "mailAddress": {
+          "line1": "Modoc Hall, USGS",
+          "line2": "3020 State University Drive East",
+          "city": "Sacramento",
+          "state": "CA",
+          "zip": "95819",
+          "country": "USA"
+        }
+      }
+    },
+    {
+      "name": "Cindy Simpson",
+      "type": "Originator",
+      "organization": {
+        "displayText": "N.C. Wildlife Resources Commission"
+      },
+      "primaryLocation": {
+        "streetAddress": {
+          "line1": "1751 Varsity Drive",
+          "city": "Raleigh",
+          "state": "NC",
+          "zip": "27606"
+        },
+        "mailAddress": {
+          "line1": "1722 Mail Service Center",
+          "city": "Raleigh",
+          "state": "NC",
+          "zip": "27699-1722"
+        }
+      }
+    },
+    {
+      "name": "Metadata Maintenance Specialist",
+      "type": "Metadata Contact",
+      "contactType": "person",
+      "email": "pyu@usgs.gov",
+      "jobTitle": "Cartographic Technician",
+      "organization": {
+        "displayText": "U.S. Geological Survey, PACIFIC REGION"
+      },
+      "primaryLocation": {
+        "officePhone": "530-669-5067",
+        "streetAddress": {},
+        "mailAddress": {
+          "line1": "3020 State University Dr. East",
+          "city": "Sacramento",
+          "state": "CA",
+          "zip": "95819"
+        }
+      }
+    }
+  ],
+  "webLinks": [
+    {
+      "type": "Related_Primary_Publication",
+      "typeLabel": "Related Primary Publication",
+      "uri": "https://doi.org/10.3133/ofr20161154",
+      "title": "Collision and displacement vulnerability among marine birds of the California Current System associated with offshore wind energy infrastructure (ver. 1.1, July 2017)",
+      "hidden": false
+    }
+  ],
+  "browseCategories": [
+    "Data Release - Revised"
+  ],
+  "browseTypes": [
+    "Citation",
+    "Map Service",
+    "OGC WMS Service",
+    "OGC WFS Layer",
+    "OGC WMS Layer"
+  ],
+  "systemTypes": [
+    "Folder",
+    "Data Release"
+  ],
+  "tags": [
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Biota"
+    },
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Environment"
+    },
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Plan"
+    },
+    {
+      "type": "Place",
+      "scheme": "None",
+      "name": "North Carolina"
+    }
+  ],
+  "dates": [
+    {
+      "type": "Start",
+      "dateString": "2014-07",
+      "label": "Start Date"
+    },
+    {
+      "type": "End",
+      "dateString": "2016-01",
+      "label": "End Date"
+    },
+    {
+      "type": "Publication",
+      "dateString": "2016-10-27",
+      "label": "Publication Date"
+    },
+    {
+      "type": "revision",
+      "dateString": "2017-08-03",
+      "label": "Revision"
+    }
+  ],
+  "spatial": {
+    "representationalPoint": [
+      -120.43355,
+      34.8695
+    ],
+    "representationalPointIsDerived": true,
+    "boundingBox": {
+      "minX": -132.1124,
+      "maxX": -108.7547,
+      "minY": 21.8359,
+      "maxY": 47.9031
+    }
+  },
+  "extents": [
+    3107299
+  ],
+  "files": [
+    {
+      "key": null,
+      "name": "Complete Report",
+      "title": "2015 NC Wildlife Action Plan",
+      "type": "Report",
+      "size": 34545,
+      "contentType": "application/pdf",
+      "dateUploaded": "2024-09-13",
+      "url": "https://www.ncwildlife.org/Portals/0/Conserving/documents/2015WildlifeActionPlan/NC-WAP-2015-All-Documents.pdf",
+      "downloadUri": "https://www.ncwildlife.org/Portals/0/Conserving/documents/2015WildlifeActionPlan/NC-WAP-2015-All-Documents.pdf"
+    },
+    {
+      "key": null,
+      "name": "All Appendices except G, H, J, and P",
+      "title": "2015 NC Wildlife Action Plan",
+      "type": "Appendix",
+      "size": 1314,
+      "contentType": "application/pdf",
+      "dateUploaded": "2024-09-13",
+      "url": "https://www.ncwildlife.org/Portals/0/Conserving/documents/2015WildlifeActionPlan/NC-WAP-2015-All-Documents.pdf",
+      "downloadUri": "https://www.ncwildlife.org/Portals/0/Conserving/documents/2015WildlifeActionPlan/NC-WAP-2015-All-Documents.pdf"
+    },
+    {
+      "key": null,
+      "name": "Appendix H",
+      "title": "2015 NC Wildlife Action Plan",
+      "type": "Appendix",
+      "size": 39,
+      "contentType": "application/xlsx",
+      "dateUploaded": "2024-09-13",
+      "url": "https://www.ncwildlife.org/Portals/0/Conserving/documents/2015WildlifeActionPlan/NC-WAP-2015-All-Documents.pdf",
+      "downloadUri": "https://www.ncwildlife.org/Portals/0/Conserving/documents/2015WildlifeActionPlan/NC-WAP-2015-All-Documents.pdf"
+    }
+  ],
+  "distributionLinks": [
+    {
+      "uri": "https://www.sciencebase.gov/catalogMaps/mapping/ows/58f7fadae4b0b7ea5451fc5c?mode=download&request=kml&service=wms&layers=footprint,childrenBoundingBox,children",
+      "title": "KML Service",
+      "type": "kml",
+      "typeLabel": "KML Download",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalogMaps/mapping/ows/58f7fadae4b0b7ea5451fc5c?service=wms&request=getcapabilities&version=1.3.0",
+      "title": "ScienceBase WMS Service",
+      "type": "serviceCapabilitiesUrl",
+      "typeLabel": "OGC Service Capabilities URL",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/items?parentId=58f7fadae4b0b7ea5451fc5c&format=json",
+      "title": "ScienceBase Collection JSON",
+      "type": "repo",
+      "typeLabel": "ScienceBase Repository",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/items?parentId=58f7fadae4b0b7ea5451fc5c&format=atom",
+      "title": "ScienceBase Collection ATOM",
+      "type": "repo",
+      "typeLabel": "ScienceBase Repository",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/items?parentId=58f7fadae4b0b7ea5451fc5c&format=csv",
+      "title": "ScienceBase Collection CSV",
+      "type": "repo",
+      "typeLabel": "ScienceBase Repository",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/oai-pmh?verb=ListRecords&metadataPrefix=fgdc-orig&set=58f7fadae4b0b7ea5451fc5c",
+      "title": "ScienceBase OAI PMH Service",
+      "type": "oai-pmh",
+      "typeLabel": "OAI-PMH",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/item/58f7fadae4b0b7ea5451fc5c/csw?service=CSW&version=2.0.2&request=GetRecords",
+      "title": "ScienceBase CSW Service",
+      "type": "csw",
+      "typeLabel": "",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c",
+      "title": "Download Attached Files",
+      "type": "downloadLink",
+      "typeLabel": "Download Link",
+      "rel": "alternate",
+      "name": "Dataforcalculat.zip",
+      "files": [
+        {
+          "name": "RevisionHistory_Vulnerability_DataRelease.odt",
+          "title": "",
+          "contentType": "application/vnd.oasis.opendocument.text",
+          "size": 25721,
+          "checksum": {
+            "value": "6a2d0934c28ace00d3658c435a4ee331",
+            "type": "MD5"
+          }
+        },
+        {
+          "name": "Ashy Storm-Petrel_dpereksta_96.jpg",
+          "title": "Ashy Storm-Petrel. Courtesy of David M Pereksta, BOEM, used with permission",
+          "contentType": "image/jpeg",
+          "size": 45984,
+          "checksum": {
+            "value": "47ec8721bcee537155e76a0dc167876b",
+            "type": "MD5"
+          }
+        },
+        {
+          "name": "VulnerabilityAssessment_ver2_FGDC.xml",
+          "title": "",
+          "contentType": "application/fgdc+xml",
+          "size": 14314,
+          "checksum": {
+            "value": "ff18052c59ff2ae1e79cd65e201577ee",
+            "type": "MD5"
+          }
+        }
+      ]
+    }
+  ],
+  "previewImage": {
+    "from": "attachedFile",
+    "original": {
+      "uri": "https://drive.google.com/file/d/17DTYKgS1UIRRApvDu8b4g0oeOYqHY2dJ/view?usp=drive_link",
+      "viewUri": "https://drive.google.com/file/d/17DTYKgS1UIRRApvDu8b4g0oeOYqHY2dJ/view?usp=drive_link",
+      "viewUrl": "https://drive.google.com/file/d/17DTYKgS1UIRRApvDu8b4g0oeOYqHY2dJ/view?usp=drive_link",
+      "width": 672,
+      "height": 404,
+      "size": 45984,
+      "title": "NC Wildlife Action Plan 2015 cover"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66e4aa8593a76a5d2cf7701c"
+  },
+  "link": {
+    "rel": "self",
+    "url": "https://ncwildlife.org"
+  },
+  "id": "north-carolina-colonial-waterbird-surveys",
+  "title": "North Carolina Colonial Waterbird Surveys",
+  "identifiers": [],
+  "summary": "North Carolina coast-wide survey of colonial waterbirds is conducted every 3 years. The last survey year is 2020. This project relies heavily on partner involvement, especially North Carolina Audubon.",
+  "body": "Space for long description of information",
+  "citation": "This is the citation.",
+  "purpose": "This is the purpose.",
+  "contacts": [
+    {
+      "name": "Carmen Johnson",
+      "type": "Point of Contact",
+      "contactType": "person",
+      "onlineResource": "http://ncbirdatlas.org",
+      "active": true,
+      "organization": {
+        "name": "North Carolina Wildlife Resources Commission"
+      }
+    }
+  ],
+  "spatial": {
+    "representationalPoint": [
+      -79.19592,
+      35.47853
+    ],
+    "representationalPointIsDerived": false,
+    "boundingBox": {
+      "minX": -84.321869,
+      "maxX": -75.460621,
+      "minY": 33.842316,
+      "maxY": 36.588117
+    }
+  },
+  "maintenanceUpdateFrequency": "3 years",
+  "tags": [
+    {
+      "type": "Species Group",
+      "name": "Colonial Waterbirds"
+    },
+    {
+      "type": "Species",
+      "name": "Caspian Tern"
+    },
+    {
+      "type": "Species",
+      "name": "Royal Tern"
+    },
+    {
+      "type": "Species",
+      "name": "Black Skimmer"
+    },
+    {
+      "type": "Partner",
+      "name": "North Carolina Audubon"
+    },
+    {
+      "type": "Type",
+      "name": "Project"
+    }
+  ],
+  "relatedItems": [
+    {
+      "type": "Plan",
+      "id": "nc-wildlife-action-plan",
+      "name": "NC Wildlife Action Plan"
+    },
+    {
+      "type": "Priority",
+      "subType": "Management Priority",
+      "id": "ncwap-2015-priority-181",
+      "name": "2015 NCWAP Management Priority 181"
+    }
+  ],
+  "webLinks": [
+    {
+      "type": "Related_Primary_Publication",
+      "typeLabel": "Related Primary Publication",
+      "uri": "https://ncbirdatlas.org",
+      "title": "NC Bird Atlas",
+      "hidden": false
+    }
+  ],
+  "files": [
+    {
+      "key": null,
+      "name": "test document",
+      "title": "",
+      "contentType": "application/fgdc+xml",
+      "contentEncoding": "utf-8",
+      "dateUploaded": "2024-09-13",
+      "url": "https://ncbirdatlas.org",
+      "downloadUri": "https://ncbirdatlas.org"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e4aa8593a76a5d2cf77018"
+  },
+  "link": {
+    "rel": "self",
+    "url": "https://www.sciencebase.gov/catalog/item/58f7fadae4b0b7ea5451fc5c"
+  },
+  "relatedItems": [],
+  "id": "58f7fadae4b0b7ea5451fc5c",
+  "identifiers": [
+    {
+      "type": "DOI",
+      "scheme": "https://www.sciencebase.gov/vocab/category/item/identifier",
+      "key": "doi:10.5066/F79C6VJ0"
+    }
+  ],
+  "title": "Data for calculating population, collision and displacement vulnerability among marine birds of the California Current System associated with offshore wind energy infrastructure (ver. 2.0, June 2017)",
+  "summary": "The U.S. Geological Survey, Western Ecological Research Center (USGS-WERC) was requested by the Bureau of Ocean Energy Management (BOEM) to create a database for marine birds of the California Current System (CCS) that would allow quantification and species ranking regarding vulnerability to offshore wind energy infrastructure (OWEI). This was needed so that resource managers could evaluate potential impacts associated with siting and construction of OWEI within the California Current System section of the Pacific Offshore Continental Shelf, including California, Oregon, and Washington. Along with its accompanying Open File Report (OFR), this comprehensive database can be used (and modified or updated) to quantify marine bird vulnerability [...]",
+  "body": "The U.S. Geological Survey, Western Ecological Research Center (USGS-WERC) was requested by the Bureau of Ocean Energy Management (BOEM) to create a database for marine birds of the California Current System (CCS) that would allow quantification and species ranking regarding vulnerability to offshore wind energy infrastructure (OWEI). This was needed so that resource managers could evaluate potential impacts associated with siting and construction of OWEI within the California Current System section of the Pacific Offshore Continental Shelf, including California, Oregon, and Washington. Along with its accompanying Open File Report (OFR), this comprehensive database can be used (and modified or updated) to quantify marine bird vulnerability to OWEIs in the CCS at the population level. For 81 marine bird species present in the CCS, we generated numeric scores to represent three vulnerability indices associated with potential OWEI: population vulnerability, collision vulnerability, and displacement vulnerability. The metrics used to produce these scores includes global population size, proportion of the population in the CCS, threat status, adult survival, breeding score, annual occurrence in the CCS, nocturnal and diurnal flight activity, macro-avoidance behavior, flight height, and habitat flexibility; values for these metrics can be updated and adjusted as new data become available. The scoring methodology was peer-reviewed to evaluate if the metrics identified and the values generated were appropriate for each species considered. The numeric vulnerability scores in this database can readily be applied to areas in the CCS with known species distributions and where offshore renewable energy development is being considered. We hope that this information can be used to assist meaningful planning decisions that will impact seabird conservation.<br>\n<br>\nThese data support the following publication:<br>\nAdams, J., Kelsey, E.C., Felis J.J., and Pereksta, D.M., 2016b, Collision and displacement vulnerability among marine birds of the California Current System associated with offshore wind energy infrastructure: U.S. Geological Survey Open-File Report 2016-1154, 116 p., http://.doi.org/10.3133/ofr20161154.<br>\n<br>\nFirst release: October 2016<br>\nRevised: June 2017 (ver. 2.0)<br>\nRevision Published: August 2017 (ver 2.0)<br>\n<br>\nSince publication, small errors occurred in metric calculations for four species: Surf Scoter (<em>Melanitta perspicillata</em>), Red-throated Loon (<em>Gavia stellata</em>), Western Gull (<em>Larus occidentalis</em>), and Black Skimmer (<em>Rynchops niger).</em>&nbsp; Secondly, some errors occurred in the calculation of uncertainty for Global Population (POP), Habitat Flexibility (HF), Relative Collision Vulnerability, and Relative Displacement Vulnerability (“Relative” refers to the “Low”, “Medium”, and “High” categories based on three quantiles applied to the best estimate values).&nbsp; These errors have minimal impact on the overall findings and conclusions of the open file report (Adams et al. 2016b).&nbsp;The errors that occurred, and how they are reconciled, are outlined in RevisionHistory_Vulnerability_DataRelease.odt.<br>\n&nbsp;",
+  "citation": "Adams, J., Kelsey, E.C., Felis J.J., and Pereksta, D.M., 2017, Data for calculating population, collision and displacement vulnerability among marine birds of the California Current System associated with offshore wind energy infrastructure (ver. 2.0, June 2017): U.S. Geological Survey data release, https://doi.org/10.5066/F79C6VJ0.\n",
+  "purpose": "The primary purpose of this project was to design a comprehensive database to quantify marine bird vulnerability to offshore wind energy infrastructure in the CCS. In addition, the metrics used to produce the vulnerability scores are dynamic and can be updated and adjusted as new data become available. Lastly, the vulnerability scores generated in the database can readily be applied to areas in the CCS where offshore renewable energy development is being considered and can be used to help inform planning decisions that will impact seabird conservation.",
+  "rights": "The authors of these data require that data users contact them regarding intended use and to assist with understanding limitations and interpretation. Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.",
+  "provenance": {
+    "annotation": "Revision 2.0 by Erika Sanchez-Chopitea and Pai Hui Yu on August 3, 2017. To review the changes that were made, see \"RevisionHistory_Vulnerability_DataRelease.odt\" in the attached files section.",
+    "dataSource": "Input directly",
+    "dateCreated": "2017-04-20T00:03:38Z",
+    "lastUpdated": "2020-12-22T16:50:24Z"
+  },
+  "maintenanceUpdateFrequency": "As needed",
+  "hasChildren": true,
+  "parentId": "55b7a980e4b09a3b01b5fa6f",
+  "contacts": [
+    {
+      "name": "Western Ecological Research Center",
+      "oldPartyId": 17410,
+      "type": "Point of Contact",
+      "contactType": "organization",
+      "onlineResource": "http://www.werc.usgs.gov/",
+      "active": true,
+      "aliases": [
+        "{\"name\":\"WESTERN ECOLOGICAL RESEARCH CT\"}",
+        "{\"name\":\"WESTERN ECOLOGICAL RESEARCH CTR.\"}",
+        "{\"name\":\"WERC\"}"
+      ],
+      "fbmsCodes": [
+        "GGWSZC0000"
+      ],
+      "logoUrl": "http://my.usgs.gov/static-cache/images/dataOwner/v1/logosMed/USGSLogo.gif",
+      "smallLogoUrl": "http://my.usgs.gov/static-cache/images/dataOwner/v1/logosSmall/USGSLogo.gif",
+      "organization": {},
+      "primaryLocation": {
+        "name": "CSUS Campus - Modoc Hall [WDD]",
+        "building": "Modoc Hall",
+        "buildingCode": "WDD",
+        "streetAddress": {
+          "line1": "Modoc Hall, USGS",
+          "line2": "3020 State University Drive East",
+          "city": "Sacramento",
+          "state": "CA",
+          "zip": "95819",
+          "country": "USA"
+        },
+        "mailAddress": {
+          "line1": "Modoc Hall, USGS",
+          "line2": "3020 State University Drive East",
+          "city": "Sacramento",
+          "state": "CA",
+          "zip": "95819",
+          "country": "USA"
+        }
+      }
+    },
+    {
+      "name": "Josh Adams",
+      "type": "Originator",
+      "organization": {},
+      "primaryLocation": {
+        "streetAddress": {},
+        "mailAddress": {}
+      }
+    },
+    {
+      "name": "Emily C Kelsey",
+      "type": "Originator",
+      "organization": {},
+      "primaryLocation": {
+        "streetAddress": {},
+        "mailAddress": {}
+      }
+    },
+    {
+      "name": "Jonathan J Felis",
+      "type": "Originator",
+      "organization": {},
+      "primaryLocation": {
+        "streetAddress": {},
+        "mailAddress": {}
+      }
+    },
+    {
+      "name": "David M Pereksta",
+      "type": "Originator",
+      "organization": {},
+      "primaryLocation": {
+        "streetAddress": {},
+        "mailAddress": {}
+      }
+    },
+    {
+      "name": "Pai Hui Yu",
+      "type": "Metadata Contact",
+      "contactType": "person",
+      "email": "pyu@usgs.gov",
+      "jobTitle": "Cartographic Technician",
+      "organization": {
+        "displayText": "U.S. Geological Survey, PACIFIC REGION"
+      },
+      "primaryLocation": {
+        "officePhone": "530-669-5067",
+        "streetAddress": {},
+        "mailAddress": {
+          "line1": "3020 State University Dr. East",
+          "city": "Sacramento",
+          "state": "CA",
+          "zip": "95819"
+        }
+      }
+    },
+    {
+      "name": "U.S. Geological Survey - ScienceBase",
+      "type": "Distributor",
+      "contactType": "organization",
+      "email": "sciencebase@usgs.gov",
+      "organization": {},
+      "primaryLocation": {
+        "officePhone": "1-888-275-8747",
+        "streetAddress": {},
+        "mailAddress": {
+          "line1": "Denver Federal Center, Building 810, Mail Stop 302",
+          "city": "Denver",
+          "state": "Colorado",
+          "zip": "80225"
+        }
+      }
+    },
+    {
+      "name": "Ecosystems",
+      "type": "USGS Mission Area",
+      "contactType": "organization",
+      "organization": {
+        "directoryId": "17044",
+        "displayText": "Ecosystems"
+      },
+      "primaryLocation": {
+        "streetAddress": {},
+        "mailAddress": {}
+      }
+    },
+    {
+      "name": "Western Ecological Research Center",
+      "oldPartyId": 17410,
+      "type": "SDC Data Owner",
+      "contactType": "organization",
+      "onlineResource": "http://www.werc.usgs.gov/",
+      "active": true,
+      "aliases": [
+        "WESTERN ECOLOGICAL RESEARCH CTR.",
+        "WESTERN ECOLOGICAL RESEARCH CT",
+        "WERC"
+      ],
+      "organization": {},
+      "primaryLocation": {
+        "name": "CSUS Campus - Modoc Hall [WDD]",
+        "building": "Modoc Hall",
+        "buildingCode": "WDD",
+        "latitude": 38.5668,
+        "longitude": -121.4275,
+        "streetAddress": {
+          "line1": "Modoc Hall, USGS",
+          "line2": "3020 State University Drive East",
+          "city": "Sacramento",
+          "state": "CA",
+          "zip": "95819",
+          "country": "USA"
+        },
+        "mailAddress": {
+          "line1": "Modoc Hall, USGS",
+          "line2": "3020 State University Drive East",
+          "city": "Sacramento",
+          "state": "CA",
+          "zip": "95819",
+          "country": "USA"
+        }
+      }
+    }
+  ],
+  "webLinks": [
+    {
+      "type": "Related_Primary_Publication",
+      "typeLabel": "Related Primary Publication",
+      "uri": "https://doi.org/10.3133/ofr20161154",
+      "title": "Collision and displacement vulnerability among marine birds of the California Current System associated with offshore wind energy infrastructure (ver. 1.1, July 2017)",
+      "hidden": false
+    }
+  ],
+  "browseCategories": [
+    "Data Release - Revised"
+  ],
+  "browseTypes": [
+    "Citation",
+    "Map Service",
+    "OGC WMS Service",
+    "OGC WFS Layer",
+    "OGC WMS Layer"
+  ],
+  "systemTypes": [
+    "Folder",
+    "Data Release"
+  ],
+  "tags": [
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Biota"
+    },
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Environment"
+    },
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Vulnerability assessment"
+    },
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Renewable energy"
+    },
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Seabirds"
+    },
+    {
+      "type": "Theme",
+      "scheme": "None",
+      "name": "Ocean wind energy"
+    },
+    {
+      "type": "Place",
+      "scheme": "None",
+      "name": "California"
+    },
+    {
+      "type": "Place",
+      "scheme": "None",
+      "name": "Oregon"
+    },
+    {
+      "type": "Place",
+      "scheme": "None",
+      "name": "Washington"
+    },
+    {
+      "type": "Place",
+      "scheme": "None",
+      "name": "California Current System"
+    },
+    {
+      "type": "Place",
+      "scheme": "None",
+      "name": "Pacific Outer Continental Shelf"
+    },
+    {
+      "type": "Harvest Set",
+      "name": "USGS Science Data Catalog (SDC)"
+    }
+  ],
+  "dates": [
+    {
+      "type": "Start",
+      "dateString": "2014-07",
+      "label": "Start Date"
+    },
+    {
+      "type": "End",
+      "dateString": "2016-01",
+      "label": "End Date"
+    },
+    {
+      "type": "Publication",
+      "dateString": "2016-10-27",
+      "label": "Publication Date"
+    },
+    {
+      "type": "revision",
+      "dateString": "2017-08-03",
+      "label": "Revision"
+    }
+  ],
+  "spatial": {
+    "representationalPoint": [
+      -120.43355,
+      34.8695
+    ],
+    "representationalPointIsDerived": true,
+    "boundingBox": {
+      "minX": -132.1124,
+      "maxX": -108.7547,
+      "minY": 21.8359,
+      "maxY": 47.9031
+    }
+  },
+  "extents": [
+    3107299
+  ],
+  "files": [
+    {
+      "cuid": null,
+      "key": null,
+      "bucket": null,
+      "published": null,
+      "node": null,
+      "name": "RevisionHistory_Vulnerability_DataRelease.odt",
+      "title": "",
+      "contentType": "application/vnd.oasis.opendocument.text",
+      "contentEncoding": null,
+      "pathOnDisk": "__disk__b5/a3/ba/b5a3bac782cedb352b3ab11ec0ec4baec01bf829",
+      "processed": false,
+      "processToken": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "size": 25721,
+      "dateUploaded": "2017-06-07T18:39:31Z",
+      "originalMetadata": false,
+      "useForPreview": false,
+      "movedToS3": null,
+      "s3Object": null,
+      "checksum": {
+        "value": "6a2d0934c28ace00d3658c435a4ee331",
+        "type": "MD5"
+      },
+      "url": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__b5%2Fa3%2Fba%2Fb5a3bac782cedb352b3ab11ec0ec4baec01bf829",
+      "downloadUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__b5%2Fa3%2Fba%2Fb5a3bac782cedb352b3ab11ec0ec4baec01bf829"
+    },
+    {
+      "cuid": null,
+      "key": null,
+      "bucket": null,
+      "published": null,
+      "node": null,
+      "name": "Ashy Storm-Petrel_dpereksta_96.jpg",
+      "title": "Ashy Storm-Petrel. Courtesy of David M Pereksta, BOEM, used with permission",
+      "contentType": "image/jpeg",
+      "contentEncoding": null,
+      "pathOnDisk": "__disk__68/7c/b8/687cb81ea71261e4bb487e531fc3334b41bf9f74",
+      "processed": false,
+      "processToken": null,
+      "imageWidth": 672,
+      "imageHeight": 404,
+      "size": 45984,
+      "dateUploaded": "2017-06-07T21:28:23Z",
+      "originalMetadata": false,
+      "useForPreview": false,
+      "movedToS3": null,
+      "s3Object": null,
+      "checksum": {
+        "value": "47ec8721bcee537155e76a0dc167876b",
+        "type": "MD5"
+      },
+      "url": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74",
+      "downloadUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74",
+      "viewUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74&width=672&height=404",
+      "previewImage": {
+        "thumbnail": {
+          "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74&width=150&height=90",
+          "width": 150,
+          "height": 90
+        },
+        "small": {
+          "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74&width=350&height=210",
+          "width": 350,
+          "height": 210
+        }
+      }
+    },
+    {
+      "cuid": null,
+      "key": null,
+      "bucket": null,
+      "published": null,
+      "node": null,
+      "name": "VulnerabilityAssessment_ver2_FGDC.xml",
+      "title": "",
+      "contentType": "application/fgdc+xml",
+      "contentEncoding": null,
+      "pathOnDisk": "__disk__d5/05/3b/d5053b4c093be6660b8f0ab4c69ef359d577209f",
+      "processed": false,
+      "processToken": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "size": 14314,
+      "dateUploaded": "2020-08-28T04:21:10Z",
+      "originalMetadata": true,
+      "useForPreview": false,
+      "movedToS3": null,
+      "s3Object": null,
+      "checksum": {
+        "value": "ff18052c59ff2ae1e79cd65e201577ee",
+        "type": "MD5"
+      },
+      "url": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__d5%2F05%2F3b%2Fd5053b4c093be6660b8f0ab4c69ef359d577209f",
+      "downloadUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__d5%2F05%2F3b%2Fd5053b4c093be6660b8f0ab4c69ef359d577209f",
+      "viewUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__d5%2F05%2F3b%2Fd5053b4c093be6660b8f0ab4c69ef359d577209f&allowOpen=true",
+      "metadataHtmlViewUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__d5%2F05%2F3b%2Fd5053b4c093be6660b8f0ab4c69ef359d577209f&transform=1"
+    }
+  ],
+  "distributionLinks": [
+    {
+      "uri": "https://www.sciencebase.gov/catalogMaps/mapping/ows/58f7fadae4b0b7ea5451fc5c?mode=download&request=kml&service=wms&layers=footprint,childrenBoundingBox,children",
+      "title": "KML Service",
+      "type": "kml",
+      "typeLabel": "KML Download",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalogMaps/mapping/ows/58f7fadae4b0b7ea5451fc5c?service=wms&request=getcapabilities&version=1.3.0",
+      "title": "ScienceBase WMS Service",
+      "type": "serviceCapabilitiesUrl",
+      "typeLabel": "OGC Service Capabilities URL",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/items?parentId=58f7fadae4b0b7ea5451fc5c&format=json",
+      "title": "ScienceBase Collection JSON",
+      "type": "repo",
+      "typeLabel": "ScienceBase Repository",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/items?parentId=58f7fadae4b0b7ea5451fc5c&format=atom",
+      "title": "ScienceBase Collection ATOM",
+      "type": "repo",
+      "typeLabel": "ScienceBase Repository",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/items?parentId=58f7fadae4b0b7ea5451fc5c&format=csv",
+      "title": "ScienceBase Collection CSV",
+      "type": "repo",
+      "typeLabel": "ScienceBase Repository",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/oai-pmh?verb=ListRecords&metadataPrefix=fgdc-orig&set=58f7fadae4b0b7ea5451fc5c",
+      "title": "ScienceBase OAI PMH Service",
+      "type": "oai-pmh",
+      "typeLabel": "OAI-PMH",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/item/58f7fadae4b0b7ea5451fc5c/csw?service=CSW&version=2.0.2&request=GetRecords",
+      "title": "ScienceBase CSW Service",
+      "type": "csw",
+      "typeLabel": "",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    },
+    {
+      "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c",
+      "title": "Download Attached Files",
+      "type": "downloadLink",
+      "typeLabel": "Download Link",
+      "rel": "alternate",
+      "name": "Dataforcalculat.zip",
+      "files": [
+        {
+          "name": "RevisionHistory_Vulnerability_DataRelease.odt",
+          "title": "",
+          "contentType": "application/vnd.oasis.opendocument.text",
+          "size": 25721,
+          "checksum": {
+            "value": "6a2d0934c28ace00d3658c435a4ee331",
+            "type": "MD5"
+          }
+        },
+        {
+          "name": "Ashy Storm-Petrel_dpereksta_96.jpg",
+          "title": "Ashy Storm-Petrel. Courtesy of David M Pereksta, BOEM, used with permission",
+          "contentType": "image/jpeg",
+          "size": 45984,
+          "checksum": {
+            "value": "47ec8721bcee537155e76a0dc167876b",
+            "type": "MD5"
+          }
+        },
+        {
+          "name": "VulnerabilityAssessment_ver2_FGDC.xml",
+          "title": "",
+          "contentType": "application/fgdc+xml",
+          "size": 14314,
+          "checksum": {
+            "value": "ff18052c59ff2ae1e79cd65e201577ee",
+            "type": "MD5"
+          }
+        }
+      ]
+    }
+  ],
+  "previewImage": {
+    "from": "attachedFile",
+    "original": {
+      "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74",
+      "viewUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74&width=672&height=404",
+      "viewUrl": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?deprecated=__use__viewUri__instead__&f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74&width=672&height=404",
+      "width": 672,
+      "height": 404,
+      "size": 45984,
+      "title": "Ashy Storm-Petrel. Courtesy of David M Pereksta, BOEM, used with permission"
+    },
+    "thumbnail": {
+      "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74&width=150&height=90",
+      "width": 150,
+      "height": 90
+    },
+    "small": {
+      "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__68%2F7c%2Fb8%2F687cb81ea71261e4bb487e531fc3334b41bf9f74&width=350&height=210",
+      "width": 350,
+      "height": 210
+    },
+    "alternateImages": [
+      {
+        "from": "mapPreview",
+        "original": {
+          "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__b5%2F97%2Fbd%2Fb597bda5e8fb37ce89de67afb34fd3c7eb11dabc",
+          "viewUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__b5%2F97%2Fbd%2Fb597bda5e8fb37ce89de67afb34fd3c7eb11dabc&width=360&height=240",
+          "viewUrl": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?deprecated=__use__viewUri__instead__&f=__disk__b5%2F97%2Fbd%2Fb597bda5e8fb37ce89de67afb34fd3c7eb11dabc&width=360&height=240",
+          "width": 360,
+          "height": 240,
+          "size": 101356
+        },
+        "thumbnail": {
+          "uri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__b5%2F97%2Fbd%2Fb597bda5e8fb37ce89de67afb34fd3c7eb11dabc&width=150&height=100",
+          "width": 150,
+          "height": 100
+        }
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66e4aa8593a76a5d2cf7701a"
+  },
+  "link": {
+    "rel": "self",
+    "url": "https://www.sciencebase.gov/catalog/item/58f7fadae4b0b7ea5451fc5c"
+  },
+  "id": "bald-eagle-surveys",
+  "identifiers": [],
+  "title": "North Carolina Bald Eagle Nest Surveys",
+  "summary": "The North Carolina Wildlife Action Plan (NCWAP) is intended to provide a foundation for State and Federal agencies and other conservation partners to think strategically about their individual roles and coordinate prioritizing conservation efforts throughout the state.  At a minimum, North Carolina's Plan will be comprehensively evaluated and revised every 10 years. However, we expect that as new information is discovered about the status of species and natural communities we will need to develop interim updates. You can help us keep the content of the Plan relevant to current issues and needs by sharing your knowledge about the state's fish and wildlife species and their habitats.",
+  "body": "",
+  "citation": "North Carolina Wildlife Resources Commission. 2015. North Carolina Wildlife Action Plan. Raleigh, NC.",
+  "purpose": "FOR 75 YEARS, state fish and wildlife agencies across the United States have benefited from federal aid funds provided by the Wildlife Restoration Act (Pittman–Robertson or PR), Sport Fisheries Restoration Act (Dingell–Johnson or DJ), and the Wallop-Breaux Act, which support the conservation and management of game fish and wildlife species. These funds aregenerated through federal excise taxes collected at the manufacturers’ level and have been critical to the establishment of long-term agency conservation planning related to game species. Yet conservation efforts for nongame fish and wildlife species (those that are not hunted or fished) have historically been opportunistic and crisis-driven. This is largely because of limited resources, such as a lack of dedicated funding, and a lack of strategic approaches to species and habitat conservation. With nearly 600 wildlife species listed nationally on the federal endangered and threatened species list, the need for a complementary source of funding for nongame species remains critical for the continued conservation, protection, and restoration of the full array of North Carolina’s wildlife species.",
+  "spatial": {
+    "representationalPoint": [
+      -79.19592,
+      35.47853
+    ],
+    "representationalPointIsDerived": false,
+    "boundingBox": {
+      "minX": -84.321869,
+      "maxX": -75.460621,
+      "minY": 33.842316,
+      "maxY": 36.588117
+    }
+  },
+  "maintenanceUpdateFrequency": "annual",
+  "tags": [
+    {
+      "type": "Species",
+      "scheme": "None",
+      "name": "Bald Eagle"
+    },
+    {
+      "type": "Latin Name",
+      "name": "Haliaeetus leucocephalus"
+    },
+    {
+      "type": "Type",
+      "scheme": "None",
+      "name": "Survey"
+    },
+    {
+      "type": "Type",
+      "scheme": "None",
+      "name": "Citizen Science"
+    }
+  ],
+  "distributionLinks": [
+    {
+      "uri": "https://www.sciencebase.gov/catalogMaps/mapping/ows/58f7fadae4b0b7ea5451fc5c?mode=download&request=kml&service=wms&layers=footprint,childrenBoundingBox,children",
+      "title": "KML Service",
+      "type": "kml",
+      "typeLabel": "KML Download",
+      "rel": "alternate",
+      "name": "",
+      "files": ""
+    }
+  ],
+  "relatedItems": [
+    {
+      "type": "Plan",
+      "id": "nc-wildlife-action-plan",
+      "name": "NC Wildlife Action Plan"
+    },
+    {
+      "type": "Plan",
+      "id": "nc-wap-priority-105",
+      "name": "NC Wildlife Action Plan Priority 105"
+    },
+    {
+      "type": "Species",
+      "id": "bald-eagle",
+      "name": "Bald Eagle"
+    }
+  ],
+  "webLinks": [
+    {
+      "type": "Related_Primary_Publication",
+      "typeLable": "Related Primary Publication",
+      "uri": "https://www.allaboutbirds.org/guide/Bald_Eagle/overview",
+      "title": "All About Birds",
+      "hidden": false
+    },
+    {
+      "type": "Related_Primary_Publication",
+      "typeLable": "Related Primary Publication",
+      "uri": "https://www.ncwildlife.org/species/bald-eagle",
+      "title": "NC Wildlife Species Page",
+      "hidden": false
+    },
+    {
+      "type": "Related_Primary_Publication",
+      "typeLabel": "Related Primary Publication",
+      "uri": "https://doi.org/10.1080/02705060.2020.1736191",
+      "title": "Chojnacki, K.A., Erwin, S.O., George, A.E., Candrl, J.S., Jacobson R.B., and DeLonay, A.J., 2020, Physical characteristics and simulated transport of pallid sturgeon and shovelnose sturgeon eggs: Journal of Freshwater Ecology, https://doi.org/10.1080/02705060.2020.1736191",
+      "hidden": false
+    }
+  ],
+  "files": [
+    {
+      "cuid": null,
+      "key": null,
+      "bucket": null,
+      "published": null,
+      "node": null,
+      "name": "RevisionHistory_Vulnerability_DataRelease.odt",
+      "title": "",
+      "contentType": "application/vnd.oasis.opendocument.text",
+      "contentEncoding": null,
+      "pathOnDisk": "__disk__b5/a3/ba/b5a3bac782cedb352b3ab11ec0ec4baec01bf829",
+      "processed": false,
+      "processToken": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "size": 25721,
+      "dateUploaded": "2017-06-07T18:39:31Z",
+      "originalMetadata": false,
+      "useForPreview": false,
+      "movedToS3": null,
+      "s3Object": null,
+      "checksum": {
+        "value": "6a2d0934c28ace00d3658c435a4ee331",
+        "type": "MD5"
+      },
+      "url": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__b5%2Fa3%2Fba%2Fb5a3bac782cedb352b3ab11ec0ec4baec01bf829",
+      "downloadUri": "https://www.sciencebase.gov/catalog/file/get/58f7fadae4b0b7ea5451fc5c?f=__disk__b5%2Fa3%2Fba%2Fb5a3bac782cedb352b3ab11ec0ec4baec01bf829"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e4aa8593a76a5d2cf7701b"
+  },
+  "link": {
+    "rel": "self",
+    "url": "https://ncbirdatlas.org"
+  },
+  "id": "test-record",
+  "title": "Test Recordd",
+  "identifiers": [],
+  "body": "Space for long description of information",
+  "citation": "This is the citation.",
+  "purpose": "This is the purpose.",
+  "contacts": [
+    {
+      "name": "Scott Anderson",
+      "type": "Point of Contact",
+      "contactType": "person",
+      "onlineResource": "http://ncbirdatlas.org",
+      "active": true,
+      "organization": {
+        "name": "North Carolina Wildlife Resources Commission"
+      },
+      "primaryLocation": {
+        "name": "NC Wildlife Resources Headquarters",
+        "streetAddress": {
+          "line1": "1751 Varsity Drive",
+          "line2": "Room 455",
+          "city": "Raleigh",
+          "state": "NC",
+          "zip": "27606",
+          "country": "USA"
+        }
+      }
+    }
+  ],
+  "spatial": {
+    "representationalPoint": [
+      -79.19592,
+      35.47853
+    ],
+    "representationalPointIsDerived": false,
+    "boundingBox": {
+      "minX": -84.321869,
+      "maxX": -75.460621,
+      "minY": 33.842316,
+      "maxY": 36.588117
+    }
+  },
+  "maintenanceUpdateFrequency": "annual",
+  "tags": [
+    {
+      "type": "Type",
+      "name": "Species"
+    }
+  ],
+  "relatedItems": [
+    {
+      "type": "Plan",
+      "id": "nc-wildlife-action-plan",
+      "name": "NC Wildlife Action Plan"
+    }
+  ],
+  "webLinks": [
+    {
+      "type": "Related_Primary_Publication",
+      "typeLabel": "Related Primary Publication",
+      "uri": "https://ncbirdatlas.org",
+      "title": "NC Bird Atlas",
+      "hidden": false
+    }
+  ],
+  "files": [
+    {
+      "key": null,
+      "name": "test document",
+      "title": "",
+      "contentType": "application/fgdc+xml",
+      "contentEncoding": "utf-8",
+      "dateUploaded": "2024-09-13",
+      "url": "https://ncbirdatlas.org",
+      "downloadUri": "https://ncbirdatlas.org"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e4aa8593a76a5d2cf7701d"
+  },
+  "link": {
+    "rel": "self",
+    "url": "https://ncwildlife.org"
+  },
+  "id": "ncwap-2015-priority-181",
+  "title": "NCWAP 2015 Management Priority 181",
+  "identifiers": [],
+  "summary": "Continue nest monitoring for colonial waterbirds, especially Wood Storks",
+  "body": "Space for long description of information",
+  "citation": "This is the citation.",
+  "purpose": "This is the purpose.",
+  "contacts": [
+    {
+      "name": "Carmen Johnson",
+      "type": "Point of Contact",
+      "contactType": "person",
+      "onlineResource": "http://ncbirdatlas.org",
+      "active": true,
+      "organization": {
+        "name": "North Carolina Wildlife Resources Commission"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "type": "Species Group",
+      "name": "Colonial Waterbirds"
+    },
+    {
+      "type": "Species",
+      "name": "Wood Stork"
+    },
+    {
+      "type": "Type",
+      "name": "Priority"
+    },
+    {
+      "type": "Type",
+      "name": "Management Priority"
+    }
+  ],
+  "relatedItems": [
+    {
+      "type": "Plan",
+      "id": "nc-wildlife-action-plan",
+      "name": "NC Wildlife Action Plan"
+    }
+  ],
+  "webLinks": [
+    {
+      "type": "Related_Primary_Publication",
+      "typeLabel": "Related Primary Publication",
+      "uri": "https://ncbirdatlas.org",
+      "title": "NC Bird Atlas",
+      "hidden": false
+    }
+  ],
+  "files": [
+    {
+      "key": null,
+      "name": "test document",
+      "title": "",
+      "contentType": "application/fgdc+xml",
+      "contentEncoding": "utf-8",
+      "dateUploaded": "2024-09-13",
+      "url": "https://ncbirdatlas.org",
+      "downloadUri": "https://ncbirdatlas.org"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e4aa8593a76a5d2cf7701e"
+  },
+  "link": {
+    "rel": "self",
+    "url": "https://ncwildlife.org"
+  },
+  "id": "RP2023-18",
+  "title": "Comparison of eDNA and Electrofishing Survey Methods for Management Purposes",
+  "identifiers": [],
+  "summary": "The use of environmental DNA (eDNA) for detection of species is rapidly increasing. However, little research has been done examining the efficacy of eDNA surveys for use in management compared to traditional methods such as electrofishing. We utilized a previously developed eDNA survey for federally endangered Roanoke Logperch Percina rex to directly compare eDNA and backpack electrofishing surveys at 23 sites (8 presumed positive, 8 presumed negative, and 7 exploratory). Detection rates, person hours, and total cost were evaluated for each method. Electrofishing detected Roanoke Logperch at one site while eDNA detected Roanoke logperch at nine sites. Additionally, eDNA survey methodology required approximately 57% fewer person hours and reduced cost by 31%, even when molecular troubleshooting was included in the calculations. With optimized protocols, eDNA surveys are expected to reduce person hours by 77% and total cost by 54% over traditional electrofishing while simultaneously increasing detection rates. While eDNA cannot currently address questions of age class structure, population estimates, or health, these rapid and cost-effective surveys can provide information that will help management agencies streamline and prioritize future intensive electrofishing surveys.",
+  "body": "Space for long description of information",
+  "citation": "Ecology and the Environment, 19(7), pp.396-403.",
+  "purpose": "This is the purpose.",
+  "contacts": [
+    {
+      "name": "Heather Evans",
+      "type": "Point of Contact",
+      "contactType": "person",
+      "onlineResource": "http://ncbirdatlas.org",
+      "active": true,
+      "organization": {
+        "name": "North Carolina Wildlife Resources Commission"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "type": "Method",
+      "name": "eDNA"
+    },
+    {
+      "type": "Type",
+      "name": "Report"
+    },
+    {
+      "type": "Method",
+      "name": "Management Survey"
+    },
+    {
+      "type": "Method",
+      "name": "Electrofishing"
+    },
+    {
+      "type": "Type",
+      "name": "Management Priority"
+    },
+    {
+      "type": "Species",
+      "name": "Roanoke Logperch"
+    }
+  ],
+  "dates": [
+    {
+      "type": "Publication",
+      "dateString": "2024-04-12",
+      "label": "Publication Date"
+    }
+  ],
+  "relatedItems": [],
+  "webLinks": [],
+  "files": [
+    {
+      "key": null,
+      "name": "Comparison of eDNA and Electrofishing Survey Methods for Management Purposes",
+      "title": "Comparison of eDNA and Electrofishing Survey Methods for Management Purposes",
+      "type": "Report",
+      "contentType": "application/pdf",
+      "dateUploaded": "2024-09-13",
+      "url": "https://drive.google.com/file/d/1NcWhy1Lm0IzFu7lBBeidpa3pPsS_1XjT/view?usp=drive_link",
+      "downloadUri": "https://drive.google.com/file/d/1NcWhy1Lm0IzFu7lBBeidpa3pPsS_1XjT/view?usp=drive_link"
+    }
+  ]
+}]

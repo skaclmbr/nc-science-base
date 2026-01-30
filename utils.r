@@ -10,12 +10,6 @@ HOST = "cluster0-shard-00-00.rzpx8.mongodb.net:27017"
 source("config.r")
 
 
-
-
-
-#############################################################################
-## WILDLIFE ACTION PLAN
-
 ## Mongo Connection Parameters
 WAP_URI = sprintf(
   paste0("mongodb://%s:%s@%s/%s?authSource=admin&replicaSet=",
@@ -30,8 +24,6 @@ ncsb <- mongo(
     url = WAP_URI,
     options = ssl_options(weak_cert_validation = T)
 )
-
-
 
 ## Functions
 getEntityList <- function() {

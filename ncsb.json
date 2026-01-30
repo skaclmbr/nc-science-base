@@ -1,0 +1,1489 @@
+﻿[
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "afwa-pif-shorebird-waterbird-working-group",
+    "title": "AFWA PIF/Shorebird/Waterbird Working Group",
+    "itemType": "committee",
+    "status": "active",
+    "link": "https://www.fishwildlife.org/afwa-acts/afwa-committees/partners-flightshorebirdwaterbird-working-group",
+    "scope": "national",
+    "ownerOrganization": "Association of Fish and Wildlife Agencies",
+    "relatedItems": [
+      {
+        "title": "Bird Conservation Committee",
+        "id": "afwa-bird-conservation-committee",
+        "itemType": "committee"
+      },
+      {
+        "title": "American Association of Fish and Wildlife Agencies",
+        "id": "american-association-of-fish-and-wildlife-agencies",
+        "itemType": "organization"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "albemarle-peninsula-canid-project",
+    "title": "Albemarle Peninsula Canid Project",
+    "itemType": "project",
+    "status": "active",
+    "scope": "coast",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "american-association-of-fish-and-wildlife-agencies",
+    "title": "American Association of Fish and Wildlife Agencies",
+    "itemType": "organization",
+    "status": "active",
+    "scope": "national",
+    "ownerOrganization": "Association of Fish and Wildlife Agencies",
+    "relatedItems": [
+      {
+        "title": "Agricultural Conservation Committee",
+        "id": "afwa-agricultural-conservation-committee",
+        "itemType": "committee"
+      },
+      {
+        "title": "Bird Conservation Committee",
+        "id": "afwa-bird-conservation-committee",
+        "itemType": "committee"
+      },
+      {
+        "title": "AFWA PIF/Shorebird/Waterbird Working Group",
+        "id": "afwa-pif-shorebird-waterbird-working-group",
+        "itemType": "committee",
+        "relationship": "partner"
+      },
+      {
+        "title": "Program Joint Working Group",
+        "id": "afwa-program-joint-working-group",
+        "itemType": "working"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "american-kestrel-monitoring",
+    "title": "American Kestrel Monitoring",
+    "itemType": "project",
+    "status": "active",
+    "scope": "state",
+    "ownerFullName": "Chris Kelly",
+    "ownerRole": "lead",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains",
+    "ownerTitle": "Mountain Biologist",
+    "ownerEmail": "christine.kelly@ncwildlife.gov",
+    "contacts": [
+      {
+        "fullName": "Chris Kelly",
+        "firstName": "Chris",
+        "lastName": "Kelly",
+        "role": "lead",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Mountain Biologist",
+        "email": "christine.kelly@ncwildlife.gov",
+        "active": true
+      }
+    ],
+    "tags": [
+      {
+        "tagtype": "tag",
+        "name": "monitoring"
+      },
+      {
+        "tagtype": "tag",
+        "name": "birds"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "amphibian-fungal-testing",
+    "title": "Amphibian Fungal Testing",
+    "itemType": "project",
+    "status": "active",
+    "scope": "state",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "amphibian-occupancy",
+    "title": "Amphibian Occupancy",
+    "itemType": "data",
+    "status": "active",
+    "scope": "mountains",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "atlantic-flyway-american-kestrel-working-group",
+    "title": "Atlantic Flyway American Kestrel Working Group",
+    "itemType": "organization",
+    "status": "active",
+    "scope": "flyway",
+    "ownerOrganization": "Atlantic Flyway",
+    "relatedItems": [
+      {
+        "title": "North Carolina Wildlife Resources Commission",
+        "id": "north-carolina-wildlife-resources-commission",
+        "itemType": "organization"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "atlantic-flyway-bird-collision-project",
+    "title": "Atlantic Flyway Bird Collision Project",
+    "itemType": "project",
+    "status": "active",
+    "scope": "flyway",
+    "ownerOrganization": "Atlantic Flyway"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "atlantic-flyway-council",
+    "title": "Atlantic Flyway Council",
+    "itemType": "organization",
+    "status": "active",
+    "scope": "flyway",
+    "ownerOrganization": "Atlantic Flyway",
+    "relatedItems": [
+      {
+        "title": "North Carolina Wildlife Resources Commission",
+        "id": "north-carolina-wildlife-resources-commission",
+        "itemType": "organization",
+        "relationship": "partner"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "bald-eagle-monitoring",
+    "title": "Bald Eagle Monitoring",
+    "itemType": "project",
+    "status": "active",
+    "scope": "state",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "bald-eagle-status",
+    "title": "Bald Eagle Status",
+    "itemType": "project",
+    "status": "active",
+    "scope": "state",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "barn-owl-project",
+    "title": "Barn Owl Project",
+    "itemType": "project",
+    "status": "active",
+    "scope": "piedmont",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "bat-monitoring-project",
+    "title": "Bat Monitoring Project",
+    "itemType": "project",
+    "status": "active",
+    "scope": "state",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "black-rail-habitat-restoration-pilot-project-and-internship-at-alligator-river-nwr",
+    "title": "Black Rail Habitat Restoration Pilot Project and Internship at Alligator River NWR",
+    "itemType": "project",
+    "description": "The eastern black rail is a sparrow sized secretive marsh bird that nests on or near the ground in dense vegetative cover over water or moist soil (USFWS 2018). They inhabit very shallowly flooded, densely vegetated salt, brackish, and freshwater marshes. They appear to tolerate a very narrow range of conditions within these habitats with the unifying features being persistent water coverage and extremely dense herbaceous vegetation. Too much or too little water at any time during the breeding season results in abandonment of the site (USFWS 2018). Declining populations across the Atlantic Coast range led to the USFWS listing the eastern black rail as threatened under the Endangered Species Act in 2020. Callback surveys conducted in 2017 and 2018 did detect black rails at Alligator River NWR, but we do not have current population estimates or understand associations with different habitat types. Discussions between USFWS and partners at working group meetings proposed additional efforts occur on the Refuge to evaluate the presence of black rails. One suggestion was to convert existing impoundments managed historically for wintering waterfowl through cooperative farming or maintenance of moist soil units. Efforts began in fall of 2021 to modify the Creef A1N impoundment. Additional maintenance actions including rehabilitation of the dikes, disking/grading, and the installation of a new water control structure under Peterson Road are scheduled for spring 2022 (late March-June). After these actions are completed, water will be put back in A1N immediately to initiate this experiment. Manipulation of water levels within this unit will be a proof-of-concept experiment to see if we can maintain shallow water areas year-round as semi-aquatic black rail habitat. Results will then inform the feasibility of converting other habitats across the Refuge complex for these declining protected species. Project objectives include: To convert existing impoundments managed historically for wintering waterfowl through cooperative farming or maintenance of moist soil units to shallow water impoundments for rails.",
+    "status": "active",
+    "scope": "coast",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal",
+    "relatedItems": [
+      {
+        "title": "American Bird Conservancy",
+        "id": "american-bird-conservancy",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "American Conservation Experience",
+        "id": "american-conservation-experience",
+        "itemType": "organization",
+        "relationship": "partner"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "bog-turtle-database",
+    "title": "Bog Turtle Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "bog-turtle-headstarting",
+    "title": "Bog Turtle Headstarting",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "bog-turtle-monitoring",
+    "title": "Bog Turtle Monitoring",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "bog-turtle-project",
+    "title": "Bog Turtle Project",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "box-turtle-connection",
+    "title": "Box Turtle Connection",
+    "itemType": "project",
+    "status": "active",
+    "ownerFullName": "Gabrielle Graeter",
+    "ownerRole": "lead",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains",
+    "ownerTitle": "Mountain Biologist",
+    "ownerEmail": "gabrielle.graeter@ncwildlife.gov",
+    "contacts": [
+      {
+        "fullName": "Gabrielle Graeter",
+        "firstName": "Gabrielle",
+        "lastName": "Graeter",
+        "role": "lead",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Mountain Biologist",
+        "email": "gabrielle.graeter@ncwildlife.gov",
+        "active": true
+      },
+      {
+        "fullName": "Karen Clark",
+        "firstName": "Karen",
+        "lastName": "Clark",
+        "role": "coordination",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Coastal Science Support Specialist",
+        "email": "karen.clark@ncwildlife.gov",
+        "active": true
+      }
+    ],
+    "tags": [
+      {
+        "tagtype": "theme",
+        "name": "volunteer"
+      },
+      {
+        "tagtype": "tag",
+        "name": "community science"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "box-turtle-data-analysis",
+    "title": "Box Turtle Data Analysis",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "canid-cooperator",
+    "title": "Canid Cooperator",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "cape-lookout-motus-station-setup",
+    "title": "Cape Lookout Motus Station Setup",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "carolina-northern-flying-squirrel-database",
+    "title": "Carolina Northern Flying Squirrel Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "carolina-vegetation-survey-eep-entry-tool",
+    "title": "Carolina Vegetation Survey EEP Entry Tool",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "cerulean-warbler-database",
+    "title": "Cerulean Warbler Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "chipmunk-observations",
+    "title": "Chipmunk Observations",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "coastal-bat-bridge-surveys",
+    "title": "Coastal Bat Bridge Surveys",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "colonial-waterbird-and-shorebird-database",
+    "title": "Colonial Waterbird and Shorebird Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "eastern-black-rail-surveys",
+    "title": "Eastern Black Rail Surveys",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "eastern-hellbender-surveys-and-management",
+    "title": "Eastern Hellbender Surveys and Management",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "fox-squirrel-observations",
+    "title": "Fox Squirrel Observations",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "golden-winged-warbler-monitoring-dataset",
+    "title": "Golden-winged Warbler Monitoring Dataset",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "gopher-frog-headstarting",
+    "title": "Gopher Frog Headstarting",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "gray-bat-acoustic-study-post-helene",
+    "title": "Gray Bat Acoustic Study Post-Helene",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "green-salamander-data-analysis",
+    "title": "Green Salamander Data Analysis",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "heronry-surveys",
+    "title": "Heronry Surveys",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "juvenile-sea-turtle-satellite-tracking-database",
+    "title": "Juvenile Sea Turtle Satellite Tracking Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "loggerhead-shrike-monitoring",
+    "title": "Loggerhead Shrike Monitoring",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "maine-natural-history-observatory",
+    "title": "Maine Natural History Observatory",
+    "itemType": "organization",
+    "status": "active",
+    "relatedItems": [
+      {
+        "title": "Nightjar Survey Network",
+        "id": "us-nightjar-network-surveys",
+        "itemType": "project"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "mountain-bird-game-land-banding-and-motus-tagging",
+    "title": "Mountain Bird Game Land Banding and Motus Tagging",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "mountain-game-land-bird-surveys",
+    "title": "Mountain Game Land Bird Surveys",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "mulberry-bog-restoration",
+    "title": "Mulberry Bog Restoration",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-american-waterbird-conservation-council",
+    "title": "North American Waterbird Conservation Council",
+    "itemType": "organization",
+    "status": "active",
+    "relatedItems": [
+      {
+        "title": "North Carolina Wildlife Resources Commission",
+        "id": "north-carolina-wildlife-resources-commission",
+        "itemType": "organization"
+      },
+      {
+        "title": "United States Fish and Wildlife Service",
+        "id": "united-states-fish-and-wildlife-service",
+        "itemType": "organization"
+      },
+      {
+        "title": "United States North American Bird Conservation Initiative",
+        "id": "united-states-north-american-bird-conservation-intiative",
+        "itemType": "organization"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-american-waterbird-conservation-plan-2002",
+    "title": "North American Waterbird Conservation Plan 2002",
+    "itemType": "plan",
+    "version": "2002",
+    "status": "active",
+    "relatedItems": [
+      {
+        "title": "North American Waterbird Conservation Council",
+        "id": "north-american-waterbird-conservation-council",
+        "itemType": "organization"
+      },
+      {
+        "title": "North Carolina Wildlife Resources Commission",
+        "id": "north-carolina-wildlife-resources-commission",
+        "itemType": "organization"
+      },
+      {
+        "title": "United States North American Bird Conservation Initiative",
+        "id": "united-states-north-american-bird-conservation-intiative",
+        "itemType": "organization"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-bird-atlas",
+    "title": "North Carolina Bird Atlas",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Science Support",
+    "contacts": [
+      {
+        "fullName": "CC King",
+        "firstName": "CC",
+        "lastName": "King",
+        "role": "coordinator",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Piedmont Science Support Specialist",
+        "email": "cc.king@ncwildlife.gov",
+        "active": true
+      }
+    ],
+    "spatial": {
+      "representationalPoint": {
+        "latitude": 35.7596,
+        "longitude": 79.0193
+      },
+      "boundingBox": {
+        "minX": -84.91,
+        "maxX": -75.31,
+        "minY": 33.05,
+        "maxY": 37.55
+      }
+    },
+    "tags": [
+      {
+        "tagtype": "tag",
+        "name": "monitoring"
+      },
+      {
+        "tagtype": "tag",
+        "name": "birds"
+      },
+      {
+        "tagtype": "tag",
+        "name": "community science"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-bird-atlas-data-management",
+    "title": "North Carolina Bird Atlas Data Management",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Science Support"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-calling-amphibian-survey-program",
+    "title": "North Carolina Calling Amphibian Survey Program",
+    "itemType": "project",
+    "status": "active",
+    "ownerFullName": "Jeff Hall",
+    "ownerRole": "lead",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-motus-network",
+    "title": "North Carolina Motus Network",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-nabat",
+    "title": "North Carolina NABat",
+    "itemType": "project",
+    "status": "active",
+    "ownerFullName": "Katherine Etchison",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-nightjar-surveys",
+    "title": "North Carolina Nightjar Surveys",
+    "itemType": "project",
+    "status": "active",
+    "ownerFullName": "Lee Sherrill",
+    "ownerRole": "coordination",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Science Support",
+    "ownerTitle": "Mountain Biologist",
+    "ownerEmail": "lee.sherrill@ncwildlife.gov",
+    "contacts": [
+      {
+        "fullName": "Chris Kelly",
+        "firstName": "Chris",
+        "lastName": "Kelly",
+        "role": "coordinator",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Mountain Biologist",
+        "email": "christine.kelly@ncwildlife.gov",
+        "active": true
+      },
+      {
+        "fullName": "Lee Sherrill",
+        "firstName": "Lee",
+        "lastName": "Sherrill",
+        "role": "coordination",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Mountain Biologist",
+        "email": "lee.sherrill@ncwildlife.gov",
+        "active": true
+      },
+      {
+        "fullName": "Lee Sherrill",
+        "firstName": "Lee",
+        "lastName": "Sherrill",
+        "role": "coordination",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Mountain Biologist",
+        "email": "lee.sherrill@ncwildlife.gov",
+        "active": true
+      },
+      {
+        "fullName": "John Carpenter",
+        "firstName": "John",
+        "lastName": "Carpenter",
+        "role": "coordination",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Coastal Landbird Biologist",
+        "email": "john.carpenter@ncwildlife.gov",
+        "active": true
+      }
+    ],
+    "relatedItems": [
+      {
+        "title": "Nightjar Survey Network",
+        "id": "us-nightjar-network-surveys",
+        "itemType": "project"
+      },
+      {
+        "title": "North Carolina Wildlife Resources Commission",
+        "id": "north-carolina-wildlife-resources-commission",
+        "itemType": "organization"
+      }
+    ],
+    "tags": [
+      {
+        "tagtype": "tag",
+        "name": "monitoring"
+      },
+      {
+        "tagtype": "tag",
+        "name": "birds"
+      },
+      {
+        "tagtype": "tag",
+        "name": "community science"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-partners-in-amphibian-and-reptile-conservation",
+    "title": "North Carolina Partners in Amphibian and Reptile Conservation",
+    "itemType": "project",
+    "status": "active",
+    "ownerFullName": "Jeff Hall",
+    "ownerRole": "lead",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal",
+    "tags": [
+      {
+        "tagtype": "tag",
+        "name": "NCPARC"
+      },
+      {
+        "tagtype": "tag",
+        "name": "amphibians"
+      },
+      {
+        "tagtype": "tag",
+        "name": "reptiles"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-partners-in-flight",
+    "title": "North Carolina Partners in Flight",
+    "itemType": "project",
+    "status": "active",
+    "ownerFullName": "Scott Anderson",
+    "ownerRole": "lead",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Science Support"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-piedmont-and-coastal-plain-bachmans-sparrow-survey",
+    "title": "North Carolina Piedmont and Coastal Plain Bachmans Sparrow Survey",
+    "itemType": "project",
+    "status": "inactive",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-sea-turtle-nest-database",
+    "title": "North Carolina Sea Turtle Nest Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-species-assessment-tool",
+    "title": "North Carolina Species Assessment Tool",
+    "itemType": "project",
+    "summary": "The NC Species Assessment Tool was developed to ensure a scientifically-rigorous and more objective method for evaluating species for state listing. The tool is run by WRC staff, but with input from Scientific Councils.",
+    "version": 2024,
+    "status": "active",
+    "scope": "state",
+    "ownerFullName": "Scott Anderson",
+    "ownerRole": "lead",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Science Support",
+    "ownerTitle": "Science Support Coordinator",
+    "ownerEmail": "scott.anderson@ncwildlife.gov",
+    "contacts": [
+      {
+        "fullName": "Scott Anderson",
+        "firstName": "Scott",
+        "lastName": "Anderson",
+        "role": "lead",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Science Support Coordinator",
+        "email": "scott.anderson@ncwildlife.gov",
+        "active": true
+      },
+      {
+        "fullName": "Rachael Hoch",
+        "firstName": "Rachael",
+        "lastName": "Hoch",
+        "role": "coordination",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Aquatic Diversity Assistant Chief",
+        "email": "rachael.hoch@ncwildlife.gov",
+        "active": true
+      },
+      {
+        "fullName": "Sara Schweitzer",
+        "firstName": "Sara",
+        "lastName": "Schweitzer",
+        "role": "coordination",
+        "organization": "North Carolina Wildlife Resources Commission",
+        "title": "Wildlife Diversity Assistant Chief",
+        "email": "sara.schweitzer@ncwildlife.gov",
+        "active": true
+      }
+    ],
+    "files": [
+      {
+        "name": "North Carolina Species Assessment Tool Instruction Manual",
+        "title": "North Carolina Species Assessment Tool Instruction Manual",
+        "contentType": "application/pdf"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-wildlife-action-plan-2020",
+    "title": "North Carolina Wildlife Action Plan 2020",
+    "itemType": "plan",
+    "summary": "North Carolina's wildlife action plan describes conservation priorities for fish, wildlife, and habitats, especially for species and habitats at-risk of decline. The plan also explains the most concerning threats and impacts to species and habitats and outlines actions that can be implemented to address them. It also lists the numerous programs and efforts by partners and collaborators that support North Carolina's conservation priorities.",
+    "description": "North Carolina's Wildlife Action Plan (WAP) is a comprehensive planning tool developed by the N.C. Wildlife Resources Commission to help conserve and enhance the state\u2019s full array of fish and wildlife species and their habitats. State Wildlife Action Plans emerged from a mandate by the U.S. Congress that each state develop a comprehensive conservation strategy to be eligible for federal funding under the State Wildlife Grants program.\nSince submitting the state\u2019s first WAP in 2005, North Carolina has received an average $1.3 million dollars annually to support implementation of the conservation actions laid out in the Plan. In large part these funds have been used to support the Commission\u2019s Wildlife Diversity Program, which implements the WAP throughout North Carolina.\nThe 2015 WAP was developed in cooperation with numerous partners, including federal and state agencies, conservation organizations, and stakeholders. The Wildlife Commission received approval from the U.S. Fish & Wildlife Service for the comprehensive revision of the WAP on March 30, 2016.\nThe 2020 Addendum 1 is an interim revision to incorporate new web-based assessment tools, project results, species name and listing status changes, and revisions to the Species of Greatest Conservation Need (SGCN) list. Species of Greatest Conservation Need (SGCN) and other priority fish and wildlife can now be specifically targeted by carefully considering conservation or management options within essential habitats. The goal is to strategically target imperiled animals and their required habitats early, preventing them from becoming extinct. With the 2020 Addendum 1 to the NC Wildlife Action Plan, there are 483 SGCN listed in the Plan. This number includes amphibians, birds, crayfishes, freshwater fishes and mussels, mammals, reptiles, and terrestrial and aquatic snails evaluated by Wildlife Action Plan Taxa Teams of species experts. The SGCN also includes insect and marine species evaluated by others and determined to be a priority for conservation action. North Carolina\u2019s WAP describes 17 river basins and 40 types of aquatic, wetland, and terrestrial natural communities found across the state that provide important habitat to fish and wildlife. The plan matches each SGCN to the habitat type or river basin where it is found, identifies the most important threats facing each habitat, and details the priority conservation actions required to protect and conserve these species and habitats.",
+    "version": "2020",
+    "status": "active",
+    "scope": "state",
+    "ownerFullName": "Cindy Simpson",
+    "ownerRole": "coordination",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Habitat Conservation",
+    "ownerTitle": "Wildlife Action Plan Coordinator",
+    "ownerEmail": "cindy.simpson@ncwildlife.gov",
+    "relatedItems": [
+      {
+        "title": "North Carolina Wildlife Resources Commission",
+        "id": "north-carolina-wildlife-resources-commission",
+        "itemType": "organization",
+        "relationship": "owner"
+      }
+    ],
+    "files": [
+      {
+        "name": "NC Wildlife Action Plan 2020 Addendum 1",
+        "title": "NC Wildlife Action Plan 2020 Addendum 1",
+        "contentType": "application/pdf",
+        "url": "https://www.ncwildlife.org/media/3838/download?attachment",
+        "downloadUri": "https://www.ncwildlife.org/media/3838/download?attachment"
+      },
+      {
+        "name": "NC Wildlife Action Plan 2020 Addendum 1 - Updated Chapters Only",
+        "title": "NC Wildlife Action Plan 2020 Addendum 1 - Updated Chapters Only",
+        "contentType": "application/pdf",
+        "url": "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722",
+        "downloadUri": "https://www.ncwildlife.org/media/3838/download?attachment"
+      },
+      {
+        "name": "Appendix-GA1-1 Amphibians",
+        "title": "Appendix-GA1-1 Amphibians",
+        "contentType": "application/xlsx",
+        "url": "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722",
+        "downloadUri": "https://www.ncwildlife.org/media/3837/download?attachment"
+      },
+      {
+        "name": "Appendix-GA1-2 Birds",
+        "title": "Appendix-GA1-2 Birds",
+        "contentType": "application/xlsx",
+        "url": "https://www.ncwildlife.org/wildlife-habitat/wildlife-action-plan#2020Addendum1SGCNUpdates-1722",
+        "downloadUri": "https://www.ncwildlife.org/media/3836/download?attachment"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-wildlife-action-plan-2025",
+    "title": "North Carolina Wildlife Action Plan 2025",
+    "itemType": "plan",
+    "version": 2025,
+    "status": "active",
+    "scope": "state",
+    "ownerFullName": "Cindy Simpson",
+    "ownerRole": "coordination",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Habitat Conservation",
+    "ownerTitle": "Wildlife Action Plan Coordinator",
+    "ownerEmail": "cindy.simpson@ncwildlife.gov",
+    "spatial": {
+      "representationalPoint": {
+        "latitude": 35.7596,
+        "longitude": 79.0193
+      },
+      "boundingBox": {
+        "minX": -84.91,
+        "maxX": -75.31,
+        "minY": 33.05,
+        "maxY": 37.55
+      }
+    },
+    "tags": [
+      {
+        "tagtype": "tag",
+        "name": "plan"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "north-carolina-wildlife-resources-commission",
+    "title": "North Carolina Wildlife Resources Commission",
+    "itemType": "organization",
+    "status": "active",
+    "ownerFullName": "#N/A",
+    "ownerRole": "#N/A",
+    "ownerOrganization": "#N/A",
+    "ownerDivision": "#N/A",
+    "ownerProgram": "#N/A",
+    "ownerSection": "#N/A",
+    "ownerTitle": "#N/A",
+    "ownerEmail": "#N/A",
+    "relatedItems": [
+      {
+        "title": "AFC Landbird Committee",
+        "id": "afc-landbird-committee",
+        "itemType": "committee",
+        "relationship": "partner"
+      },
+      {
+        "title": "AFC Raptor Committee",
+        "id": "afc-raptor-committee",
+        "itemType": "committee",
+        "relationship": "partner"
+      },
+      {
+        "title": "AFC Shorebird Committee",
+        "id": "afc-shorebird-committee",
+        "itemType": "committee",
+        "relationship": "partner"
+      },
+      {
+        "title": "AFC Waterbird Committee",
+        "id": "afc-waterbird-committee",
+        "itemType": "committee",
+        "relationship": "partner"
+      },
+      {
+        "title": "AFWA Bird Conservation Committee",
+        "id": "afwa-bird-conservation-committee",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "AFWA PIF/Shorebird/Waterbird Working Group",
+        "id": "afwa-pif-shorebird-waterbird-working-group",
+        "itemType": "committee",
+        "relationship": "partner"
+      },
+      {
+        "title": "AFWA Wildlife Viewing and Nature Tourism Subcommittee",
+        "id": "afwa-wildlife-viewing-and-nature-tourism-subcommittee",
+        "itemType": "committee",
+        "relationship": "partner"
+      },
+      {
+        "title": "American Association of Fish and Wildlife Agencies",
+        "id": "american-association-of-fish-and-wildlife-agencies",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "Appalachian Mountains Joint Venture",
+        "id": "appalachian-mountains-joint-venture",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "Atlantic Coast Joint Venture",
+        "id": "atlantic-coast-joint-venture",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "Atlantic Flyway Council",
+        "id": "atlantic-flyway-council",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "Nightjar Survey Network",
+        "id": "us-nightjar-network-surveys",
+        "itemType": "project",
+        "relationship": "partner"
+      },
+      {
+        "title": "North Carolina Bird Atlas 2021",
+        "id": "north-carolina-bird-atlas-2021",
+        "itemType": "project",
+        "relationship": "owner"
+      },
+      {
+        "title": "North Carolina Natural Heritage Program",
+        "id": "north-carolina-natural-heritage-program",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "North Carolina Nightjar Surveys",
+        "id": "north-carolina-nightjar-surveys",
+        "itemType": "project",
+        "relationship": "owner"
+      },
+      {
+        "title": "North Carolina Partners in Amphibian Conservation",
+        "id": "north-carolina-partners-in-amphibian-conservation",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "North Carolina Partners in Flight",
+        "id": "north-carolina-partners-in-flight",
+        "itemType": "organization",
+        "relationship": "owner"
+      },
+      {
+        "title": "Partners in Flight",
+        "id": "partners-in-flight",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "Partners in Flight Eastern Working Group",
+        "id": "partners-in-flight-eastern-working-group",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "Peregrine Falcon Surveys",
+        "id": "peregrine-falcon-surveys",
+        "itemType": "project",
+        "relationship": "owner"
+      },
+      {
+        "title": "United States North American Bird Conservation Initiative",
+        "id": "united-states-north-american-bird-conservation-intiative",
+        "itemType": "organization",
+        "relationship": "partner"
+      },
+      {
+        "title": "Wildlife Management Institute",
+        "id": "wildlife-management-institute",
+        "itemType": "organization",
+        "relationship": "partner"
+      }
+    ],
+    "spatial": {
+      "representationalPoint": {
+        "latitude": 35.7596,
+        "longitude": 79.0193
+      },
+      "boundingBox": {
+        "minX": -84.91,
+        "maxX": -75.31,
+        "minY": 33.05,
+        "maxY": 37.55
+      }
+    }
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "partners-for-green-growth",
+    "title": "Partners for Green Growth",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Habitat Conservation"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "peregrine-falcon-monitoring-and-management",
+    "title": "Peregrine Falcon Monitoring and Management",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "pif-landbird-conservation-plan-2016",
+    "title": "PIF Landbird Conservation Plan 2016",
+    "itemType": "plan",
+    "version": "2016",
+    "status": "active",
+    "ownerOrganization": "Partners in Flight",
+    "relatedItems": [
+      {
+        "title": "North Carolina Wildlife Resources Commission",
+        "id": "north-carolina-wildlife-resources-commission",
+        "itemType": "organization"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "pine-barren-tree-frogs",
+    "title": "Pine Barren Tree Frogs",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "red-cockaded-woodpeckers",
+    "title": "Red-Cockaded Woodpeckers",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "riparian-breeding-bird-surveys",
+    "title": "Riparian Breeding Bird Surveys",
+    "itemType": "project",
+    "status": "inactive",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "salamander-monitoring",
+    "title": "Salamander Monitoring",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "sea-turtle-sand-and-nest-temperatures-database",
+    "title": "Sea Turtle Sand and Nest Temperatures Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "secretive-marshbird-surveys",
+    "title": "Secretive Marshbird Surveys",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "small-mammal-monitoring",
+    "title": "Small Mammal Monitoring",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "snake-surveys",
+    "title": "Snake Surveys",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "songbird-point-counts",
+    "title": "Songbird Point Counts",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "terrapin-tally-database",
+    "title": "Terrapin Tally Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "terrapin-tally-survey",
+    "title": "Terrapin Tally Survey",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "united-states-shorebird-conservation-plan-2001",
+    "title": "United States Shorebird Conservation Plan 2001",
+    "itemType": "plan",
+    "version": "2001",
+    "status": "active",
+    "ownerFullName": "#N/A",
+    "ownerRole": "#N/A",
+    "ownerOrganization": "#N/A",
+    "ownerDivision": "#N/A",
+    "ownerProgram": "#N/A",
+    "ownerSection": "#N/A",
+    "ownerTitle": "#N/A",
+    "ownerEmail": "#N/A",
+    "relatedItems": [
+      {
+        "title": "North Carolina Wildlife Resources Commission",
+        "id": "north-carolina-wildlife-resources-commission",
+        "itemType": "organization"
+      },
+      {
+        "title": "United States Fish and Wildlife Service",
+        "id": "united-states-fish-and-wildlife-service",
+        "itemType": "organization"
+      },
+      {
+        "title": "United States North American Bird Conservation Initiative",
+        "id": "united-states-north-american-bird-conservation-intiative",
+        "itemType": "organization"
+      },
+      {
+        "title": "United States North American Bird Conservation Initiative",
+        "id": "united-states-north-american-bird-conservation-intiative",
+        "itemType": "organization"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "us-nightjar-network-surveys",
+    "title": "US Nightjar Network Surveys",
+    "itemType": "project",
+    "description": "In recent years, conservationists and the general public have come to share a general sense that populations of nightjars - an elusive order of nocturnal and crepuscular aerial insectivores - are dramatically declining. However, there were no standardized data available to help describe these changes or to help with reversing population losses. This survey program was created by researchers at the Center for Conservation Biology in 2007 to gain a better understanding on population status of these birds by implementing a standardized approach across the nation that will help determine the magnitude and scale of population changes to inform conservation and management actions. The Nightjar Survey Network relies entirely on volunteer participation. The program is coordinated as a partnership between the Maine Natural History Observatory and Birds Canada with the support of partner organizations at state and local levels throughout the continent.",
+    "status": "active",
+    "ownerFullName": "#N/A",
+    "ownerRole": "#N/A",
+    "ownerOrganization": "#N/A",
+    "ownerDivision": "#N/A",
+    "ownerProgram": "#N/A",
+    "ownerSection": "#N/A",
+    "ownerTitle": "#N/A",
+    "ownerEmail": "#N/A",
+    "relatedItems": [
+      {
+        "title": "Maine Natural History Observatory",
+        "id": "maine-natural-history-observatory",
+        "itemType": "organization"
+      },
+      {
+        "title": "North Carolina Nightjar Surveys",
+        "id": "north-carolina-nightjar-surveys",
+        "itemType": "project"
+      }
+    ]
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "wayne's-black-throated-green-warbler",
+    "title": "Wayne's Black-throated Green Warbler",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "wayne's-black-throated-green-warbler-data-collection",
+    "title": "Wayne's Black-throated Green Warbler Data Collection",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Coastal"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "western-north-carolina-game-lands-bird-surveys",
+    "title": "Western North Carolina Game Lands Bird Surveys",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "western-north-carolina-incidental-observations",
+    "title": "Western North Carolina Incidental Observations",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "western-timber-rattlesnake-database",
+    "title": "Western Timber Rattlesnake Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "western-turtles",
+    "title": "Western Turtles",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "woodrat-project",
+    "title": "Woodrat Project",
+    "itemType": "project",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  },
+  {
+    "$schema": "https://ncpif.org/ncsb.schema.json",
+    "id": "wrc-western-snake-and-lizard-database",
+    "title": "WRC Western Snake and Lizard Database",
+    "itemType": "data",
+    "status": "active",
+    "ownerOrganization": "North Carolina Wildlife Resources Commission",
+    "ownerDivision": "Wildlife Management",
+    "ownerProgram": "Wildlife Diversity",
+    "ownerSection": "Mountains"
+  }
+]

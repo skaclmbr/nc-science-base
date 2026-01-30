@@ -5,8 +5,9 @@ account: ncbirdconservation
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12703954
-bundleId: 9099203
+bundleId: 9847990
 url: https://ncbirdconservation.shinyapps.io/nc_science_base/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: app_json_reader.r|app_locked.r|examples/ncsb_examples.json|examples/search_query.json|examples/usgs_science_base_example.json|ncsb.contact.schema.json|ncsb.geographical-location.schema.json
